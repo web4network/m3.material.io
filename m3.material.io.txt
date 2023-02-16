@@ -1,0 +1,180 @@
+https://github.com/material-components/material-web/issues/3709
+
+
+
+
+
+C:\dev\workspace\material-you-catalog-angular
+C:\dev\workspace\material-you-catalog-react
+C:\gitrepo\github.com\ZakAlbert\react-material-you-theme
+C:\dev\workspace\m3.material.io\m3.material.io
+
+
+
+
+
+<mio-article-page>
+<mio-carbon-component>
+<mio-carbon-export-button>
+<mio-card-set>
+<mio-card>
+<mio-components-landing-page>
+<mio-cookie-notice>
+<mio-dark-mode-switch>
+<mio-figure>
+<mio-footer>
+<mio-guide-page>
+<mio-header>
+<mio-homepage-hero-video>
+<mio-icon-badge>
+<mio-image>
+<mio-landing-page>
+<mio-left-nav-rail>
+<mio-navigation-drawer-item>
+<mio-navigation-drawer>
+<mio-not-found-page>
+<mio-root>
+<mio-theme-builder>
+<mio-tile-set>
+<mio-tile>
+<mio-toc>
+<mio-toolbar>
+<mio-video>
+
+
+<mwc-button
+<mwc-drawer
+<mwc-icon
+<mwc-icon-button
+<mwc-ripple
+<mwc-top-app-bar-fixed
+
+
+
+
+
+
+C:\dev\workspace\m3.material.io>serve m3.material.io
+
+
+
+
+
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/091d4b7c-1ab2-4050-963a-4e2558ee5d08.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/17aed561-a58a-44d4-852e-1e5be253a641.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/1a23fbe7-0474-444c-abfb-717bb148d3a8.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/1af1b3fd-161c-4193-8289-202aa88599b4.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/1d658c3f-ba19-48be-9b71-872c72c7166e.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/1e52f150-575c-45fa-8f5f-75868c5ab068.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/23b84814-755b-469b-83a9-771fe027b0c0.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/24b60c3f-1ec7-48df-b175-0d8e011a8106.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/26cf2750-80f7-43f8-a155-834aa01276df.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/276f1bd7-d048-49fd-8483-f267f2ece13d.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/2b9bdc79-df8e-4ad2-bdca-e0a3f083cd33.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/3344996a-725a-49bf-a016-3c508c4798fc.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/38354be9-206b-4988-96a8-0f2a88074511.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/409b50be-403a-4846-932c-706a9b2137dd.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/4135ef28-314c-44dc-b829-6e94a36b69f2.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/4163ac4c-6c79-4d48-9283-89a13a43ed5e.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/4d160e88-c954-4614-8d11-4ec3ed399c92.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/523144a0-9184-44bd-93f0-5b4c7355f421.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/576e0571-c338-484e-b0e4-2bf2c5756333.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/592d28d0-0c82-4642-a203-556b1e0581b0.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/5e04e8f6-7da6-475e-a1b0-3818021c0cea.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/6d4033c2-f92c-4c43-b585-b3bce8468d48.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/708a1b29-5bcf-4eb5-b66f-a6695800f361.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/71391cd0-92f8-4a8e-a625-828f5413a221.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/79c01ab5-d09a-4f6c-9aca-f76d310583bc.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/843ffaa9-e73e-45a7-bff7-f198cac0a7c8.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/86fc4d01-faf8-40d5-85e3-26d9111db5ab.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/8741ef66-1a80-4b39-adb1-66bea5e6992f.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/94487cf5-eb79-43b1-b6b1-470512cfcc88.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/98fe42bd-9bb1-4307-9e92-e61e57c3e9da.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/9a92bb46-ccc8-4752-a144-b770d47fe1dd.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/9e4cdffa-f7fd-425f-9915-867aafbcc7d6.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/a4ad43f1-5c39-44b2-ae15-a7110bdf4fa6.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/a860ede6-c1a2-4868-a8e9-ca2f01d76dd7.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/aa6f9af2-d539-4b22-9af5-838e7cfc4a85.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/abae98fd-d828-44f8-bb66-9ee8746f6073.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/b3339b30-4a6d-49b6-9a8b-8e581b2b1204.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/bf7d5b2a-0329-47c4-95a7-9a749c60e580.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/c0332583-8417-4b80-a0a1-e283781d31c6.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/ccf2c3e9-82b5-4c4a-9570-b0d08d95c0c1.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/d2a1a290-0db4-4622-8a4b-bd11b6a4ec8d.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/d82ab2cd-75e3-4cd0-8117-ff5ccbc8de85.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/e168c820-1e32-47af-8b0f-8960299aff3c.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/e18a73ff-b00d-46e7-af20-ab9dd24bf579.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/e31df68a-59d4-41dc-8743-8c48b476d4f8.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/ec8e6da4-b726-403d-bab7-3fb660b6ef86.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/f37f47ba-8e67-4f1e-98a3-3bea94879e52.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/_dsm/content/m3/2022-09-22_17-28-16/f6a1d89a-1bbf-46d1-a177-f13b074897a5.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/api/country_code
+wget -r -p -np -k -e robots=off  https://m3.material.io/favicon.ico
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/4550268829827072.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/4580168479539200.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/4684372405649408.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/4900309356511232.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/4967494451986432.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/4984542628413440.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5015303666532352.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5047690081337344.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5123887511764992.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5255504477290496.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5255912768012288.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5274907658944512.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5317529291587584.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5339758096154624.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5478118281969664.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5584597953544192.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5732087063379968.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5745769893855232.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5785703023771648.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5802867050676224.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/5818407454900224.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/6007075939418112.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/6059337873227776.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/6132503911596032.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/6300061889855488.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/6466759209123840.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/6512828169191424.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/6665545327575040.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/ComponentsM3/6718319889612800.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/4574902279208960.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/4582927777923072.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/4653878808936448.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/4701069397590016.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/4956189951655936.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/5180731982348288.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/5232418357379072.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/5290068092387328.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/5348033117814784.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/5370607889547264.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/5485575272529920.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/5623682776694784.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/5644074295754752.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/5709881897910272.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/6022048224378880.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/6266397839327232.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/6396979944620032.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/6401633172586496.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidelinesM3/6411266230583296.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/GuidesM3/6059193656279040.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/LandingPagesM3/5854274324135936.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/LandingPagesM3/6245398171746304.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/page-data/LandingPagesM3/6728008782184448.json
+wget -r -p -np -k -e robots=off  https://m3.material.io/static/angular/1-es2015.90aca4033798e24443c8.js
+wget -r -p -np -k -e robots=off  https://m3.material.io/static/angular/main-es2015.fef62652504e6d34e2a6.js
+wget -r -p -np -k -e robots=off  https://m3.material.io/static/angular/polyfills-es2015.f33b512c3e4a095959b3.js
+wget -r -p -np -k -e robots=off  https://m3.material.io/static/angular/runtime-es2015.959b4726f7e044e683c4.js
+wget -r -p -np -k -e robots=off  https://m3.material.io/static/angular/styles.893f64d2ba1e6bf66f42.css
+wget -r -p -np -k -e robots=off  https://m3.material.io/static/assets/list-bullet.svg
+wget -r -p -np -k -e robots=off  https://m3.material.io/static/assets/m3-favicon.ico
+wget -r -p -np -k -e robots=off  https://m3.material.io/static/assets/m3-favicon.svg
+wget -r -p -np -k -e robots=off  https://m3.material.io/static/assets/m3-green-theming-thumbnail.jpg
+wget -r -p -np -k -e robots=off  https://m3.material.io/static/assets/m3-red-theming-thumbnail.jpg
+wget -r -p -np -k -e robots=off  https://m3.material.io/static/assets/m3-yellow-theming-thumbnail.jpg
+
+
+
+
+
