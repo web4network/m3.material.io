@@ -1,1 +1,68 @@
-{"dark_component_image_2x1": {}, "title": "Dynamic color", "dark_component_image_3x2": {}, "dark_component_image_3x1": {}, "component_image_2x1": {}, "component_image_1x1": {}, "metadata": {"share_description": "Beginning with Android 12, users can generate individualized schemes through wallpaper selection and other customization settings.", "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, dynamic color, color, theme, theming, brand, branding, customization", "share_image": {"url": "https://lh3.googleusercontent.com/BCK1m9CH-ugPpwgAPVC7EuAgxX251DIqQ7dJ2EmO8vKs_pbShZ4ceQKwTgP2TZKoT8T6d33BX4-AVUYGsl9C0UQ2qJfMx9KXHvq70RYJ6Sx-Av-Fqc0B", "width": 1801, "height": 900, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/65ff7074d71f3e6363f462bbcf299c6c4ecef1aa19fdd1796c23a08b0e4ec2b828c943afb5d43c994e011cac24c3d5cc28a77b7bbaf95d5d4c63eb87ab7b6483"}, "share_title": "Dynamic color \u2013 Material Design 3"}, "isDisplayed": true, "description": null, "document_id": "5623682776694784", "category": null, "jetpack": {}, "ia_title": "Styles / Color / Dynamic color", "component_image_position": "center", "hero": {"background_image": {"url": "https://lh3.googleusercontent.com/RY0vSndUvP4ErZbsZkO_QqlOpxED-KlgCb-bMZ5zHyMNSgMkNRU5p6UAflwDiwdvUr-nS7rLKjWtPHY0N3ypkVTq1gKLc2EWAYmskhp-Xg8CMe5Jw6c", "width": 2400, "height": 720, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/75066c0df51cdf35bbf91a03e176ef1aeb973433f5963d1d0dffa10f721113426c0a7b3d2341afa5149faffe48f2561decff9557c4295a7e433fa7f51676a8be"}, "foreground_image_alignment": "top", "foreground_image_svg": null, "foreground_text_light": false, "foreground_image": {}}, "mdc_web": {}, "page_hero": {"split_background_image_dark_mode": {}, "foreground_image_1x1": {}, "full_width": true, "main_background_image_dark_mode": {"url": "https://lh3.googleusercontent.com/vWVzwNCEFtFTvBXukxgrU5z3UCdS9dch4mk53ecNiGvLk_M3AY5axrKtFnjJ91IKNXGHBmd8SU4YBAtJ5hpEu-1IL2jh5lgwW-bs-qJ1jnzoANIMEPU", "width": 4800, "height": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/a4530d34359ca9a0d6acadf83d175d401501d32e70374cd9c8627d2a9903f5553dc5dcb0d195b61f16750fbf3033e86e0d5cb0402011c9b9ded0eb667e921a9e"}, "foreground_image_2x1": {}, "vertical_foreground_alignment_override": null, "foreground_image_2x1_dark_mode": {}, "horizontal_foreground_alignment_override": null, "foreground_image_1x1_dark_mode": {}, "split_background_image": {}, "full_width_content_centered": false, "main_background_image": {"url": "https://lh3.googleusercontent.com/gyZX8XZInN1k3HAPLPZC58kPVO1O3GU-k2cUAS5GtfTLeZTZ1_r7zhA_o97W-xKWP8CI0yNQKVvjAntgRfEMcWR5w5GO2eaTA6xvySW6MyyZckh0rw", "width": 4800, "height": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/7a31a22ea75f9d3eb789cd3c15a5de318d9e6bff5ef9bbbc8b93204ee853816a2b3fbb025e1793889d1ee0accf343dcd2323a19bf9e2ef2647f3e76823ab7e19"}}, "mdc_flutter": {}, "component_image_3x1": {}, "component_image_3x2": {}, "mdc_android": {}, "dark_component_image_1x1": {}}
+{
+  "dark_component_image_2x1": {},
+  "title": "Dynamic color",
+  "dark_component_image_3x2": {},
+  "dark_component_image_3x1": {},
+  "component_image_2x1": {},
+  "component_image_1x1": {},
+  "metadata": {
+    "share_description": "Beginning with Android 12, users can generate individualized schemes through wallpaper selection and other customization settings.",
+    "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, dynamic color, color, theme, theming, brand, branding, customization",
+    "share_image": {
+      "url": "/lh3.googleusercontent.com/BCK1m9CH-ugPpwgAPVC7EuAgxX251DIqQ7dJ2EmO8vKs_pbShZ4ceQKwTgP2TZKoT8T6d33BX4-AVUYGsl9C0UQ2qJfMx9KXHvq70RYJ6Sx-Av-Fqc0B",
+      "width": 1801,
+      "height": 900,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/65ff7074d71f3e6363f462bbcf299c6c4ecef1aa19fdd1796c23a08b0e4ec2b828c943afb5d43c994e011cac24c3d5cc28a77b7bbaf95d5d4c63eb87ab7b6483"
+    },
+    "share_title": "Dynamic color \u2013 Material Design 3"
+  },
+  "isDisplayed": true,
+  "description": null,
+  "document_id": "5623682776694784",
+  "category": null,
+  "jetpack": {},
+  "ia_title": "Styles / Color / Dynamic color",
+  "component_image_position": "center",
+  "hero": {
+    "background_image": {
+      "url": "/lh3.googleusercontent.com/RY0vSndUvP4ErZbsZkO_QqlOpxED-KlgCb-bMZ5zHyMNSgMkNRU5p6UAflwDiwdvUr-nS7rLKjWtPHY0N3ypkVTq1gKLc2EWAYmskhp-Xg8CMe5Jw6c",
+      "width": 2400,
+      "height": 720,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/75066c0df51cdf35bbf91a03e176ef1aeb973433f5963d1d0dffa10f721113426c0a7b3d2341afa5149faffe48f2561decff9557c4295a7e433fa7f51676a8be"
+    },
+    "foreground_image_alignment": "top",
+    "foreground_image_svg": null,
+    "foreground_text_light": false,
+    "foreground_image": {}
+  },
+  "mdc_web": {},
+  "page_hero": {
+    "split_background_image_dark_mode": {},
+    "foreground_image_1x1": {},
+    "full_width": true,
+    "main_background_image_dark_mode": {
+      "url": "/lh3.googleusercontent.com/vWVzwNCEFtFTvBXukxgrU5z3UCdS9dch4mk53ecNiGvLk_M3AY5axrKtFnjJ91IKNXGHBmd8SU4YBAtJ5hpEu-1IL2jh5lgwW-bs-qJ1jnzoANIMEPU",
+      "width": 4800,
+      "height": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/a4530d34359ca9a0d6acadf83d175d401501d32e70374cd9c8627d2a9903f5553dc5dcb0d195b61f16750fbf3033e86e0d5cb0402011c9b9ded0eb667e921a9e"
+    },
+    "foreground_image_2x1": {},
+    "vertical_foreground_alignment_override": null,
+    "foreground_image_2x1_dark_mode": {},
+    "horizontal_foreground_alignment_override": null,
+    "foreground_image_1x1_dark_mode": {},
+    "split_background_image": {},
+    "full_width_content_centered": false,
+    "main_background_image": {
+      "url": "/lh3.googleusercontent.com/gyZX8XZInN1k3HAPLPZC58kPVO1O3GU-k2cUAS5GtfTLeZTZ1_r7zhA_o97W-xKWP8CI0yNQKVvjAntgRfEMcWR5w5GO2eaTA6xvySW6MyyZckh0rw",
+      "width": 4800,
+      "height": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/7a31a22ea75f9d3eb789cd3c15a5de318d9e6bff5ef9bbbc8b93204ee853816a2b3fbb025e1793889d1ee0accf343dcd2323a19bf9e2ef2647f3e76823ab7e19"
+    }
+  },
+  "mdc_flutter": {},
+  "component_image_3x1": {},
+  "component_image_3x2": {},
+  "mdc_android": {},
+  "dark_component_image_1x1": {}
+}

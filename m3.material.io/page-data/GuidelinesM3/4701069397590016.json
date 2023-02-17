@@ -1,1 +1,68 @@
-{"ia_title": "Styles / Motion / Transitions", "component_image_3x2": {}, "component_image_3x1": {}, "dark_component_image_3x1": {}, "dark_component_image_3x2": {}, "jetpack": {}, "mdc_flutter": {}, "dark_component_image_2x1": {}, "isDisplayed": true, "category": null, "page_hero": {"foreground_image_1x1": {}, "full_width": true, "split_background_image_dark_mode": {}, "full_width_content_centered": false, "main_background_image": {"url": "https://lh3.googleusercontent.com/a2wv98tNEMjVuAuI7gjpKnI3m81JK9rL9HbzYSe8gGvAf24M3dzOjSL2q0xKuH2BSBL1WOAl9074RViDx-rpBt5km7bj25Do6kJJnH14rXi5Ntx6k5U", "width": 4800, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/6e83740083dd626d4d42f96420be4913314f82843aecb0cde51e604647aa62239184365e4eb0e8b89facfbf1fd89b5b4f76e50bf50d546ba351d770b77fababa", "height": 2400}, "foreground_image_2x1": {}, "foreground_image_1x1_dark_mode": {}, "main_background_image_dark_mode": {"url": "https://lh3.googleusercontent.com/9oAZlgEsKNqABGkGQ87usnYIeKdCM1qeBvz6ESGx6DryNGw413kYIq8fh9kTwUrd7wt1sZUvUuqlgFjKfuFs4zcFxq9uicU-8l4m-aVKbAICyC0zwQ", "width": 4800, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/20f41cc92a5e552c3ff1abee05850ee3d496241a3bf22162f241ca0503d2ccc96dd5e96178dcb07c9a652007a0f92a6494b1a7fde8e1acbbf982600312617a91", "height": 2400}, "horizontal_foreground_alignment_override": null, "foreground_image_2x1_dark_mode": {}, "split_background_image": {}, "vertical_foreground_alignment_override": null}, "metadata": {"keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, color, theme, theming, brand, branding, customization", "share_image": {"url": "https://lh3.googleusercontent.com/BfQZhNq0cVuMiUuEmlnT8fsQ5bBlWQMqhitTsmWhXrX5rbXXRGoSucW5mIHkqNrIg3RmhWMc1lEXcFMLR7uUKvfTcmH8hLWJditgskcTl5prdRlp2FE", "width": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/4ad0daf3ba35dbc2a23181bebc12f58719c963250e5552465ce1c517b85f286b38e025167b1b22e6a608fc470777b62221d25fee8386bf42c704acadabd4f302", "height": 1200}, "share_title": "Transitions \u2013 Material Design 3", "share_description": "Transitions help guide users as they navigate an app."}, "title": "Transitions", "hero": {"foreground_image_alignment": "top", "foreground_image_svg": null, "foreground_text_light": false, "foreground_image": {}, "background_image": {"url": "https://lh3.googleusercontent.com/SpBCwxefUC-hKjUnSExKmyh7ePAa_mJqew3Lw_yVA9inz8ac6Vggt063LnV3NZjbAJXCGgxkc4SEUBLVWLrsvaBw9tn2OwP2gOwosQlAIR2ldQes6S0", "width": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/994828d525d252e46e6a124499bbcc74bcf01fe38e8420cbfa44d16d079d7eded696a25ca81b300b6316f609863d314c6e13e5ffb879598bafbca4fd524e75a5", "height": 800}}, "component_image_2x1": {}, "component_image_position": "center", "component_image_1x1": {}, "document_id": "4701069397590016", "dark_component_image_1x1": {}, "mdc_android": {}, "mdc_web": {}, "description": null}
+{
+  "ia_title": "Styles / Motion / Transitions",
+  "component_image_3x2": {},
+  "component_image_3x1": {},
+  "dark_component_image_3x1": {},
+  "dark_component_image_3x2": {},
+  "jetpack": {},
+  "mdc_flutter": {},
+  "dark_component_image_2x1": {},
+  "isDisplayed": true,
+  "category": null,
+  "page_hero": {
+    "foreground_image_1x1": {},
+    "full_width": true,
+    "split_background_image_dark_mode": {},
+    "full_width_content_centered": false,
+    "main_background_image": {
+      "url": "/lh3.googleusercontent.com/a2wv98tNEMjVuAuI7gjpKnI3m81JK9rL9HbzYSe8gGvAf24M3dzOjSL2q0xKuH2BSBL1WOAl9074RViDx-rpBt5km7bj25Do6kJJnH14rXi5Ntx6k5U",
+      "width": 4800,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/6e83740083dd626d4d42f96420be4913314f82843aecb0cde51e604647aa62239184365e4eb0e8b89facfbf1fd89b5b4f76e50bf50d546ba351d770b77fababa",
+      "height": 2400
+    },
+    "foreground_image_2x1": {},
+    "foreground_image_1x1_dark_mode": {},
+    "main_background_image_dark_mode": {
+      "url": "/lh3.googleusercontent.com/9oAZlgEsKNqABGkGQ87usnYIeKdCM1qeBvz6ESGx6DryNGw413kYIq8fh9kTwUrd7wt1sZUvUuqlgFjKfuFs4zcFxq9uicU-8l4m-aVKbAICyC0zwQ",
+      "width": 4800,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/20f41cc92a5e552c3ff1abee05850ee3d496241a3bf22162f241ca0503d2ccc96dd5e96178dcb07c9a652007a0f92a6494b1a7fde8e1acbbf982600312617a91",
+      "height": 2400
+    },
+    "horizontal_foreground_alignment_override": null,
+    "foreground_image_2x1_dark_mode": {},
+    "split_background_image": {},
+    "vertical_foreground_alignment_override": null
+  },
+  "metadata": {
+    "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, color, theme, theming, brand, branding, customization",
+    "share_image": {
+      "url": "/lh3.googleusercontent.com/BfQZhNq0cVuMiUuEmlnT8fsQ5bBlWQMqhitTsmWhXrX5rbXXRGoSucW5mIHkqNrIg3RmhWMc1lEXcFMLR7uUKvfTcmH8hLWJditgskcTl5prdRlp2FE",
+      "width": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/4ad0daf3ba35dbc2a23181bebc12f58719c963250e5552465ce1c517b85f286b38e025167b1b22e6a608fc470777b62221d25fee8386bf42c704acadabd4f302",
+      "height": 1200
+    },
+    "share_title": "Transitions \u2013 Material Design 3",
+    "share_description": "Transitions help guide users as they navigate an app."
+  },
+  "title": "Transitions",
+  "hero": {
+    "foreground_image_alignment": "top",
+    "foreground_image_svg": null,
+    "foreground_text_light": false,
+    "foreground_image": {},
+    "background_image": {
+      "url": "/lh3.googleusercontent.com/SpBCwxefUC-hKjUnSExKmyh7ePAa_mJqew3Lw_yVA9inz8ac6Vggt063LnV3NZjbAJXCGgxkc4SEUBLVWLrsvaBw9tn2OwP2gOwosQlAIR2ldQes6S0",
+      "width": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/994828d525d252e46e6a124499bbcc74bcf01fe38e8420cbfa44d16d079d7eded696a25ca81b300b6316f609863d314c6e13e5ffb879598bafbca4fd524e75a5",
+      "height": 800
+    }
+  },
+  "component_image_2x1": {},
+  "component_image_position": "center",
+  "component_image_1x1": {},
+  "document_id": "4701069397590016",
+  "dark_component_image_1x1": {},
+  "mdc_android": {},
+  "mdc_web": {},
+  "description": null
+}

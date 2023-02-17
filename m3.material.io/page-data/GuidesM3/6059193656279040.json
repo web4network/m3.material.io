@@ -1,1 +1,329 @@
-{"title": "Get Started", "hero_image_dark": {"height": 2468, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/b7617ae65e1aa9e7d3ecb74b8eaa104e68534a522e817d2ca398f5f344974da2c82e1f0ae25a5f9989dc5a7b1db372b11ab4dcda8dc4f48e6dcc5ec569bbcf0d", "url": "https://lh3.googleusercontent.com/0ZnL2zDiDVmtuWCeKL6K552nCk4idZVPXHeLgoXEXexXng3yBnj18gVbOXP27Rxyp4I0TI0Pu2Lr32Y3m5hvKronFP-muIHVEOBjpAVO35RvfqD07g", "width": 2800}, "document_id": "6059193656279040", "hero_image": {"height": 2468, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/c7c307dd50dfa30c3c4a4184fcaad9d8c561201362a8cdb2026ac842aa70c0e7a4a7ab0f3f4295b693dbab870312e4e717b7d9d578958b6009990595cc214ba0", "url": "https://lh3.googleusercontent.com/56hiZfyb2EPY34-CEPG71OmvOGBTHLLhabrKW37cc13w4xp5cs-9Rel-zQO0anoqEejUOE6ZZPckCPVlgpG6N6rVDqoKQ7VA9iS9iHcR2jsGBDvrf0U", "width": 2800}, "metadata": {"share_image": {}, "share_title": null, "share_description": null, "keywords": null}, "description": "<p>Get to know Material 3 &ndash; from UX guidance and tools to reusable components and open-source code</p>", "sections": [{"background_image_2x1_dark": {"height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/8465f5448557b25de92b75652e0b9dd6cf0efd0a3c2f18b2c1dccd8b7e1013743aa4971579fe0b110b7d1d039e6bf22b9cb0f12e13884b3ea5c2e2de2b50baa9", "url": "https://lh3.googleusercontent.com/Tz7UMS6jOjDrLI1ZpRv4WshSCNFooVKvclkIQL6Ahk9RifiueQl48lAGYbvNJrcuxYWibmh88eYU-ZBRcqbSEQ3AybuelQ_Dcwn5PuKna7wcqp7tVA", "width": 2400}, "title": "What's Material?", "short_description": "Learn how Material enables beautiful product design at Google scale", "background_image_2x1": {"height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/1ef049aa776ec804ca593fbd46ef624cd4523fa87765b13ac97e10badf5b294466e1380abd5f9e9779e0cfeb564d5e67f2bb188492981419babcb60a7455127e", "url": "https://lh3.googleusercontent.com/MQWKG0HfYeMhRPHI-ELNLelt0gX8dfgb_weX8gMZ15yPYV43YsYoRExqc1_9g_y3roqscZMbbsFpMHTUxA9J_EkudUI7h8Fb8cau1e-XIQoc00kVg4M", "width": 2400}, "description": "<p><span style=\"white-space: pre-wrap; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">Material Design is a design system built and supported by Google designers and developers. </span><span style=\"white-space: pre-wrap; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\"><strong>Material.io</strong> includes in-depth UX guidance and UI component implementations for Android, Flutter, and the Web. <br /><br /></span><span style=\"white-space: pre-wrap;\">The latest version, Material 3, enables p</span><span style=\"white-space: pre-wrap; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">ersonal, adaptive, and expressive experiences &ndash; f</span><span style=\"white-space: pre-wrap; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">rom dynamic color and enhanced accessibility, to foundations for large screen layouts and design tokens.</span></p>", "background_image_3x4": {"height": 4000, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/b371e0866a0f3fde1f95c9b2f23ce6691acb87ef8282dcc34c2613d1546435bae022f4ba912ac9921fd612c4470955edfa75f9e83f2a862bd46f4f5d3d2d2544", "url": "https://lh3.googleusercontent.com/NAwI7k6MqTjvxHrCCOsjn04JjEx78oF0CDB9cn5H2ieYrjFHQDB_hOx9jV5gKxRmHg-151hPgP9cMgF1wl0F_6I1gQo4T5oIw9BEBNyoUZyOWDcTYLw", "width": 3000}, "background_image_3x4_dark": {"height": 4000, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/b09e273229593dc16db62af99eed4f8f6b9fce2727ca799572173022a126f32e7bdea72712b6cd689c2cb74d9a43eaffd338a9c8e31e8717187f48b9e43d63d4", "url": "https://lh3.googleusercontent.com/XQByYnWbyuby_8byRsflu0KQ-rp0s303nwvr_Y89xrJUgq7v1o8wCzLlN0xs-uvjutTyBGp5HCwK6fNp8nBvVcR30ApCSumnPZqy3_Sl9ZVjbBsPDQ", "width": 3000}, "cards": [{"title": "UX foundations", "size": "small", "link": {"aria_label": null, "label": "Foundations", "open_new_window": false, "href": "/foundations"}, "icon": "book", "description": "Foundations like color, type, and shape are customizable systems in Material", "background_image": {}, "thumbnail_image": {}, "overline": null}, {"title": "Open-source code", "size": "small", "link": {"aria_label": null, "label": "Develop", "open_new_window": false, "href": "/develop"}, "icon": "code", "description": "Multi-platform code to build beautiful products, faster", "background_image": {}, "thumbnail_image": {}, "overline": null}, {"title": "Tutorials, case studies & news", "size": "small", "link": {"aria_label": null, "label": "Material Blog", "open_new_window": true, "href": "https://material.io/blog"}, "icon": "pages", "description": "Follow Material's blog for updates, deep dives, and more", "background_image": {}, "thumbnail_image": {}, "overline": null}]}, {"background_image_2x1_dark": {"height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/b18c26ce865c23898e53ca3cca3efee82fb3bab327f7a017325c10580ad9c342ce586d063ee83181be143928dc170bb4a97d08fa7f046f1a336e727637c68d12", "url": "https://lh3.googleusercontent.com/9Y-XiuGRb5T2VG9ypNb5RbkSbwKLOifVYAIoBK3KXUb5kKG8-lqWo5ufY956JZCkO9W3QBQt31z99MYKT1W-GDb0Nl9p_k2TsjAiTM3SePcuMpdP6Nc", "width": 2400}, "title": "Using Material", "short_description": "Get to know Material.io and our top resources", "background_image_2x1": {"height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/5c37540eb362ced7893bc1d0f1aaaeb355f8f5b51a33274360e02cad12ed19cbda59aa736d15c773bcf163364dd78ec0331ae94ef0d06469e1aabee495807f1b", "url": "https://lh3.googleusercontent.com/h-qZZRoAZmpv2Bjgj-477cDo0eSPwug4sv5wDpJHrzcSAEAwpMCoHnURx9i1aRshL1NTTSTnd9mQPms4uf4kbkHg-IvfI78WYcq4388YwlWtnSLuVg", "width": 2400}, "description": "<p><span style=\"white-space: pre-wrap;\">On Material.io, the design system is organized in three main parts: <strong>foundations</strong>, <strong>styles</strong>, and <strong>components</strong>. Each section includes design guidance and tools to help you customize and build with Material.</span></p>", "background_image_3x4": {"height": 4000, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/e9f05bef0c462a384e1febf56473221c461860b8d38337a0a1a28a34db2ef0e762ac2c671ed9470e11f0db2fec1f373a4e13348c612182aee1beb3abe84065a9", "url": "https://lh3.googleusercontent.com/khJSZ447U1WLnhvDgrifbGfWhhZOQsOZ5KHby5Q-JKaPtnqLsbY_J8nyzU3C1NEi0x14AfizRI6XDFmJp2pKGosXQoba5QGSejSkav_oz8Co38UyNA", "width": 3000}, "background_image_3x4_dark": {"height": 4000, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/b8abd9e0f2ae4ef1df3cd9c5ad5904b1a366e71b4c6893ea969a764b139bb42f929ee1e1a96dc8d461e7b25f0f9c8c022f7c47301f96c7c94eb697da183e938d", "url": "https://lh3.googleusercontent.com/JuW1ZD4t9g_V2Wal31Y910lD5W0B8PL37PHcr81vOZ8QMfxIBq2FmrzM7ubNE2P9sGBdCKh-NeHryHRP9enGKQOUE3qSVFHNyKje6rLO3c00qV8WYCkN", "width": 3000}, "cards": [{"title": "Foundations & customization", "size": "small", "link": {"aria_label": null, "label": "Foundations", "open_new_window": false, "href": "/foundations"}, "icon": "book", "description": "Accessibility, layout, interaction states, design tokens, and more", "background_image": {}, "thumbnail_image": {}, "overline": null}, {"title": "Styles", "size": "small", "link": {"aria_label": null, "label": "Styles", "open_new_window": false, "href": "/styles"}, "icon": "palette", "description": "Systems for applying color, type, icons, motion, and shape", "background_image": {}, "thumbnail_image": {}, "overline": null}, {"title": "Components", "size": "small", "link": {"aria_label": null, "label": "Components", "open_new_window": false, "href": "/components"}, "icon": "add_circle", "description": "Customizable UI elements, from menus to buttons to dialogs", "background_image": {}, "thumbnail_image": {}, "overline": null}]}, {"background_image_2x1_dark": {"height": 2000, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/88ed7363293c8c9fe0f7fe132727484cced1033472581479f841f5437a43461e90a43d4be0865e495b480bad49bfd701486d5fdf8d362068656cc0be4c3dbe89", "url": "https://lh3.googleusercontent.com/Jh_TEVO-gBzrFMtRXLCR6AADTOc77YhIxSzRZVez8ZELqeT5l9lZWbzokew4KuuijzdK3m-uF-_TlWIrMhumFt1sA3vxMP3Kczmc6Abnl8X74QwVMB8", "width": 3200}, "title": "Design", "short_description": "Start applying color, type, adaptive design patterns, and more", "background_image_2x1": {"height": 2000, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/45cc5c20ba517a426413d240c29d0e3174930297f561e8da1bacf82790d66ee3300506321711c38e79b099b79c8fa24c7797fe34ccfa0a97b1ec76e774b104cf", "url": "https://lh3.googleusercontent.com/7wuUlEFgaFEA075w4_OLDilE1vwTPGX7_G5_tiF9iARu8xXu1b-K27vD4cA3KLdhXdwABG1_I6YxvPjeUfzaYe1oVkuIJ0wTvh4ng6k7pEKAQVJzzw", "width": 3200}, "description": "<p><span style=\"white-space: pre-wrap;\">Design guidance, specs, and tools to streamline the work of getting from Figma to finished products.</span></p>", "background_image_3x4": {"height": 3200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/6be6966a3cf7ff6affe2f47f6729fea57054d2408e0673b223729f9edaef0ea1ef39abc5f6a9b27c12d3fdd1999a3094d5bae91845f1f7de3461b9611b834acc", "url": "https://lh3.googleusercontent.com/RbMYWtKTLGv7tEAwsya6Z7NHcUYpn4gwkrp3zy9dVhN0jFppAE7VR12r1Hpgh1fZI3MhK3jUsG2xnCSrzpaLiJTxIHWO_CIARwfhe6naTzWo5VIdg8Y", "width": 2400}, "background_image_3x4_dark": {"height": 3200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/c54c2cb1d024677709a31bf5e4e47e83385b50763737405d9efc1ad6070b8203b8bade10fb8ba4ae4d620a11fc00c26e4046c9a65dfd13d65e1d5ec679c67601", "url": "https://lh3.googleusercontent.com/yGqiQppKjF7uNcBHh1lEflUUuNW3nnmuJGhYtK_D-oUtnb7UWbFVJ5xXsh1w5l1TP4wrc_lsMIo203Osw3mAOeks9vJRKc-G9Uc0DHgrm5fLsTaxrg", "width": 2400}, "cards": [{"title": "Styles & customization", "size": "small", "link": {"aria_label": null, "label": "Styles", "open_new_window": false, "href": "/styles"}, "icon": "palette", "description": "Scale design decisions with systems for color, type, and more", "background_image": {}, "thumbnail_image": {}, "overline": null}, {"title": "Adaptive layouts", "size": "small", "link": {"aria_label": null, "label": "Adaptive design", "open_new_window": false, "href": "/foundations/adaptive-design/overview"}, "icon": "book", "description": "Patterns and best practices for handling multiple screen sizes", "background_image": {}, "thumbnail_image": {}, "overline": null}, {"title": "Figma design kit", "size": "small", "link": {"aria_label": null, "label": "M3 Figma design kit", "open_new_window": true, "href": "https://www.figma.com/community/file/1035203688168086460"}, "icon": "arrow_outward", "description": "Jumpstart your designs with ready-made elements in the M3 design kit", "background_image": {}, "thumbnail_image": {}, "overline": null}]}, {"background_image_2x1_dark": {"height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/a587c6f0944645509e4d32c7c69bd101a96e0b68544031947a1e416e8c0cc5c59e5c1c9404290f59e9481d5bd27006928b939acad46f7334420ad2a97734961a", "url": "https://lh3.googleusercontent.com/NQiYVgUFF-eqtzEhZae7pqNoapgS-zIsnScEI6pECbi8UZ36E2-5XYizdC5PUYi-5iDfTOnd0pZfj4k8h1DXpgK3ZEIGPK3va7LRtM4RBOkAL14hC2I", "width": 2400}, "title": "Develop", "short_description": "Developer resources include code for Android, Flutter, and the Web", "background_image_2x1": {"height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/24839ccd8c7ef0b2d48b4aa014581d81c24a76db65829423cbd0cd8195dbc7ceaf4054d7ea569ea7b0a8a975a1da243f909c465fc975c4bc8b67aa61105c21a9", "url": "https://lh3.googleusercontent.com/S7a0PvKXaPN1BjW3kffTstRaen4CVUD2nO1nfEk5z_GmjP5AD2fjfPdgfCig4cJMDpu11iGxdceqMJ9PrfU_PnP3bBtzwIN-IrXj4rTJGS6I7zx0", "width": 2400}, "description": "<p><span style=\"white-space: pre-wrap;\">The latest Material Components, tutorials, case studies, and documentation.</span></p>", "background_image_3x4": {"height": 3200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/cbfcd6f38e0ab846fadd38126d13018e816293179854b639d6e480d36771e8572e4030f5f371cc25c1badfb28ad8cca327a14f8e75119dd6b196918073d1a5ea", "url": "https://lh3.googleusercontent.com/k5ZNz1pSrSN1NMrxHqxkO8Je_n5S9Q3TVYpZriGx9J2w_mCbya0INifAWw4KGRoaZTavD8e_rbaW3UqRUjk5UC5dKYXuh5M3qyLfrhwE6jIfVrCw9aeL", "width": 2400}, "background_image_3x4_dark": {"height": 3200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/b9379f27f457f3225bda85a883d0a583cad08bfbd8456f35ef2764bb6f7a9070946795289e72caaa60bbbd5e114154a8481e1a8ba3366df2657ee936c1922b5b", "url": "https://lh3.googleusercontent.com/XNh6WrYZn60BN0hSHUZ7JmUuP-yAiowLpQ2kIzdnpxK-WmRKOtcjqaWdnSJzYLHvBNclvEbEP2CMKwT5ECjHIZcoyN54dQgs7cYylNsidv3MMwqHqqsG", "width": 2400}, "cards": [{"title": "Android", "size": "small", "link": {"aria_label": null, "label": "Jetpack Compose", "open_new_window": false, "href": "/develop/android/jetpack-compose"}, "icon": "code", "description": "Material Components and tutorials for Android\u2019s Jetpack Compose", "background_image": {}, "thumbnail_image": {}, "overline": null}, {"title": "Flutter", "size": "small", "link": {"aria_label": null, "label": "Flutter", "open_new_window": false, "href": "/develop/flutter"}, "icon": "code", "description": "Material Components for Flutter, a mobile UI framework", "background_image": {}, "thumbnail_image": {}, "overline": null}, {"title": "Web", "size": "small", "link": {"aria_label": null, "label": "Web", "open_new_window": false, "href": "/develop/web"}, "icon": "code", "description": "Web Components and tutorials are in development for M3", "background_image": {}, "thumbnail_image": {}, "overline": null}]}]}
+{
+  "title": "Get Started",
+  "hero_image_dark": {
+    "height": 2468,
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/b7617ae65e1aa9e7d3ecb74b8eaa104e68534a522e817d2ca398f5f344974da2c82e1f0ae25a5f9989dc5a7b1db372b11ab4dcda8dc4f48e6dcc5ec569bbcf0d",
+    "url": "/lh3.googleusercontent.com/0ZnL2zDiDVmtuWCeKL6K552nCk4idZVPXHeLgoXEXexXng3yBnj18gVbOXP27Rxyp4I0TI0Pu2Lr32Y3m5hvKronFP-muIHVEOBjpAVO35RvfqD07g",
+    "width": 2800
+  },
+  "document_id": "6059193656279040",
+  "hero_image": {
+    "height": 2468,
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/c7c307dd50dfa30c3c4a4184fcaad9d8c561201362a8cdb2026ac842aa70c0e7a4a7ab0f3f4295b693dbab870312e4e717b7d9d578958b6009990595cc214ba0",
+    "url": "/lh3.googleusercontent.com/56hiZfyb2EPY34-CEPG71OmvOGBTHLLhabrKW37cc13w4xp5cs-9Rel-zQO0anoqEejUOE6ZZPckCPVlgpG6N6rVDqoKQ7VA9iS9iHcR2jsGBDvrf0U",
+    "width": 2800
+  },
+  "metadata": {
+    "share_image": {},
+    "share_title": null,
+    "share_description": null,
+    "keywords": null
+  },
+  "description": "<p>Get to know Material 3 &ndash; from UX guidance and tools to reusable components and open-source code</p>",
+  "sections": [
+    {
+      "background_image_2x1_dark": {
+        "height": 1200,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/8465f5448557b25de92b75652e0b9dd6cf0efd0a3c2f18b2c1dccd8b7e1013743aa4971579fe0b110b7d1d039e6bf22b9cb0f12e13884b3ea5c2e2de2b50baa9",
+        "url": "/lh3.googleusercontent.com/Tz7UMS6jOjDrLI1ZpRv4WshSCNFooVKvclkIQL6Ahk9RifiueQl48lAGYbvNJrcuxYWibmh88eYU-ZBRcqbSEQ3AybuelQ_Dcwn5PuKna7wcqp7tVA",
+        "width": 2400
+      },
+      "title": "What's Material?",
+      "short_description": "Learn how Material enables beautiful product design at Google scale",
+      "background_image_2x1": {
+        "height": 1200,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/1ef049aa776ec804ca593fbd46ef624cd4523fa87765b13ac97e10badf5b294466e1380abd5f9e9779e0cfeb564d5e67f2bb188492981419babcb60a7455127e",
+        "url": "/lh3.googleusercontent.com/MQWKG0HfYeMhRPHI-ELNLelt0gX8dfgb_weX8gMZ15yPYV43YsYoRExqc1_9g_y3roqscZMbbsFpMHTUxA9J_EkudUI7h8Fb8cau1e-XIQoc00kVg4M",
+        "width": 2400
+      },
+      "description": "<p><span style=\"white-space: pre-wrap; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">Material Design is a design system built and supported by Google designers and developers. </span><span style=\"white-space: pre-wrap; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\"><strong>Material.io</strong> includes in-depth UX guidance and UI component implementations for Android, Flutter, and the Web. <br /><br /></span><span style=\"white-space: pre-wrap;\">The latest version, Material 3, enables p</span><span style=\"white-space: pre-wrap; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">ersonal, adaptive, and expressive experiences &ndash; f</span><span style=\"white-space: pre-wrap; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">rom dynamic color and enhanced accessibility, to foundations for large screen layouts and design tokens.</span></p>",
+      "background_image_3x4": {
+        "height": 4000,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/b371e0866a0f3fde1f95c9b2f23ce6691acb87ef8282dcc34c2613d1546435bae022f4ba912ac9921fd612c4470955edfa75f9e83f2a862bd46f4f5d3d2d2544",
+        "url": "/lh3.googleusercontent.com/NAwI7k6MqTjvxHrCCOsjn04JjEx78oF0CDB9cn5H2ieYrjFHQDB_hOx9jV5gKxRmHg-151hPgP9cMgF1wl0F_6I1gQo4T5oIw9BEBNyoUZyOWDcTYLw",
+        "width": 3000
+      },
+      "background_image_3x4_dark": {
+        "height": 4000,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/b09e273229593dc16db62af99eed4f8f6b9fce2727ca799572173022a126f32e7bdea72712b6cd689c2cb74d9a43eaffd338a9c8e31e8717187f48b9e43d63d4",
+        "url": "/lh3.googleusercontent.com/XQByYnWbyuby_8byRsflu0KQ-rp0s303nwvr_Y89xrJUgq7v1o8wCzLlN0xs-uvjutTyBGp5HCwK6fNp8nBvVcR30ApCSumnPZqy3_Sl9ZVjbBsPDQ",
+        "width": 3000
+      },
+      "cards": [
+        {
+          "title": "UX foundations",
+          "size": "small",
+          "link": {
+            "aria_label": null,
+            "label": "Foundations",
+            "open_new_window": false,
+            "href": "/foundations"
+          },
+          "icon": "book",
+          "description": "Foundations like color, type, and shape are customizable systems in Material",
+          "background_image": {},
+          "thumbnail_image": {},
+          "overline": null
+        },
+        {
+          "title": "Open-source code",
+          "size": "small",
+          "link": {
+            "aria_label": null,
+            "label": "Develop",
+            "open_new_window": false,
+            "href": "/develop"
+          },
+          "icon": "code",
+          "description": "Multi-platform code to build beautiful products, faster",
+          "background_image": {},
+          "thumbnail_image": {},
+          "overline": null
+        },
+        {
+          "title": "Tutorials, case studies & news",
+          "size": "small",
+          "link": {
+            "aria_label": null,
+            "label": "Material Blog",
+            "open_new_window": true,
+            "href": "https://material.io/blog"
+          },
+          "icon": "pages",
+          "description": "Follow Material's blog for updates, deep dives, and more",
+          "background_image": {},
+          "thumbnail_image": {},
+          "overline": null
+        }
+      ]
+    },
+    {
+      "background_image_2x1_dark": {
+        "height": 1200,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/b18c26ce865c23898e53ca3cca3efee82fb3bab327f7a017325c10580ad9c342ce586d063ee83181be143928dc170bb4a97d08fa7f046f1a336e727637c68d12",
+        "url": "/lh3.googleusercontent.com/9Y-XiuGRb5T2VG9ypNb5RbkSbwKLOifVYAIoBK3KXUb5kKG8-lqWo5ufY956JZCkO9W3QBQt31z99MYKT1W-GDb0Nl9p_k2TsjAiTM3SePcuMpdP6Nc",
+        "width": 2400
+      },
+      "title": "Using Material",
+      "short_description": "Get to know Material.io and our top resources",
+      "background_image_2x1": {
+        "height": 1200,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/5c37540eb362ced7893bc1d0f1aaaeb355f8f5b51a33274360e02cad12ed19cbda59aa736d15c773bcf163364dd78ec0331ae94ef0d06469e1aabee495807f1b",
+        "url": "/lh3.googleusercontent.com/h-qZZRoAZmpv2Bjgj-477cDo0eSPwug4sv5wDpJHrzcSAEAwpMCoHnURx9i1aRshL1NTTSTnd9mQPms4uf4kbkHg-IvfI78WYcq4388YwlWtnSLuVg",
+        "width": 2400
+      },
+      "description": "<p><span style=\"white-space: pre-wrap;\">On Material.io, the design system is organized in three main parts: <strong>foundations</strong>, <strong>styles</strong>, and <strong>components</strong>. Each section includes design guidance and tools to help you customize and build with Material.</span></p>",
+      "background_image_3x4": {
+        "height": 4000,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/e9f05bef0c462a384e1febf56473221c461860b8d38337a0a1a28a34db2ef0e762ac2c671ed9470e11f0db2fec1f373a4e13348c612182aee1beb3abe84065a9",
+        "url": "/lh3.googleusercontent.com/khJSZ447U1WLnhvDgrifbGfWhhZOQsOZ5KHby5Q-JKaPtnqLsbY_J8nyzU3C1NEi0x14AfizRI6XDFmJp2pKGosXQoba5QGSejSkav_oz8Co38UyNA",
+        "width": 3000
+      },
+      "background_image_3x4_dark": {
+        "height": 4000,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/b8abd9e0f2ae4ef1df3cd9c5ad5904b1a366e71b4c6893ea969a764b139bb42f929ee1e1a96dc8d461e7b25f0f9c8c022f7c47301f96c7c94eb697da183e938d",
+        "url": "/lh3.googleusercontent.com/JuW1ZD4t9g_V2Wal31Y910lD5W0B8PL37PHcr81vOZ8QMfxIBq2FmrzM7ubNE2P9sGBdCKh-NeHryHRP9enGKQOUE3qSVFHNyKje6rLO3c00qV8WYCkN",
+        "width": 3000
+      },
+      "cards": [
+        {
+          "title": "Foundations & customization",
+          "size": "small",
+          "link": {
+            "aria_label": null,
+            "label": "Foundations",
+            "open_new_window": false,
+            "href": "/foundations"
+          },
+          "icon": "book",
+          "description": "Accessibility, layout, interaction states, design tokens, and more",
+          "background_image": {},
+          "thumbnail_image": {},
+          "overline": null
+        },
+        {
+          "title": "Styles",
+          "size": "small",
+          "link": {
+            "aria_label": null,
+            "label": "Styles",
+            "open_new_window": false,
+            "href": "/styles"
+          },
+          "icon": "palette",
+          "description": "Systems for applying color, type, icons, motion, and shape",
+          "background_image": {},
+          "thumbnail_image": {},
+          "overline": null
+        },
+        {
+          "title": "Components",
+          "size": "small",
+          "link": {
+            "aria_label": null,
+            "label": "Components",
+            "open_new_window": false,
+            "href": "/components"
+          },
+          "icon": "add_circle",
+          "description": "Customizable UI elements, from menus to buttons to dialogs",
+          "background_image": {},
+          "thumbnail_image": {},
+          "overline": null
+        }
+      ]
+    },
+    {
+      "background_image_2x1_dark": {
+        "height": 2000,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/88ed7363293c8c9fe0f7fe132727484cced1033472581479f841f5437a43461e90a43d4be0865e495b480bad49bfd701486d5fdf8d362068656cc0be4c3dbe89",
+        "url": "/lh3.googleusercontent.com/Jh_TEVO-gBzrFMtRXLCR6AADTOc77YhIxSzRZVez8ZELqeT5l9lZWbzokew4KuuijzdK3m-uF-_TlWIrMhumFt1sA3vxMP3Kczmc6Abnl8X74QwVMB8",
+        "width": 3200
+      },
+      "title": "Design",
+      "short_description": "Start applying color, type, adaptive design patterns, and more",
+      "background_image_2x1": {
+        "height": 2000,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/45cc5c20ba517a426413d240c29d0e3174930297f561e8da1bacf82790d66ee3300506321711c38e79b099b79c8fa24c7797fe34ccfa0a97b1ec76e774b104cf",
+        "url": "/lh3.googleusercontent.com/7wuUlEFgaFEA075w4_OLDilE1vwTPGX7_G5_tiF9iARu8xXu1b-K27vD4cA3KLdhXdwABG1_I6YxvPjeUfzaYe1oVkuIJ0wTvh4ng6k7pEKAQVJzzw",
+        "width": 3200
+      },
+      "description": "<p><span style=\"white-space: pre-wrap;\">Design guidance, specs, and tools to streamline the work of getting from Figma to finished products.</span></p>",
+      "background_image_3x4": {
+        "height": 3200,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/6be6966a3cf7ff6affe2f47f6729fea57054d2408e0673b223729f9edaef0ea1ef39abc5f6a9b27c12d3fdd1999a3094d5bae91845f1f7de3461b9611b834acc",
+        "url": "/lh3.googleusercontent.com/RbMYWtKTLGv7tEAwsya6Z7NHcUYpn4gwkrp3zy9dVhN0jFppAE7VR12r1Hpgh1fZI3MhK3jUsG2xnCSrzpaLiJTxIHWO_CIARwfhe6naTzWo5VIdg8Y",
+        "width": 2400
+      },
+      "background_image_3x4_dark": {
+        "height": 3200,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/c54c2cb1d024677709a31bf5e4e47e83385b50763737405d9efc1ad6070b8203b8bade10fb8ba4ae4d620a11fc00c26e4046c9a65dfd13d65e1d5ec679c67601",
+        "url": "/lh3.googleusercontent.com/yGqiQppKjF7uNcBHh1lEflUUuNW3nnmuJGhYtK_D-oUtnb7UWbFVJ5xXsh1w5l1TP4wrc_lsMIo203Osw3mAOeks9vJRKc-G9Uc0DHgrm5fLsTaxrg",
+        "width": 2400
+      },
+      "cards": [
+        {
+          "title": "Styles & customization",
+          "size": "small",
+          "link": {
+            "aria_label": null,
+            "label": "Styles",
+            "open_new_window": false,
+            "href": "/styles"
+          },
+          "icon": "palette",
+          "description": "Scale design decisions with systems for color, type, and more",
+          "background_image": {},
+          "thumbnail_image": {},
+          "overline": null
+        },
+        {
+          "title": "Adaptive layouts",
+          "size": "small",
+          "link": {
+            "aria_label": null,
+            "label": "Adaptive design",
+            "open_new_window": false,
+            "href": "/foundations/adaptive-design/overview"
+          },
+          "icon": "book",
+          "description": "Patterns and best practices for handling multiple screen sizes",
+          "background_image": {},
+          "thumbnail_image": {},
+          "overline": null
+        },
+        {
+          "title": "Figma design kit",
+          "size": "small",
+          "link": {
+            "aria_label": null,
+            "label": "M3 Figma design kit",
+            "open_new_window": true,
+            "href": "https://www.figma.com/community/file/1035203688168086460"
+          },
+          "icon": "arrow_outward",
+          "description": "Jumpstart your designs with ready-made elements in the M3 design kit",
+          "background_image": {},
+          "thumbnail_image": {},
+          "overline": null
+        }
+      ]
+    },
+    {
+      "background_image_2x1_dark": {
+        "height": 1200,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/a587c6f0944645509e4d32c7c69bd101a96e0b68544031947a1e416e8c0cc5c59e5c1c9404290f59e9481d5bd27006928b939acad46f7334420ad2a97734961a",
+        "url": "/lh3.googleusercontent.com/NQiYVgUFF-eqtzEhZae7pqNoapgS-zIsnScEI6pECbi8UZ36E2-5XYizdC5PUYi-5iDfTOnd0pZfj4k8h1DXpgK3ZEIGPK3va7LRtM4RBOkAL14hC2I",
+        "width": 2400
+      },
+      "title": "Develop",
+      "short_description": "Developer resources include code for Android, Flutter, and the Web",
+      "background_image_2x1": {
+        "height": 1200,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/24839ccd8c7ef0b2d48b4aa014581d81c24a76db65829423cbd0cd8195dbc7ceaf4054d7ea569ea7b0a8a975a1da243f909c465fc975c4bc8b67aa61105c21a9",
+        "url": "/lh3.googleusercontent.com/S7a0PvKXaPN1BjW3kffTstRaen4CVUD2nO1nfEk5z_GmjP5AD2fjfPdgfCig4cJMDpu11iGxdceqMJ9PrfU_PnP3bBtzwIN-IrXj4rTJGS6I7zx0",
+        "width": 2400
+      },
+      "description": "<p><span style=\"white-space: pre-wrap;\">The latest Material Components, tutorials, case studies, and documentation.</span></p>",
+      "background_image_3x4": {
+        "height": 3200,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/cbfcd6f38e0ab846fadd38126d13018e816293179854b639d6e480d36771e8572e4030f5f371cc25c1badfb28ad8cca327a14f8e75119dd6b196918073d1a5ea",
+        "url": "/lh3.googleusercontent.com/k5ZNz1pSrSN1NMrxHqxkO8Je_n5S9Q3TVYpZriGx9J2w_mCbya0INifAWw4KGRoaZTavD8e_rbaW3UqRUjk5UC5dKYXuh5M3qyLfrhwE6jIfVrCw9aeL",
+        "width": 2400
+      },
+      "background_image_3x4_dark": {
+        "height": 3200,
+        "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_9d6ef4951a8d45ad99d7453f1af1c74e_/b9379f27f457f3225bda85a883d0a583cad08bfbd8456f35ef2764bb6f7a9070946795289e72caaa60bbbd5e114154a8481e1a8ba3366df2657ee936c1922b5b",
+        "url": "/lh3.googleusercontent.com/XNh6WrYZn60BN0hSHUZ7JmUuP-yAiowLpQ2kIzdnpxK-WmRKOtcjqaWdnSJzYLHvBNclvEbEP2CMKwT5ECjHIZcoyN54dQgs7cYylNsidv3MMwqHqqsG",
+        "width": 2400
+      },
+      "cards": [
+        {
+          "title": "Android",
+          "size": "small",
+          "link": {
+            "aria_label": null,
+            "label": "Jetpack Compose",
+            "open_new_window": false,
+            "href": "/develop/android/jetpack-compose"
+          },
+          "icon": "code",
+          "description": "Material Components and tutorials for Android\u2019s Jetpack Compose",
+          "background_image": {},
+          "thumbnail_image": {},
+          "overline": null
+        },
+        {
+          "title": "Flutter",
+          "size": "small",
+          "link": {
+            "aria_label": null,
+            "label": "Flutter",
+            "open_new_window": false,
+            "href": "/develop/flutter"
+          },
+          "icon": "code",
+          "description": "Material Components for Flutter, a mobile UI framework",
+          "background_image": {},
+          "thumbnail_image": {},
+          "overline": null
+        },
+        {
+          "title": "Web",
+          "size": "small",
+          "link": {
+            "aria_label": null,
+            "label": "Web",
+            "open_new_window": false,
+            "href": "/develop/web"
+          },
+          "icon": "code",
+          "description": "Web Components and tutorials are in development for M3",
+          "background_image": {},
+          "thumbnail_image": {},
+          "overline": null
+        }
+      ]
+    }
+  ]
+}

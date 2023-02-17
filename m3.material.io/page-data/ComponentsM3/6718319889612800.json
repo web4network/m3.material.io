@@ -1,1 +1,234 @@
-{"dark_component_image_1x1": {}, "mdc_flutter": {"banners": [], "hide_generic_not_available_message": false, "is_beta": false, "meta": {"share_description": null, "keywords": null, "share_image": {}, "share_title": null}, "document_id": "6689011888422912", "image": [], "hide_intro_block": true, "markdown_content": null, "title": "Divider", "up_next_section": {"items": []}, "markdown_path": null}, "component_image_3x1": {"width": 3360, "url": "https://lh3.googleusercontent.com/uVEFFLk8Spkt0bqUSuRYU_d2dn-KTb2EodtHA_w767HXmn4RmRtdy86Wy6L-8PMCU3bg9czSPJrnecnchrGNnzbxE1dyyM4EJ_LvqwYpHPs5aDLSvLM", "height": 1120, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/2da4013a8d882238edcae33b4b3ad3843a5be60e0af63a14cc4b49a866e8143cfffa1ef8654c896df9265c9c07aa5f06ed6bab7b15333909ebaea044f70933f4"}, "mdc_android": {"banners": [], "hide_generic_not_available_message": false, "is_beta": false, "meta": {"share_description": null, "keywords": null, "share_image": null, "share_title": null}, "document_id": "6243197772759040", "image": [{"caption": null, "case": null, "a11y_description": "Dividers in a layout", "file": {"width": 1064, "url": "https://lh3.googleusercontent.com/AO7jy0_jiKTemtalINZ2dnjG85wnHsXWYxEdIGzl4_T01OpbPkX-rvRwV5X87PWL2FLF_9Ryx3Vt4ZJC_K0OtpTYjnOCENpehfXCqPjWRfZ2Brvl3r4", "height": 710, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_293ae6e29e4b420a9648cf846508437a_/f469c76abaf23f4bc4c8ec1eb9f73d9257ecd2e1d35fa9b881f98eeede89c3da0df9d2fdabeea2745e2b0f079a144a26047ecc742969c93921fa157f0081ed79"}, "bordered": true}, {"caption": null, "case": null, "a11y_description": "Gray full-bleed divider example", "file": {"width": 1080, "url": "https://lh3.googleusercontent.com/4ES2O2eH2fUBQ25aDb89oSfgaGyYedKhSW0VQt7dRdXcNnmV2wRPm4-kJdJeV_XtYunRQmI3SWOC_7ot-K3bF0LKBPnmNk22F3IEINZlXrQcOPvRwA", "height": 56, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_293ae6e29e4b420a9648cf846508437a_/148d06eab450149003bafcaa299f485580cb63b1c70f8f12108744fc861b223c292befec2d61dc726bfe3356d466e85f594d26a082a4e9d2f71663856c5fbdd3"}, "bordered": true}, {"caption": null, "case": null, "a11y_description": "Vertical list of five items with five gray dividers after each item", "file": {"width": 996, "url": "https://lh3.googleusercontent.com/-bXWepb779NzmVjP9Y7Kv7NuoE_X5UH1SkuyuLPOFRFis4ntiBEu350Mg2YtSvTCDsYtrei1rM8iVUApo8-jVFLGO7qDKlO_DEp2FQ9ZAFgUs6aztYk", "height": 516, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_293ae6e29e4b420a9648cf846508437a_/71addfbfdfca08ff932a38b98560acd8144abfb99f5d0900d5119f54ba3a21a4cd83712d376eaffed47ccb95858f0284d12c526c0c72e34aedaa557d0fbafda4"}, "bordered": true}, {"caption": null, "case": null, "a11y_description": "Vertical list of five items with five gray dividers that have a start inset", "file": {"width": 996, "url": "https://lh3.googleusercontent.com/Mqxu57CTgh_19Pac9soV0waOHMhQKdXSxOWUs_TzyFzOLrCMAMSSzPF2fMJlnTFgKKUqyzqfEjQRMp-rKobGKgw2F8MFoexktjDYAy4V5KxkRqKY0w", "height": 536, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_293ae6e29e4b420a9648cf846508437a_/2f7da0f7efd008c09273c5eb4a1d268c2eb1420e1b529a10417322eb1df7add2b75c9fb337b643a1818642c73d81d70a9b9017878ac13d6c2224942ea77430cb"}, "bordered": true}, {"caption": null, "case": null, "a11y_description": "Vertical list of five items with four gray dividers", "file": {"width": 996, "url": "https://lh3.googleusercontent.com/gXxwgzbQTER98Fcyq00WTw_FV3eQWuHzBUiNXwTUzc3OzGXkW-hbDJJVrUAXlgvHkxG9IxAZbyD7H3WTymDt8Isb467qMWwgHRLa6eLDHMqgl1qUxqE", "height": 516, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_293ae6e29e4b420a9648cf846508437a_/7c3d0527f21d9728394193cf434ad694eac54dcce93188c0f420b6a7d0f46338801b0e06708d6b62146a98ed47d1504c0031015fbacca9274748df7b34d9b8ec"}, "bordered": true}, {"caption": null, "case": null, "a11y_description": "Pink full-bleed divider", "file": {"width": 1080, "url": "https://lh3.googleusercontent.com/-fME3iP8gv8zP6pGp8Fb7jQNJCLYr-z9bXcap_QOONhbqCt20A40Gbo-X95ObQswu7w-w8gsTnitjhykvILo0-65HdWDjePh_ctXU2S34fkzoQrw8w", "height": 52, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_293ae6e29e4b420a9648cf846508437a_/220cff1db3be07fc2c8082772004f94e3da534896f18ccf10962f4637dd40b39d6fd379a326e2d20b9d25aa12c88ca84bef74024c6c27524aae5455a9907c86a"}, "bordered": true}], "hide_intro_block": true, "markdown_content": "<!--docs:\ntitle: \"Dividers\"\nlayout: detail\nsection: components\nexcerpt: \"Dividers separate content into clear groups.\"\niconId: divider\npath: /catalog/dividers/\n-->\n\n# Dividers\n\n[Dividers](https://material.io/components/dividers) separate content into clear\ngroups.\n\n<mio-image index=0></mio-image>\n\n**Contents**\n\n*   [Using dividers](#using-dividers)\n*   [Divider's key properties](#key-properties)\n*   [Theming dividers](#theming-dividers)\n\n## Using dividers\n\nBefore you can use Material dividers, you need to add a dependency to the\nMaterial Components for Android library. For more information, go to the\n[Getting started](/libraries/mdc-android/getting-started)\npage.\n\n### `MaterialDivider`\n\nAPI and source code:\n\n*   `MaterialDivider`\n    *   [Class definition](https://developer.android.com/reference/com/google/android/material/divider/MaterialDivider)\n    *   [Class source](https://github.com/material-components/material-components-android/tree/master/lib/java/com/google/android/material/divider/MaterialDivider.java)\n\nThe `MaterialDivider` is a view that can be used in layouts to separate content\ninto clear groups.\n\n**Note:** Make sure to set `android:layout_height=\"wrap_content\"` on the\n`MaterialDivider` to ensure that the correct size is set for the divider.\n\nThe full-bleed divider is displayed below:\n\n<mio-image index=1></mio-image>\n\nOn the layout:\n\n```xml\n<com.google.android.material.divider.MaterialDivider\n    android:layout_width=\"match_parent\"\n    android:layout_height=\"wrap_content\"/>\n```\n\nBy default, dividers will be full-bleed. You can use `app:dividerInsetStart` and\n`app:dividerInsetEnd` to achieve the look of an inset or middle divider:\n\n```xml\n<com.google.android.material.divider.MaterialDivider\n    android:layout_width=\"match_parent\"\n    android:layout_height=\"wrap_content\"\n    app:dividerInsetStart=\"16dp\"\n    app:dividerInsetEnd=\"16dp\"/>\n```\n\nOr in code:\n\n```kt\ndivider.setDividerInsetStart(insetStart)\ndivider.setDividerInsetEnd(insetEnd)\n```\n\n### `MaterialDividerItemDecoration`\n\nAPI and source code:\n\n*   `MaterialDividerItemDecoration`\n    *   [Class definition](https://developer.android.com/reference/com/google/android/material/divider/MaterialDividerItemDecoration)\n    *   [Class source](https://github.com/material-components/material-components-android/tree/master/lib/java/com/google/android/material/divider/MaterialDividerItemDecoration.java)\n\nThe `MaterialDividerItemDecoration` is a `RecyclerView.ItemDecoration`, similar\nto a `DividerItemDecoration`, that can be used as a divider between items of a\n`LinearLayoutManager`. It supports both horizontal and vertical orientations.\n\nA list with full-bleed dividers is displayed below:\n\n<mio-image index=2></mio-image>\n\nIn code:\n\n```kt\nval divider = MaterialDividerItemDecoration(context!!, LinearLayoutManager.VERTICAL /*or LinearLayoutManager.HORIZONTAL*/)\nrecyclerView.addItemDecoration(divider)\n```\n\nBy default, dividers will be full-bleed. To achieve the look of an inset or\nmiddle divider:\n\n<mio-image index=3></mio-image>\n\nIn code:\n\n```kt\ndivider.setDividerInsetStart(insetStart)\ndivider.setDividerInsetEnd(insetEnd)\n```\n\nOptionally, you can hide the last divider of a list:\n\n<mio-image index=4></mio-image>\n\nIn code:\n\n```kt\ndivider.setLastItemDecorated(false)\n```\n\n### Making dividers accessible\n\nThe divider is a decorative element. There are no special accessibility\nprecautions for the divider.\n\n## Key properties\n\n### Dividers attributes\n\nElement                 | Attribute               | Related method(s)                                                                    | Default value\n----------------------- | ----------------------- | ------------------------------------------------------------------------------------ | -------------\n**Thickness**           | `app:dividerThickness`  | `setDividerThickness`<br/>`setDividerThicknessResource`<br/>`getDividerThickness`    | `1dp` for the regular divider <br/> `8dp` for the heavy divider\n**Color**               | `app:dividerColor`      | `setDividerColor`<br/>`setDividerColorResource`<br/>`getDividerColor`                | `?attr/colorOutline`\n**Start inset**         | `app:dividerInsetStart` | `setDividerInsetStart`<br/>`setDividerInsetStartResource`<br/>`getDividerInsetStart` | `0dp`\n**End inset**           | `app:dividerInsetEnd`   | `setDividerInsetEnd`<br/>`setDividerInsetEndResource`<br/>`getDividerInsetEnd`       | `0dp`\n**Last item decorated** | `app:lastItemDecorated` | `setLastItemDecorated`<br/>`isLastItemDecorated`                                     | `true`\n\n### Styles\n\nElement           | Style\n----------------- | -------------------------------------------\n**Default style** | `Widget.Material3.MaterialDivider`\n\nDefault style theme attribute: `?attr/materialDividerStyle`\n\nSee the full list of\n[styles](https://github.com/material-components/material-components-android/tree/master/lib/java/com/google/android/material/divider/res/values/styles.xml)\nand\n[attrs](https://github.com/material-components/material-components-android/tree/master/lib/java/com/google/android/material/divider/res/values/attrs.xml).\n\n## Theming dividers\n\nDividers support\n[Material Theming](https://material.io/components/selection-controls#theming) and therefore can have their colors customized.\n\n### Divider theming example\n\nAPI and source code:\n\n*   `MaterialDivider`\n    *   [Class definition](https://developer.android.com/reference/com/google/android/material/divider/MaterialDivider)\n    *   [Class source](https://github.com/material-components/material-components-android/tree/master/lib/java/com/google/android/material/divider/MaterialDivider.java)\n*   `MaterialDividerItemDecoration`\n    *   [Class definition](https://developer.android.com/reference/com/google/android/material/divider/MaterialDividerItemDecoration)\n    *   [Class source](https://github.com/material-components/material-components-android/tree/master/lib/java/com/google/android/material/divider/MaterialDividerItemDecoration.java)\n\nThe following example shows a divider with Material Theming.\n\n<mio-image index=5></mio-image>\n\n#### Implementing divider theming\n\nUse theme attributes in `res/values/styles.xml`, which applies to all dividers\nand affects other components:\n\n```xml\n<style name=\"Theme.App\" parent=\"Theme.Material3.*\">\n    ...\n    <item name=\"colorOutline\">@color/shrine_pink_900</item>\n</style>\n```\n\nUse default style theme attributes, styles and theme overlays, which apply to\nall dividers but do not affect other components:\n\n```xml\n<style name=\"Theme.App\" parent=\"Theme.Material3.*\">\n    ...\n    <item name=\"materialDividerStyle\">@style/Widget.App.MaterialDivider</item>\n</style>\n\n<style name=\"Widget.App.MaterialDivider\" parent=\"Widget.Material3.MaterialDivider\">\n    <item name=\"materialThemeOverlay\">@style/ThemeOverlay.App.MaterialDivider</item>\n</style>\n\n<style name=\"ThemeOverlay.App.MaterialDivider\" parent=\"\">\n    <item name=\"colorOutline\">@color/shrine_pink_900</item>\n</style>\n```\n\nMore easily, you can also change the divider color via the `?attr/dividerColor`\nattribute:\n\n```xml\n<style name=\"Widget.App.MaterialDivider\" parent=\"Widget.Material3.MaterialDivider\">\n   <item name=\"dividerColor\">@color/shrine_divider_color</item>\n</style>\n```\n\nor use the style in the layout, which affects only this divider:\n\n```xml\n<com.google.android.material.divider.MaterialDivider\n    style=\"@style/Widget.App.MaterialDivider\"\n    android:layout_width=\"match_parent\"\n    android:layout_height=\"wrap_content\"/>\n```\n", "title": "Divider", "up_next_section": {"items": []}, "markdown_path": "docs/components/Divider.md"}, "component_image_3x2": {"width": 1680, "url": "https://lh3.googleusercontent.com/naSYlMOvlgIDAys0tmMI9M_f13QDSn6V9VQttBmwicYu2YShLaEeg5BbR6GLj-f6kHdp9KhDOoq1Ja2_YmNx_PRBBJw32g9SvlM4oYTWeiIjrvJCZA", "height": 1120, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/fda371d37019eafe97f92dd28e57cb5e047228dc035a24e17ad8aeb40b9c20793131151b2c1c2e219d9f4de00b0d42109f0bb6a20e887b401515a4797e00df16"}, "mdc_web": {}, "page_hero": {"main_background_image": {}, "full_width_content_centered": false, "foreground_image_2x1_dark_mode": {"width": 4000, "url": "https://lh3.googleusercontent.com/GKwTYDZPVltoWws_kSIQ0gIHUctKBxXIglzny5_zrhBS2gmo3iKpHKAxp7XbjvHANFpH6c9dk71C8w3LJHSn_qpeK0BauD_D1FzYZXPUaRCjKQAQjEaY", "height": 2000, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/333107cfe79af44ab9e4c5289c3747589b8e6594afba20865753ad1f8cdc7d3e04c55a86db9960e7480f5c7f842ca37270f259d775bb6a903f57bae3c3bcf24f"}, "foreground_image_1x1_dark_mode": {"width": 2240, "url": "https://lh3.googleusercontent.com/kdbYyu-mfCY_rd1ipJBOhv5eOquAaG0-6dWx7cVx6XXcKIBKxLlvBPxKZAuPMwvE6vWmsOdGlZhu5JOyTWRGJkUyOl-YQ2DWMvo-wV1HDXubry6gxdc", "height": 2240, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/1a059b06a01b9554b9a6b297d23ba51e2433c544b0c2a32231b080523cda01dd4552b8f7b254642e693efb514a258943611e91ad3c2280dddba269b45aab05a4"}, "split_background_image_dark_mode": {"width": 6900, "url": "https://lh3.googleusercontent.com/Qm7N_69-LfTOIcINCDkTfQiGDee5Cq9RjWVkKXAuZHYHGXIiErWZRtZdjXh9Y9KY87xZIy3udXj2kJeb_SuKOSvpZ7AU1NHZJOxYm8eBO-F-jq_B6DE", "height": 6900, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/5da76e4cc075e304f5138b1a3f620c3eff9d0cfbb6d85f1507aeaa56ba304477e4c622be320bcd2b33e5d0722c1ef99d315461031aa5968758b193278fec4aaf"}, "main_background_image_dark_mode": {}, "foreground_image_2x1": {"width": 4000, "url": "https://lh3.googleusercontent.com/MBSlOtOezSiYODxCjKt0La0AGZlXikyzcbp-x18U2rQWvTgV4HvqCGerR-VU2s5WOmSy-zG-DELMdRyoWq3h3stybL0sNDx3JJt1UfyGDbSO1WN7S-4", "height": 2000, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/36f97beede6812274bed3b21f56b95f0081dd7f97fdf308b5a62e0e4f5bac8fd9bd5f555c8bd014248621eaf9e4047d03742e7c8d62bc81dc2e34686093c326c"}, "vertical_foreground_alignment_override": "position_bottom", "foreground_image_1x1": {"width": 2240, "url": "https://lh3.googleusercontent.com/pzQv-Ex4J3ZWuSYVy16TT3Ry9QsVaJA9H2CVgWI1Kk0iA7T7N6Ehs9VUynUeI7ttwDj2NuTsdmcas9PeUm0h1wuNCGazrkkuvSIh4AFZMRIWy4oyPEw-", "height": 2240, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/c856e1aae033d36b4b4e5af180b883ecb9174ff1110f0574fdac30c4e733b180f8fccaa4c89a3fe0f4689fd89ab0fe17f0ad5e1e46160f343b1137dad9224a9f"}, "split_background_image": {"width": 6900, "url": "https://lh3.googleusercontent.com/JAvDtrmoRxZ1JFLP9KP355g7kmnz7PNCVG6fI1D6ZQlohR7WBnBu6pf5p9OTZvAQ2C7XjpBWqJyBpf-MOG4s-g7wOxrIEGMhu90aV796wXNzPeYfxN0", "height": 6900, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/662e4591d8487b5da221b6cd533be1b4d8eff397657acf0bba7243270812e8c965cfc51697a462f6d5148894f117714cbc7fc61aa01d1eb8b5aec00794838cb2"}, "horizontal_foreground_alignment_override": null, "full_width": false}, "hero": {"background_image": {"width": 1000, "url": "https://lh3.googleusercontent.com/yD6qYtg5FUK_KFZdLPZmuDTkYnTPFrXUVT19_gXcBGyzhp35CNv4lpC1Dgor7Pt5B-zSVWkLGonUE75FsroWosevi6gA5VgNdCue3TyAuCg4mpRArGvp", "height": 1000, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/ef949295b4dd9f255056b4392531fa31b39694b299fbe4d2bcec4fb2e638c62ee38faad236b978b0d35295caa637b4231f0c09ce303ee659680bd628b00f0adc"}, "foreground_text_light": false, "foreground_image_alignment": "top", "foreground_image": {"width": 880, "url": "https://lh3.googleusercontent.com/1dyPnei5pPDwTCYWLwSQeHh6G06bI9CyCII07gy-9PK3KdNP7xhvCe97gXihcTt11fYXHeLVFoXgeghn41ZCJJAr0aEI0cdT-NZYHhzf3ysONgXs_g", "height": 1100, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/8e545d4396b9f7ad5773f8edf4460b73afa7ca3e90ced6ba9f890483f3b182c1253fac2ffb6e0d4188e7ba013be4de616321f221ad7a38a34e5d9500f23628a8"}, "foreground_image_svg": null}, "component_image_position": "center", "jetpack": {}, "ia_title": "Components / Divider", "category": "containment", "document_id": "6718319889612800", "isDisplayed": true, "description": "A divider is a thin line that groups content in lists and containers.", "metadata": {"share_description": "A divider is a thin line that groups content in lists and containers.", "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, Material Design Components, Material Components, components, cards", "share_image": {"width": 2000, "url": "https://lh3.googleusercontent.com/_-c2H9N7K8YBXciSYFGOLZC_Oz1UD6sGTj4X6sXgRoT6b0yKzHQsbPEfJO5B5F3-rjVtY-JC5k0hElzxZI9Q-YREDtjpIRYO1Ya0q3vFOUuAJDd7OY4", "height": 1000, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/e76552952d19307f7f6777ad96e8c3cad3e69c747bb14e5a915248c4ec87ad2c7f8100d948f53cd8312918ce141e1dc4af02caa4c3d50c4756f73911d142d9b8"}, "share_title": "Divider \u2013 Material Design 3"}, "component_image_1x1": {}, "dark_component_image_3x2": {"width": 1680, "url": "https://lh3.googleusercontent.com/ZvO1IuNg131v5sj1lPfADqLk6Scs0JR_imUBFgmjTcPitu--1aFLV278wVY5cgoj67kLLA_IFojPHeFrr1xdMK20H3Av5n7tgZZFCG0F5J-gJ1uN2A", "height": 1120, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/8f0d526d6c0e075bfe1bf639111e71e94204d7c66f548401c65d4b7a4157d9b44e43796bace5ed145f793c90dbd40b4dfd5657927d54b1333c82b6fa2f2a2fc9"}, "dark_component_image_3x1": {"width": 3360, "url": "https://lh3.googleusercontent.com/75klWESmVrb8fRGqK6tTIwYAVjoo7DT4pGpVr0p5MBdK7ReU0SnsQzrIZfc_GWu_DB1m5noikTik9kobCpZIF3TU9mSdUYD5xfJIaXczQGiwP17-H6M", "height": 1120, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/5361f56c138943ed262689cbf89fd3068278d72c53f204fb7851696fd0491d8f2b68c1ecdc54a1a0eae2922f028f43a3d0ed1e6350a5e55a3d2271f86fe3bed6"}, "component_image_2x1": {"width": 2240, "url": "https://lh3.googleusercontent.com/aW-drSqjDTevnBpCYEdZmKJREzEvmyEq6JMbOoMYxf4ocJaLC6R55ia8VAVCS6wAFBJB8AXv0T25tQWXhfSodX0Guoq5UDa_R-51f8hTvC_Ea8NNzLf5", "height": 1120, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/9005dfc1cbdc69020c5ca8f2aa28f35d0847a709173c2215c9e6af6c298862d5836822deb4942ecad6ce3945f67f893d6c66f6ec4c1b657bdc9ee368f556469b"}, "dark_component_image_2x1": {"width": 2240, "url": "https://lh3.googleusercontent.com/Vhf5YytG6OxsFcvRMX7d98Fv5U74TQFQmZg363l0UqQFHq0pK8wErge-_7RhyfjrCvbkAAw7EVVSzXQXO6F4BHgb5Xaaumq9_kmRU8KADoBYQZj5rXs", "height": 1120, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/a9ed39f8d281a55b2a878613786abd7f168a7a550fe84eb0856343f16197f1d0736ca8262a4c10e08520390c98139786ce15d6c76f5a6a6cd351235d01e2791f"}, "title": "Divider"}
+{
+  "dark_component_image_1x1": {},
+  "mdc_flutter": {
+    "banners": [],
+    "hide_generic_not_available_message": false,
+    "is_beta": false,
+    "meta": {
+      "share_description": null,
+      "keywords": null,
+      "share_image": {},
+      "share_title": null
+    },
+    "document_id": "6689011888422912",
+    "image": [],
+    "hide_intro_block": true,
+    "markdown_content": null,
+    "title": "Divider",
+    "up_next_section": {
+      "items": []
+    },
+    "markdown_path": null
+  },
+  "component_image_3x1": {
+    "width": 3360,
+    "url": "/lh3.googleusercontent.com/uVEFFLk8Spkt0bqUSuRYU_d2dn-KTb2EodtHA_w767HXmn4RmRtdy86Wy6L-8PMCU3bg9czSPJrnecnchrGNnzbxE1dyyM4EJ_LvqwYpHPs5aDLSvLM",
+    "height": 1120,
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/2da4013a8d882238edcae33b4b3ad3843a5be60e0af63a14cc4b49a866e8143cfffa1ef8654c896df9265c9c07aa5f06ed6bab7b15333909ebaea044f70933f4"
+  },
+  "mdc_android": {
+    "banners": [],
+    "hide_generic_not_available_message": false,
+    "is_beta": false,
+    "meta": {
+      "share_description": null,
+      "keywords": null,
+      "share_image": null,
+      "share_title": null
+    },
+    "document_id": "6243197772759040",
+    "image": [
+      {
+        "caption": null,
+        "case": null,
+        "a11y_description": "Dividers in a layout",
+        "file": {
+          "width": 1064,
+          "url": "/lh3.googleusercontent.com/AO7jy0_jiKTemtalINZ2dnjG85wnHsXWYxEdIGzl4_T01OpbPkX-rvRwV5X87PWL2FLF_9Ryx3Vt4ZJC_K0OtpTYjnOCENpehfXCqPjWRfZ2Brvl3r4",
+          "height": 710,
+          "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_293ae6e29e4b420a9648cf846508437a_/f469c76abaf23f4bc4c8ec1eb9f73d9257ecd2e1d35fa9b881f98eeede89c3da0df9d2fdabeea2745e2b0f079a144a26047ecc742969c93921fa157f0081ed79"
+        },
+        "bordered": true
+      },
+      {
+        "caption": null,
+        "case": null,
+        "a11y_description": "Gray full-bleed divider example",
+        "file": {
+          "width": 1080,
+          "url": "/lh3.googleusercontent.com/4ES2O2eH2fUBQ25aDb89oSfgaGyYedKhSW0VQt7dRdXcNnmV2wRPm4-kJdJeV_XtYunRQmI3SWOC_7ot-K3bF0LKBPnmNk22F3IEINZlXrQcOPvRwA",
+          "height": 56,
+          "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_293ae6e29e4b420a9648cf846508437a_/148d06eab450149003bafcaa299f485580cb63b1c70f8f12108744fc861b223c292befec2d61dc726bfe3356d466e85f594d26a082a4e9d2f71663856c5fbdd3"
+        },
+        "bordered": true
+      },
+      {
+        "caption": null,
+        "case": null,
+        "a11y_description": "Vertical list of five items with five gray dividers after each item",
+        "file": {
+          "width": 996,
+          "url": "/lh3.googleusercontent.com/-bXWepb779NzmVjP9Y7Kv7NuoE_X5UH1SkuyuLPOFRFis4ntiBEu350Mg2YtSvTCDsYtrei1rM8iVUApo8-jVFLGO7qDKlO_DEp2FQ9ZAFgUs6aztYk",
+          "height": 516,
+          "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_293ae6e29e4b420a9648cf846508437a_/71addfbfdfca08ff932a38b98560acd8144abfb99f5d0900d5119f54ba3a21a4cd83712d376eaffed47ccb95858f0284d12c526c0c72e34aedaa557d0fbafda4"
+        },
+        "bordered": true
+      },
+      {
+        "caption": null,
+        "case": null,
+        "a11y_description": "Vertical list of five items with five gray dividers that have a start inset",
+        "file": {
+          "width": 996,
+          "url": "/lh3.googleusercontent.com/Mqxu57CTgh_19Pac9soV0waOHMhQKdXSxOWUs_TzyFzOLrCMAMSSzPF2fMJlnTFgKKUqyzqfEjQRMp-rKobGKgw2F8MFoexktjDYAy4V5KxkRqKY0w",
+          "height": 536,
+          "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_293ae6e29e4b420a9648cf846508437a_/2f7da0f7efd008c09273c5eb4a1d268c2eb1420e1b529a10417322eb1df7add2b75c9fb337b643a1818642c73d81d70a9b9017878ac13d6c2224942ea77430cb"
+        },
+        "bordered": true
+      },
+      {
+        "caption": null,
+        "case": null,
+        "a11y_description": "Vertical list of five items with four gray dividers",
+        "file": {
+          "width": 996,
+          "url": "/lh3.googleusercontent.com/gXxwgzbQTER98Fcyq00WTw_FV3eQWuHzBUiNXwTUzc3OzGXkW-hbDJJVrUAXlgvHkxG9IxAZbyD7H3WTymDt8Isb467qMWwgHRLa6eLDHMqgl1qUxqE",
+          "height": 516,
+          "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_293ae6e29e4b420a9648cf846508437a_/7c3d0527f21d9728394193cf434ad694eac54dcce93188c0f420b6a7d0f46338801b0e06708d6b62146a98ed47d1504c0031015fbacca9274748df7b34d9b8ec"
+        },
+        "bordered": true
+      },
+      {
+        "caption": null,
+        "case": null,
+        "a11y_description": "Pink full-bleed divider",
+        "file": {
+          "width": 1080,
+          "url": "/lh3.googleusercontent.com/-fME3iP8gv8zP6pGp8Fb7jQNJCLYr-z9bXcap_QOONhbqCt20A40Gbo-X95ObQswu7w-w8gsTnitjhykvILo0-65HdWDjePh_ctXU2S34fkzoQrw8w",
+          "height": 52,
+          "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_293ae6e29e4b420a9648cf846508437a_/220cff1db3be07fc2c8082772004f94e3da534896f18ccf10962f4637dd40b39d6fd379a326e2d20b9d25aa12c88ca84bef74024c6c27524aae5455a9907c86a"
+        },
+        "bordered": true
+      }
+    ],
+    "hide_intro_block": true,
+    "markdown_content": "<!--docs:\ntitle: \"Dividers\"\nlayout: detail\nsection: components\nexcerpt: \"Dividers separate content into clear groups.\"\niconId: divider\npath: /catalog/dividers/\n-->\n\n# Dividers\n\n[Dividers](https://material.io/components/dividers) separate content into clear\ngroups.\n\n<mio-image index=0></mio-image>\n\n**Contents**\n\n*   [Using dividers](#using-dividers)\n*   [Divider's key properties](#key-properties)\n*   [Theming dividers](#theming-dividers)\n\n## Using dividers\n\nBefore you can use Material dividers, you need to add a dependency to the\nMaterial Components for Android library. For more information, go to the\n[Getting started](/libraries/mdc-android/getting-started)\npage.\n\n### `MaterialDivider`\n\nAPI and source code:\n\n*   `MaterialDivider`\n    *   [Class definition](https://developer.android.com/reference/com/google/android/material/divider/MaterialDivider)\n    *   [Class source](https://github.com/material-components/material-components-android/tree/master/lib/java/com/google/android/material/divider/MaterialDivider.java)\n\nThe `MaterialDivider` is a view that can be used in layouts to separate content\ninto clear groups.\n\n**Note:** Make sure to set `android:layout_height=\"wrap_content\"` on the\n`MaterialDivider` to ensure that the correct size is set for the divider.\n\nThe full-bleed divider is displayed below:\n\n<mio-image index=1></mio-image>\n\nOn the layout:\n\n```xml\n<com.google.android.material.divider.MaterialDivider\n    android:layout_width=\"match_parent\"\n    android:layout_height=\"wrap_content\"/>\n```\n\nBy default, dividers will be full-bleed. You can use `app:dividerInsetStart` and\n`app:dividerInsetEnd` to achieve the look of an inset or middle divider:\n\n```xml\n<com.google.android.material.divider.MaterialDivider\n    android:layout_width=\"match_parent\"\n    android:layout_height=\"wrap_content\"\n    app:dividerInsetStart=\"16dp\"\n    app:dividerInsetEnd=\"16dp\"/>\n```\n\nOr in code:\n\n```kt\ndivider.setDividerInsetStart(insetStart)\ndivider.setDividerInsetEnd(insetEnd)\n```\n\n### `MaterialDividerItemDecoration`\n\nAPI and source code:\n\n*   `MaterialDividerItemDecoration`\n    *   [Class definition](https://developer.android.com/reference/com/google/android/material/divider/MaterialDividerItemDecoration)\n    *   [Class source](https://github.com/material-components/material-components-android/tree/master/lib/java/com/google/android/material/divider/MaterialDividerItemDecoration.java)\n\nThe `MaterialDividerItemDecoration` is a `RecyclerView.ItemDecoration`, similar\nto a `DividerItemDecoration`, that can be used as a divider between items of a\n`LinearLayoutManager`. It supports both horizontal and vertical orientations.\n\nA list with full-bleed dividers is displayed below:\n\n<mio-image index=2></mio-image>\n\nIn code:\n\n```kt\nval divider = MaterialDividerItemDecoration(context!!, LinearLayoutManager.VERTICAL /*or LinearLayoutManager.HORIZONTAL*/)\nrecyclerView.addItemDecoration(divider)\n```\n\nBy default, dividers will be full-bleed. To achieve the look of an inset or\nmiddle divider:\n\n<mio-image index=3></mio-image>\n\nIn code:\n\n```kt\ndivider.setDividerInsetStart(insetStart)\ndivider.setDividerInsetEnd(insetEnd)\n```\n\nOptionally, you can hide the last divider of a list:\n\n<mio-image index=4></mio-image>\n\nIn code:\n\n```kt\ndivider.setLastItemDecorated(false)\n```\n\n### Making dividers accessible\n\nThe divider is a decorative element. There are no special accessibility\nprecautions for the divider.\n\n## Key properties\n\n### Dividers attributes\n\nElement                 | Attribute               | Related method(s)                                                                    | Default value\n----------------------- | ----------------------- | ------------------------------------------------------------------------------------ | -------------\n**Thickness**           | `app:dividerThickness`  | `setDividerThickness`<br/>`setDividerThicknessResource`<br/>`getDividerThickness`    | `1dp` for the regular divider <br/> `8dp` for the heavy divider\n**Color**               | `app:dividerColor`      | `setDividerColor`<br/>`setDividerColorResource`<br/>`getDividerColor`                | `?attr/colorOutline`\n**Start inset**         | `app:dividerInsetStart` | `setDividerInsetStart`<br/>`setDividerInsetStartResource`<br/>`getDividerInsetStart` | `0dp`\n**End inset**           | `app:dividerInsetEnd`   | `setDividerInsetEnd`<br/>`setDividerInsetEndResource`<br/>`getDividerInsetEnd`       | `0dp`\n**Last item decorated** | `app:lastItemDecorated` | `setLastItemDecorated`<br/>`isLastItemDecorated`                                     | `true`\n\n### Styles\n\nElement           | Style\n----------------- | -------------------------------------------\n**Default style** | `Widget.Material3.MaterialDivider`\n\nDefault style theme attribute: `?attr/materialDividerStyle`\n\nSee the full list of\n[styles](https://github.com/material-components/material-components-android/tree/master/lib/java/com/google/android/material/divider/res/values/styles.xml)\nand\n[attrs](https://github.com/material-components/material-components-android/tree/master/lib/java/com/google/android/material/divider/res/values/attrs.xml).\n\n## Theming dividers\n\nDividers support\n[Material Theming](https://material.io/components/selection-controls#theming) and therefore can have their colors customized.\n\n### Divider theming example\n\nAPI and source code:\n\n*   `MaterialDivider`\n    *   [Class definition](https://developer.android.com/reference/com/google/android/material/divider/MaterialDivider)\n    *   [Class source](https://github.com/material-components/material-components-android/tree/master/lib/java/com/google/android/material/divider/MaterialDivider.java)\n*   `MaterialDividerItemDecoration`\n    *   [Class definition](https://developer.android.com/reference/com/google/android/material/divider/MaterialDividerItemDecoration)\n    *   [Class source](https://github.com/material-components/material-components-android/tree/master/lib/java/com/google/android/material/divider/MaterialDividerItemDecoration.java)\n\nThe following example shows a divider with Material Theming.\n\n<mio-image index=5></mio-image>\n\n#### Implementing divider theming\n\nUse theme attributes in `res/values/styles.xml`, which applies to all dividers\nand affects other components:\n\n```xml\n<style name=\"Theme.App\" parent=\"Theme.Material3.*\">\n    ...\n    <item name=\"colorOutline\">@color/shrine_pink_900</item>\n</style>\n```\n\nUse default style theme attributes, styles and theme overlays, which apply to\nall dividers but do not affect other components:\n\n```xml\n<style name=\"Theme.App\" parent=\"Theme.Material3.*\">\n    ...\n    <item name=\"materialDividerStyle\">@style/Widget.App.MaterialDivider</item>\n</style>\n\n<style name=\"Widget.App.MaterialDivider\" parent=\"Widget.Material3.MaterialDivider\">\n    <item name=\"materialThemeOverlay\">@style/ThemeOverlay.App.MaterialDivider</item>\n</style>\n\n<style name=\"ThemeOverlay.App.MaterialDivider\" parent=\"\">\n    <item name=\"colorOutline\">@color/shrine_pink_900</item>\n</style>\n```\n\nMore easily, you can also change the divider color via the `?attr/dividerColor`\nattribute:\n\n```xml\n<style name=\"Widget.App.MaterialDivider\" parent=\"Widget.Material3.MaterialDivider\">\n   <item name=\"dividerColor\">@color/shrine_divider_color</item>\n</style>\n```\n\nor use the style in the layout, which affects only this divider:\n\n```xml\n<com.google.android.material.divider.MaterialDivider\n    style=\"@style/Widget.App.MaterialDivider\"\n    android:layout_width=\"match_parent\"\n    android:layout_height=\"wrap_content\"/>\n```\n",
+    "title": "Divider",
+    "up_next_section": {
+      "items": []
+    },
+    "markdown_path": "docs/components/Divider.md"
+  },
+  "component_image_3x2": {
+    "width": 1680,
+    "url": "/lh3.googleusercontent.com/naSYlMOvlgIDAys0tmMI9M_f13QDSn6V9VQttBmwicYu2YShLaEeg5BbR6GLj-f6kHdp9KhDOoq1Ja2_YmNx_PRBBJw32g9SvlM4oYTWeiIjrvJCZA",
+    "height": 1120,
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/fda371d37019eafe97f92dd28e57cb5e047228dc035a24e17ad8aeb40b9c20793131151b2c1c2e219d9f4de00b0d42109f0bb6a20e887b401515a4797e00df16"
+  },
+  "mdc_web": {},
+  "page_hero": {
+    "main_background_image": {},
+    "full_width_content_centered": false,
+    "foreground_image_2x1_dark_mode": {
+      "width": 4000,
+      "url": "/lh3.googleusercontent.com/GKwTYDZPVltoWws_kSIQ0gIHUctKBxXIglzny5_zrhBS2gmo3iKpHKAxp7XbjvHANFpH6c9dk71C8w3LJHSn_qpeK0BauD_D1FzYZXPUaRCjKQAQjEaY",
+      "height": 2000,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/333107cfe79af44ab9e4c5289c3747589b8e6594afba20865753ad1f8cdc7d3e04c55a86db9960e7480f5c7f842ca37270f259d775bb6a903f57bae3c3bcf24f"
+    },
+    "foreground_image_1x1_dark_mode": {
+      "width": 2240,
+      "url": "/lh3.googleusercontent.com/kdbYyu-mfCY_rd1ipJBOhv5eOquAaG0-6dWx7cVx6XXcKIBKxLlvBPxKZAuPMwvE6vWmsOdGlZhu5JOyTWRGJkUyOl-YQ2DWMvo-wV1HDXubry6gxdc",
+      "height": 2240,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/1a059b06a01b9554b9a6b297d23ba51e2433c544b0c2a32231b080523cda01dd4552b8f7b254642e693efb514a258943611e91ad3c2280dddba269b45aab05a4"
+    },
+    "split_background_image_dark_mode": {
+      "width": 6900,
+      "url": "/lh3.googleusercontent.com/Qm7N_69-LfTOIcINCDkTfQiGDee5Cq9RjWVkKXAuZHYHGXIiErWZRtZdjXh9Y9KY87xZIy3udXj2kJeb_SuKOSvpZ7AU1NHZJOxYm8eBO-F-jq_B6DE",
+      "height": 6900,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/5da76e4cc075e304f5138b1a3f620c3eff9d0cfbb6d85f1507aeaa56ba304477e4c622be320bcd2b33e5d0722c1ef99d315461031aa5968758b193278fec4aaf"
+    },
+    "main_background_image_dark_mode": {},
+    "foreground_image_2x1": {
+      "width": 4000,
+      "url": "/lh3.googleusercontent.com/MBSlOtOezSiYODxCjKt0La0AGZlXikyzcbp-x18U2rQWvTgV4HvqCGerR-VU2s5WOmSy-zG-DELMdRyoWq3h3stybL0sNDx3JJt1UfyGDbSO1WN7S-4",
+      "height": 2000,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/36f97beede6812274bed3b21f56b95f0081dd7f97fdf308b5a62e0e4f5bac8fd9bd5f555c8bd014248621eaf9e4047d03742e7c8d62bc81dc2e34686093c326c"
+    },
+    "vertical_foreground_alignment_override": "position_bottom",
+    "foreground_image_1x1": {
+      "width": 2240,
+      "url": "/lh3.googleusercontent.com/pzQv-Ex4J3ZWuSYVy16TT3Ry9QsVaJA9H2CVgWI1Kk0iA7T7N6Ehs9VUynUeI7ttwDj2NuTsdmcas9PeUm0h1wuNCGazrkkuvSIh4AFZMRIWy4oyPEw-",
+      "height": 2240,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/c856e1aae033d36b4b4e5af180b883ecb9174ff1110f0574fdac30c4e733b180f8fccaa4c89a3fe0f4689fd89ab0fe17f0ad5e1e46160f343b1137dad9224a9f"
+    },
+    "split_background_image": {
+      "width": 6900,
+      "url": "/lh3.googleusercontent.com/JAvDtrmoRxZ1JFLP9KP355g7kmnz7PNCVG6fI1D6ZQlohR7WBnBu6pf5p9OTZvAQ2C7XjpBWqJyBpf-MOG4s-g7wOxrIEGMhu90aV796wXNzPeYfxN0",
+      "height": 6900,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/662e4591d8487b5da221b6cd533be1b4d8eff397657acf0bba7243270812e8c965cfc51697a462f6d5148894f117714cbc7fc61aa01d1eb8b5aec00794838cb2"
+    },
+    "horizontal_foreground_alignment_override": null,
+    "full_width": false
+  },
+  "hero": {
+    "background_image": {
+      "width": 1000,
+      "url": "/lh3.googleusercontent.com/yD6qYtg5FUK_KFZdLPZmuDTkYnTPFrXUVT19_gXcBGyzhp35CNv4lpC1Dgor7Pt5B-zSVWkLGonUE75FsroWosevi6gA5VgNdCue3TyAuCg4mpRArGvp",
+      "height": 1000,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/ef949295b4dd9f255056b4392531fa31b39694b299fbe4d2bcec4fb2e638c62ee38faad236b978b0d35295caa637b4231f0c09ce303ee659680bd628b00f0adc"
+    },
+    "foreground_text_light": false,
+    "foreground_image_alignment": "top",
+    "foreground_image": {
+      "width": 880,
+      "url": "/lh3.googleusercontent.com/1dyPnei5pPDwTCYWLwSQeHh6G06bI9CyCII07gy-9PK3KdNP7xhvCe97gXihcTt11fYXHeLVFoXgeghn41ZCJJAr0aEI0cdT-NZYHhzf3ysONgXs_g",
+      "height": 1100,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/8e545d4396b9f7ad5773f8edf4460b73afa7ca3e90ced6ba9f890483f3b182c1253fac2ffb6e0d4188e7ba013be4de616321f221ad7a38a34e5d9500f23628a8"
+    },
+    "foreground_image_svg": null
+  },
+  "component_image_position": "center",
+  "jetpack": {},
+  "ia_title": "Components / Divider",
+  "category": "containment",
+  "document_id": "6718319889612800",
+  "isDisplayed": true,
+  "description": "A divider is a thin line that groups content in lists and containers.",
+  "metadata": {
+    "share_description": "A divider is a thin line that groups content in lists and containers.",
+    "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, Material Design Components, Material Components, components, cards",
+    "share_image": {
+      "width": 2000,
+      "url": "/lh3.googleusercontent.com/_-c2H9N7K8YBXciSYFGOLZC_Oz1UD6sGTj4X6sXgRoT6b0yKzHQsbPEfJO5B5F3-rjVtY-JC5k0hElzxZI9Q-YREDtjpIRYO1Ya0q3vFOUuAJDd7OY4",
+      "height": 1000,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/e76552952d19307f7f6777ad96e8c3cad3e69c747bb14e5a915248c4ec87ad2c7f8100d948f53cd8312918ce141e1dc4af02caa4c3d50c4756f73911d142d9b8"
+    },
+    "share_title": "Divider \u2013 Material Design 3"
+  },
+  "component_image_1x1": {},
+  "dark_component_image_3x2": {
+    "width": 1680,
+    "url": "/lh3.googleusercontent.com/ZvO1IuNg131v5sj1lPfADqLk6Scs0JR_imUBFgmjTcPitu--1aFLV278wVY5cgoj67kLLA_IFojPHeFrr1xdMK20H3Av5n7tgZZFCG0F5J-gJ1uN2A",
+    "height": 1120,
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/8f0d526d6c0e075bfe1bf639111e71e94204d7c66f548401c65d4b7a4157d9b44e43796bace5ed145f793c90dbd40b4dfd5657927d54b1333c82b6fa2f2a2fc9"
+  },
+  "dark_component_image_3x1": {
+    "width": 3360,
+    "url": "/lh3.googleusercontent.com/75klWESmVrb8fRGqK6tTIwYAVjoo7DT4pGpVr0p5MBdK7ReU0SnsQzrIZfc_GWu_DB1m5noikTik9kobCpZIF3TU9mSdUYD5xfJIaXczQGiwP17-H6M",
+    "height": 1120,
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/5361f56c138943ed262689cbf89fd3068278d72c53f204fb7851696fd0491d8f2b68c1ecdc54a1a0eae2922f028f43a3d0ed1e6350a5e55a3d2271f86fe3bed6"
+  },
+  "component_image_2x1": {
+    "width": 2240,
+    "url": "/lh3.googleusercontent.com/aW-drSqjDTevnBpCYEdZmKJREzEvmyEq6JMbOoMYxf4ocJaLC6R55ia8VAVCS6wAFBJB8AXv0T25tQWXhfSodX0Guoq5UDa_R-51f8hTvC_Ea8NNzLf5",
+    "height": 1120,
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/9005dfc1cbdc69020c5ca8f2aa28f35d0847a709173c2215c9e6af6c298862d5836822deb4942ecad6ce3945f67f893d6c66f6ec4c1b657bdc9ee368f556469b"
+  },
+  "dark_component_image_2x1": {
+    "width": 2240,
+    "url": "/lh3.googleusercontent.com/Vhf5YytG6OxsFcvRMX7d98Fv5U74TQFQmZg363l0UqQFHq0pK8wErge-_7RhyfjrCvbkAAw7EVVSzXQXO6F4BHgb5Xaaumq9_kmRU8KADoBYQZj5rXs",
+    "height": 1120,
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/a9ed39f8d281a55b2a878613786abd7f168a7a550fe84eb0856343f16197f1d0736ca8262a4c10e08520390c98139786ce15d6c76f5a6a6cd351235d01e2791f"
+  },
+  "title": "Divider"
+}

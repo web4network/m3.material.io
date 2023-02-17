@@ -1,1 +1,307 @@
-{"page_title": "Flutter", "sections": [{"two_column_stacked": false, "title": "Announcements", "cards": [{"thumbnail_image": {"url": "https://lh3.googleusercontent.com/qokcfA53fxUIq4NfT4BaIrycRc92c6CiMlNEVntZsnQpbYb43IdUuAd75bV3L3fKCt1YS-XlwoCsLFZbLa8F48Cwt7a454Pe7hkEccmfsinW6BDJTxq8", "width": 1600, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/6f77afac16dd2249f24e78afe9f031b2da6b5c0b2c906aa0fa740bf08a021cd2a39fff1c18b6a02980db9e7daaaa16efc0a1820bc44f86f3365d179e6c2d8d2e", "height": 660}, "icon": null, "link": {"open_new_window": true, "href": "https://flutter.gskinner.com/wonderous/", "aria_label": "Check out the Flutter 3.3 Stable Release Sample app", "label": "Flutter 3.3 Stable Release Sample app"}, "size": "medium", "overline": null, "description": "Wonderous pushes visual fidelity, effects, and transitions to showcase Flutter capabilities on modern mobile hardware.", "background_image": {}, "title": "Sample app: Wonderous"}, {"thumbnail_image": {"url": "https://lh3.googleusercontent.com/AeNQQetW0pi2m0msUmIBg9Z9RQbcxx_NePMIt2bPNa-SmiWg2lH1GObE3TDAR7h8U2OwB3UkcVH2_qZv4vUXfS54PnjJpJpZvrID8t_E8qKBWAV7mh4", "width": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/7df7f37c76077976c2071f817d10fe2d592dd3cead92928cb1f3068cf09124b8f2963dc859e6d3b46a14f14e11f709d01ea995ad44a217f5e4c732503bb7a799", "height": 1200}, "icon": null, "link": {"open_new_window": true, "href": "https://flutter.github.io/samples/web/material_3_demo/#/", "aria_label": "Material 3 Flutter Showcase", "label": "Material 3 Flutter Showcase"}, "size": "medium", "overline": null, "description": "Demo of Material 3 features, including updated components, typography, colors, and elevation support.", "background_image": {}, "title": "Material 3 Flutter Showcase"}], "description": "<p><span style=\"white-space: pre-wrap;\">The latest from Material for Flutter</span></p>"}, {"two_column_stacked": false, "title": "Resources & documentation", "cards": [{"thumbnail_image": {"url": "https://lh3.googleusercontent.com/dXbSdX3dXoapDCHIAT2bIpcUKwlRy5N0fELgAkGwHusLdkid9EdDb3yFxtu_kXPX2TlkE5R5aegKS37wvJlz2RhpqPnpUq6AzZZshpwvDM3LNZZoN1E", "width": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/b109cd93d7e10d89a1656bbe86b7a7a99870c222791e63a02a1cf3cb343e49b66b539696bc977088e2b54e4c3bef0ce68373990646937d8c8d29881e16307e3a", "height": 1200}, "icon": null, "link": {"open_new_window": true, "href": "https://github.com/flutter/flutter/issues/91605", "aria_label": "Material Flutter GitHub issue", "label": "Material Flutter GitHub issue"}, "size": "small", "overline": null, "description": "Umbrella tracking issue for all past and future engineering work on Flutter support for Material 3.", "background_image": {}, "title": "Material 3 GitHub issue"}, {"thumbnail_image": {"url": "https://lh3.googleusercontent.com/L-rVRIfi6E196mKrNXsHs1vOue-w3tQ4Jk90jrFG5jwkYcFHHRy6_bgAGJAQQkEIKUgnUboGC-l-1n9Q9bYzaIqFnOY0oTAb0k_-tgSyc_okEmH3mA", "width": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/55dcc8c3224a7878566a541833666ecbfba99b597e0ede4c18fffeb3953e90f7c425517571a1817af29b6fc40fda776eb18fa97b89069572da31574f04e01e46", "height": 1200}, "icon": null, "link": {"open_new_window": true, "href": "https://api.flutter.dev/flutter/material/ThemeData/useMaterial3.html", "aria_label": "Opt-in with useMaterial3 flag", "label": "Opt-in with useMaterial3 flag"}, "size": "small", "overline": null, "description": "Set ThemeData.useMaterial3 to true for updated components and to apply new typography, color, elevation, and more.", "background_image": {}, "title": "Opt-in with useMaterial3 flag"}, {"thumbnail_image": {"url": "https://lh3.googleusercontent.com/d8EJCSQKFU7qPRpxM6nzq0VuehhXTjEN9Xry2m8k3vFXNNjZH7kSOieulhuYcJubNCgnoGaFyAO-c0QPo2kVTmFuDALky1iwW5WJIj26ZGF_3yz_cNDB", "width": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/f7441a9b227c64fc51e9d2ae9a0dce4bb18af30a6f31217d62f5aab3511b5423aa40aac945c45ebedc300ee5dbce3ca300312eec50ba0cac75e55f3c44dd786d", "height": 1200}, "icon": null, "link": {"open_new_window": true, "href": "https://flutter.dev", "aria_label": "Flutter.dev", "label": "Flutter.dev"}, "size": "small", "overline": null, "description": "Google's UI toolkit for building beautiful, natively compiled applications from a single codebase.", "background_image": {}, "title": "Flutter.dev"}, {"thumbnail_image": {"url": "https://lh3.googleusercontent.com/piwuRKMvd6HPTuEx8wNatKXTqMVlJ_vNsz56YOfb-NO2stz-YBQNVTdzOIxPuRflUSJV7w4Ct5bjw53TwWFAs-3LKod0SDaoHA33OUdcfzLIPzkr874", "width": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/2f0ce7d79243ef09629a754d0780758326d0a43e2f37ec4bb6e79b27e915fbce5678301cc9dfcd07bb189c794edbd08f0076b86d93f796ece41333b8f76ce837", "height": 1200}, "icon": null, "link": {"open_new_window": true, "href": "https://codelabs.developers.google.com/codelabs/flutter-boring-to-beautiful", "aria_label": "Visit the Material 3 Flutter codelab", "label": "Take your Flutter app from boring to beautiful"}, "size": "small", "overline": null, "description": "Step-by-step codelab on how to apply Material 3 in your Flutter app.", "background_image": {}, "title": "Take your Flutter app from boring to beautiful"}, {"thumbnail_image": {"url": "https://lh3.googleusercontent.com/iKZikJ19fnwGhsXKo0f9R218eo5auXIi6srLWVlfxmpXDTSTmH8YS6laTBrblm43RGiNPZKbeIjn_161SQOZL1I1Lp-yx0bYB3GdHa7FS95mBU-TLIk", "width": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/60c6c2ac04d53d3d5f2ecfe92de97d537cca8942e9fe5d3ddd7ae30bc5bb0194be786a6b596c080cd6bc580a4057a54658e6369210c5d06f4fa4ddf11f843c80", "height": 1200}, "icon": null, "link": {"open_new_window": true, "href": "https://material.io/blog/5-steps-large-screen-apps", "aria_label": "Read the 5 Steps to prepare your app for large screens blog post", "label": "5 Steps to prepare your app for large screens"}, "size": "small", "overline": null, "description": "What to prioritize when building a responsive UI experience.", "background_image": {}, "title": "5 Steps to prepare your app for large screens"}, {"thumbnail_image": {"url": "https://lh3.googleusercontent.com/k3FtSZ7LP6TnmNrzXcGvePfGI2xxlQPbQHsAXECFQA5ZhfZ75IpYD8N6W6aOPqYrNdNWVlQxJjiulOUiKohOkwtAqV2JIryAV_0sUsukRR9yg39s2kq7", "width": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/f954ebaa9868f277e8fe4a66a8ecd863188cab4c65624078c7f8b251e0316ad2f83e2f8459b23704cf267948a88c7051ea9d90bd0e740565d7979b69c418490d", "height": 1200}, "icon": null, "link": {"open_new_window": true, "href": "https://www.youtube.com/watch?v=VXNk9eyOsa8", "aria_label": "Watch the Material Motion in Flutter and Android", "label": "Material Motion in Flutter and Android"}, "size": "small", "overline": null, "description": "Video on how to make beautiful motion using Flutter and the Material Motion system.", "background_image": {}, "title": "Material Motion in Flutter and Android"}, {"thumbnail_image": {"url": "https://lh3.googleusercontent.com/FCLRD5odlmyePQ2w2x5nD4-WeGaDu34TuHrAU8h9L8NLFABqCvmk44nGE7WT46NkzSpqPMiIxPX25KI4T2kn04HmTiAMb5Tt5SjKPuRyZ58wyWaBIg", "width": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/ab80a4e815bfffc640e1cfb046dd3f43513c20acb5920aa4cf284c59ed5e2612c3d5b869a3daeba9c161fd93e2a5e1cdffc1c11175c27ee2d0d39c2fbe1d29e2", "height": 1200}, "icon": null, "link": {"open_new_window": true, "href": "https://www.youtube.com/watch?v=cbPe9_DKLYw", "aria_label": "Watch the Choosing the right navigation for your app video on youtube", "label": "Choosing the right navigation for your app"}, "size": "small", "overline": null, "description": "Video tutorial on choosing between the nav bar, drawer, rail, tabs, or another pattern.", "background_image": {}, "title": "Choosing the right navigation for your app"}, {"thumbnail_image": {"url": "https://lh3.googleusercontent.com/GY2HVqGNXH3MHVJlwtI_lXuLn3xo0yVuO6R_eNushtdUFuMNSJW6N4l4ZMjkx1vgiSOTtK4xEJfFQ4N3oP6J8aDw2yjiKfmLkLdaqlxJTch3S827k4lR", "width": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/2ab7a90e5aed5d0ba2d48fdd98d06ceee8d7e84d10e980d35e329b46bf904734d2ed27eb82cdbc9301ea34987146157a6aa8a0511e6d3af988670b53acd9970c", "height": 1200}, "icon": null, "link": {"open_new_window": true, "href": "https://pub.dev/packages/flutter_adaptive_scaffold", "aria_label": "Flutter Canonical layouts", "label": "Flutter Canonical layouts"}, "size": "small", "overline": null, "description": "See how to build an adaptive, responsible application using Material 3 canonical layouts with the adaptive_scaffold package.", "background_image": {}, "title": "Material 3 Canonical layouts"}, {"thumbnail_image": {"url": "https://lh3.googleusercontent.com/13MWgpnFSseEAvw8Vs_k4etYLB4WZ0eqsKoQ8g0INvCx96hXOPelmK4p_WWueTmf9goyzBx57_GISfg4LhmKSFFNam8lwz6cunYl1wL3vklvfrDwPCbL", "width": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/69b473a7640ea91673918a73c67b79b41a2925c7c4df85fae0ac0a31fd4ef61c033d5c4d059f8e392205e77ff353804dad93df73b00592fa58e695ac4aac7d68", "height": 1200}, "icon": null, "link": {"open_new_window": true, "href": "https://docs.flutter.dev/development/ui/widgets/material", "aria_label": "Material Components widgets for Flutter", "label": "Material Components widgets"}, "size": "small", "overline": null, "description": "The Flutter team is currently working on Material Design 3 support for Material Components widgets.", "background_image": {}, "title": "Material Components widgets"}], "description": "<p><span style=\"white-space: pre-wrap;\">Guides, developer docs, tutorials, and more</span></p>"}], "page_hero": {"full_width": true, "full_width_content_centered": false, "ctas": [], "split_background_image": {}, "foreground_image": {}, "foreground_image_svg_dark_mode": {}, "foreground_image_dark_mode": {}, "foreground_image_alignment": "top", "resources": [{"icon": "link", "link": {"open_new_window": true, "href": "https://flutter.dev/", "aria_label": "Visit the Flutter.dev site", "label": "Flutter.dev"}, "overline": null, "description": "Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.", "background_image": {}, "title": "Flutter.dev"}, {"icon": "link", "link": {"open_new_window": true, "href": "https://github.com/flutter/flutter/issues/91605", "aria_label": "Visit the Material Flutter Github repo", "label": "Material Flutter Github Repo"}, "overline": null, "description": "Follow Flutter Material 3 on GitHub to stay up to date on available component support.", "background_image": {}, "title": "Material Flutter Github Repo"}], "foreground_text_light": false, "main_background_image_dark_mode": {"url": "https://lh3.googleusercontent.com/NIhI-FXSo8rdY6vaLiMNv8-JjXkKwoKj47pkW4KqJXQ8N_KIBTgZQw5luKK3IKbx-yirbMtCH4w3DCvjs0J1eF3e8x1muDXY4-53IXNxlDe4upqFCTQ", "width": 4334, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/26048170c5dbcdeaa8c5f311017f82b255c7c29ae4897b672c17c2543d50e1f3c545babfa6b043c1eb795c540373d43394c0a53e2819c4f459b44e5eb42e1211", "height": 4096}, "description": "A framework for building beautiful, natively compiled applications from a single codebase. Support is in progress for Material Design 3.", "split_background_image_dark_mode": {}, "main_background_image": {"url": "https://lh3.googleusercontent.com/0QCjQ6qaoiTQgpe62mkPBXf-cCyGgUKU7gKtW2KhF5bGGvqu9cUME6ZzsqzPQAjPImE7FGTNtliQF0ohDjMXb0id60zfhf6ch7x8XPZVvxsNhBgWo0I", "width": 4334, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/db62e621453165cc1ef761871b4d279026fb70c21ce0d5b62f2b7c43dea59347e603b50f6d19778a25d466d6a018287c6dd75667534eac0c58776d25d1b8f478", "height": 4096}, "video_file": {}, "foreground_image_svg": null, "title": "Flutter"}, "document_id": "6341287376715776", "metadata": {"keywords": null, "share_image": {"url": "https://lh3.googleusercontent.com/IJaubfnrgu9olzEvqyUUG1BNcBYBenOmosCHBefFhUGgE276QWtn3sUh1277YMibP_2aNmb3awSy-IkDSInP2jIdywTkxIsKcG6PBROHVIuLMoq8x6RT", "width": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/f32a1670c7547a7a093a42ad51330bd421f6fb39f89a4820f69d156afe855f6d148ad6b7e102fe6675ea1c7f990518faf15db62b11082acca8c28bd3194c9651", "height": 630}, "share_title": "Flutter \u2013 Material Design 3", "share_description": "Start building with Flutter"}}
+{
+  "page_title": "Flutter",
+  "sections": [
+    {
+      "two_column_stacked": false,
+      "title": "Announcements",
+      "cards": [
+        {
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/qokcfA53fxUIq4NfT4BaIrycRc92c6CiMlNEVntZsnQpbYb43IdUuAd75bV3L3fKCt1YS-XlwoCsLFZbLa8F48Cwt7a454Pe7hkEccmfsinW6BDJTxq8",
+            "width": 1600,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/6f77afac16dd2249f24e78afe9f031b2da6b5c0b2c906aa0fa740bf08a021cd2a39fff1c18b6a02980db9e7daaaa16efc0a1820bc44f86f3365d179e6c2d8d2e",
+            "height": 660
+          },
+          "icon": null,
+          "link": {
+            "open_new_window": true,
+            "href": "https://flutter.gskinner.com/wonderous/",
+            "aria_label": "Check out the Flutter 3.3 Stable Release Sample app",
+            "label": "Flutter 3.3 Stable Release Sample app"
+          },
+          "size": "medium",
+          "overline": null,
+          "description": "Wonderous pushes visual fidelity, effects, and transitions to showcase Flutter capabilities on modern mobile hardware.",
+          "background_image": {},
+          "title": "Sample app: Wonderous"
+        },
+        {
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/AeNQQetW0pi2m0msUmIBg9Z9RQbcxx_NePMIt2bPNa-SmiWg2lH1GObE3TDAR7h8U2OwB3UkcVH2_qZv4vUXfS54PnjJpJpZvrID8t_E8qKBWAV7mh4",
+            "width": 2400,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/7df7f37c76077976c2071f817d10fe2d592dd3cead92928cb1f3068cf09124b8f2963dc859e6d3b46a14f14e11f709d01ea995ad44a217f5e4c732503bb7a799",
+            "height": 1200
+          },
+          "icon": null,
+          "link": {
+            "open_new_window": true,
+            "href": "https://flutter.github.io/samples/web/material_3_demo/#/",
+            "aria_label": "Material 3 Flutter Showcase",
+            "label": "Material 3 Flutter Showcase"
+          },
+          "size": "medium",
+          "overline": null,
+          "description": "Demo of Material 3 features, including updated components, typography, colors, and elevation support.",
+          "background_image": {},
+          "title": "Material 3 Flutter Showcase"
+        }
+      ],
+      "description": "<p><span style=\"white-space: pre-wrap;\">The latest from Material for Flutter</span></p>"
+    },
+    {
+      "two_column_stacked": false,
+      "title": "Resources & documentation",
+      "cards": [
+        {
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/dXbSdX3dXoapDCHIAT2bIpcUKwlRy5N0fELgAkGwHusLdkid9EdDb3yFxtu_kXPX2TlkE5R5aegKS37wvJlz2RhpqPnpUq6AzZZshpwvDM3LNZZoN1E",
+            "width": 2400,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/b109cd93d7e10d89a1656bbe86b7a7a99870c222791e63a02a1cf3cb343e49b66b539696bc977088e2b54e4c3bef0ce68373990646937d8c8d29881e16307e3a",
+            "height": 1200
+          },
+          "icon": null,
+          "link": {
+            "open_new_window": true,
+            "href": "https://github.com/flutter/flutter/issues/91605",
+            "aria_label": "Material Flutter GitHub issue",
+            "label": "Material Flutter GitHub issue"
+          },
+          "size": "small",
+          "overline": null,
+          "description": "Umbrella tracking issue for all past and future engineering work on Flutter support for Material 3.",
+          "background_image": {},
+          "title": "Material 3 GitHub issue"
+        },
+        {
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/L-rVRIfi6E196mKrNXsHs1vOue-w3tQ4Jk90jrFG5jwkYcFHHRy6_bgAGJAQQkEIKUgnUboGC-l-1n9Q9bYzaIqFnOY0oTAb0k_-tgSyc_okEmH3mA",
+            "width": 2400,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/55dcc8c3224a7878566a541833666ecbfba99b597e0ede4c18fffeb3953e90f7c425517571a1817af29b6fc40fda776eb18fa97b89069572da31574f04e01e46",
+            "height": 1200
+          },
+          "icon": null,
+          "link": {
+            "open_new_window": true,
+            "href": "https://api.flutter.dev/flutter/material/ThemeData/useMaterial3.html",
+            "aria_label": "Opt-in with useMaterial3 flag",
+            "label": "Opt-in with useMaterial3 flag"
+          },
+          "size": "small",
+          "overline": null,
+          "description": "Set ThemeData.useMaterial3 to true for updated components and to apply new typography, color, elevation, and more.",
+          "background_image": {},
+          "title": "Opt-in with useMaterial3 flag"
+        },
+        {
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/d8EJCSQKFU7qPRpxM6nzq0VuehhXTjEN9Xry2m8k3vFXNNjZH7kSOieulhuYcJubNCgnoGaFyAO-c0QPo2kVTmFuDALky1iwW5WJIj26ZGF_3yz_cNDB",
+            "width": 2400,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/f7441a9b227c64fc51e9d2ae9a0dce4bb18af30a6f31217d62f5aab3511b5423aa40aac945c45ebedc300ee5dbce3ca300312eec50ba0cac75e55f3c44dd786d",
+            "height": 1200
+          },
+          "icon": null,
+          "link": {
+            "open_new_window": true,
+            "href": "https://flutter.dev",
+            "aria_label": "Flutter.dev",
+            "label": "Flutter.dev"
+          },
+          "size": "small",
+          "overline": null,
+          "description": "Google's UI toolkit for building beautiful, natively compiled applications from a single codebase.",
+          "background_image": {},
+          "title": "Flutter.dev"
+        },
+        {
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/piwuRKMvd6HPTuEx8wNatKXTqMVlJ_vNsz56YOfb-NO2stz-YBQNVTdzOIxPuRflUSJV7w4Ct5bjw53TwWFAs-3LKod0SDaoHA33OUdcfzLIPzkr874",
+            "width": 2400,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/2f0ce7d79243ef09629a754d0780758326d0a43e2f37ec4bb6e79b27e915fbce5678301cc9dfcd07bb189c794edbd08f0076b86d93f796ece41333b8f76ce837",
+            "height": 1200
+          },
+          "icon": null,
+          "link": {
+            "open_new_window": true,
+            "href": "https://codelabs.developers.google.com/codelabs/flutter-boring-to-beautiful",
+            "aria_label": "Visit the Material 3 Flutter codelab",
+            "label": "Take your Flutter app from boring to beautiful"
+          },
+          "size": "small",
+          "overline": null,
+          "description": "Step-by-step codelab on how to apply Material 3 in your Flutter app.",
+          "background_image": {},
+          "title": "Take your Flutter app from boring to beautiful"
+        },
+        {
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/iKZikJ19fnwGhsXKo0f9R218eo5auXIi6srLWVlfxmpXDTSTmH8YS6laTBrblm43RGiNPZKbeIjn_161SQOZL1I1Lp-yx0bYB3GdHa7FS95mBU-TLIk",
+            "width": 2400,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/60c6c2ac04d53d3d5f2ecfe92de97d537cca8942e9fe5d3ddd7ae30bc5bb0194be786a6b596c080cd6bc580a4057a54658e6369210c5d06f4fa4ddf11f843c80",
+            "height": 1200
+          },
+          "icon": null,
+          "link": {
+            "open_new_window": true,
+            "href": "https://material.io/blog/5-steps-large-screen-apps",
+            "aria_label": "Read the 5 Steps to prepare your app for large screens blog post",
+            "label": "5 Steps to prepare your app for large screens"
+          },
+          "size": "small",
+          "overline": null,
+          "description": "What to prioritize when building a responsive UI experience.",
+          "background_image": {},
+          "title": "5 Steps to prepare your app for large screens"
+        },
+        {
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/k3FtSZ7LP6TnmNrzXcGvePfGI2xxlQPbQHsAXECFQA5ZhfZ75IpYD8N6W6aOPqYrNdNWVlQxJjiulOUiKohOkwtAqV2JIryAV_0sUsukRR9yg39s2kq7",
+            "width": 2400,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/f954ebaa9868f277e8fe4a66a8ecd863188cab4c65624078c7f8b251e0316ad2f83e2f8459b23704cf267948a88c7051ea9d90bd0e740565d7979b69c418490d",
+            "height": 1200
+          },
+          "icon": null,
+          "link": {
+            "open_new_window": true,
+            "href": "https://www.youtube.com/watch?v=VXNk9eyOsa8",
+            "aria_label": "Watch the Material Motion in Flutter and Android",
+            "label": "Material Motion in Flutter and Android"
+          },
+          "size": "small",
+          "overline": null,
+          "description": "Video on how to make beautiful motion using Flutter and the Material Motion system.",
+          "background_image": {},
+          "title": "Material Motion in Flutter and Android"
+        },
+        {
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/FCLRD5odlmyePQ2w2x5nD4-WeGaDu34TuHrAU8h9L8NLFABqCvmk44nGE7WT46NkzSpqPMiIxPX25KI4T2kn04HmTiAMb5Tt5SjKPuRyZ58wyWaBIg",
+            "width": 2400,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/ab80a4e815bfffc640e1cfb046dd3f43513c20acb5920aa4cf284c59ed5e2612c3d5b869a3daeba9c161fd93e2a5e1cdffc1c11175c27ee2d0d39c2fbe1d29e2",
+            "height": 1200
+          },
+          "icon": null,
+          "link": {
+            "open_new_window": true,
+            "href": "https://www.youtube.com/watch?v=cbPe9_DKLYw",
+            "aria_label": "Watch the Choosing the right navigation for your app video on youtube",
+            "label": "Choosing the right navigation for your app"
+          },
+          "size": "small",
+          "overline": null,
+          "description": "Video tutorial on choosing between the nav bar, drawer, rail, tabs, or another pattern.",
+          "background_image": {},
+          "title": "Choosing the right navigation for your app"
+        },
+        {
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/GY2HVqGNXH3MHVJlwtI_lXuLn3xo0yVuO6R_eNushtdUFuMNSJW6N4l4ZMjkx1vgiSOTtK4xEJfFQ4N3oP6J8aDw2yjiKfmLkLdaqlxJTch3S827k4lR",
+            "width": 2400,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/2ab7a90e5aed5d0ba2d48fdd98d06ceee8d7e84d10e980d35e329b46bf904734d2ed27eb82cdbc9301ea34987146157a6aa8a0511e6d3af988670b53acd9970c",
+            "height": 1200
+          },
+          "icon": null,
+          "link": {
+            "open_new_window": true,
+            "href": "https://pub.dev/packages/flutter_adaptive_scaffold",
+            "aria_label": "Flutter Canonical layouts",
+            "label": "Flutter Canonical layouts"
+          },
+          "size": "small",
+          "overline": null,
+          "description": "See how to build an adaptive, responsible application using Material 3 canonical layouts with the adaptive_scaffold package.",
+          "background_image": {},
+          "title": "Material 3 Canonical layouts"
+        },
+        {
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/13MWgpnFSseEAvw8Vs_k4etYLB4WZ0eqsKoQ8g0INvCx96hXOPelmK4p_WWueTmf9goyzBx57_GISfg4LhmKSFFNam8lwz6cunYl1wL3vklvfrDwPCbL",
+            "width": 2400,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/69b473a7640ea91673918a73c67b79b41a2925c7c4df85fae0ac0a31fd4ef61c033d5c4d059f8e392205e77ff353804dad93df73b00592fa58e695ac4aac7d68",
+            "height": 1200
+          },
+          "icon": null,
+          "link": {
+            "open_new_window": true,
+            "href": "https://docs.flutter.dev/development/ui/widgets/material",
+            "aria_label": "Material Components widgets for Flutter",
+            "label": "Material Components widgets"
+          },
+          "size": "small",
+          "overline": null,
+          "description": "The Flutter team is currently working on Material Design 3 support for Material Components widgets.",
+          "background_image": {},
+          "title": "Material Components widgets"
+        }
+      ],
+      "description": "<p><span style=\"white-space: pre-wrap;\">Guides, developer docs, tutorials, and more</span></p>"
+    }
+  ],
+  "page_hero": {
+    "full_width": true,
+    "full_width_content_centered": false,
+    "ctas": [],
+    "split_background_image": {},
+    "foreground_image": {},
+    "foreground_image_svg_dark_mode": {},
+    "foreground_image_dark_mode": {},
+    "foreground_image_alignment": "top",
+    "resources": [
+      {
+        "icon": "link",
+        "link": {
+          "open_new_window": true,
+          "href": "https://flutter.dev/",
+          "aria_label": "Visit the Flutter.dev site",
+          "label": "Flutter.dev"
+        },
+        "overline": null,
+        "description": "Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.",
+        "background_image": {},
+        "title": "Flutter.dev"
+      },
+      {
+        "icon": "link",
+        "link": {
+          "open_new_window": true,
+          "href": "https://github.com/flutter/flutter/issues/91605",
+          "aria_label": "Visit the Material Flutter Github repo",
+          "label": "Material Flutter Github Repo"
+        },
+        "overline": null,
+        "description": "Follow Flutter Material 3 on GitHub to stay up to date on available component support.",
+        "background_image": {},
+        "title": "Material Flutter Github Repo"
+      }
+    ],
+    "foreground_text_light": false,
+    "main_background_image_dark_mode": {
+      "url": "/lh3.googleusercontent.com/NIhI-FXSo8rdY6vaLiMNv8-JjXkKwoKj47pkW4KqJXQ8N_KIBTgZQw5luKK3IKbx-yirbMtCH4w3DCvjs0J1eF3e8x1muDXY4-53IXNxlDe4upqFCTQ",
+      "width": 4334,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/26048170c5dbcdeaa8c5f311017f82b255c7c29ae4897b672c17c2543d50e1f3c545babfa6b043c1eb795c540373d43394c0a53e2819c4f459b44e5eb42e1211",
+      "height": 4096
+    },
+    "description": "A framework for building beautiful, natively compiled applications from a single codebase. Support is in progress for Material Design 3.",
+    "split_background_image_dark_mode": {},
+    "main_background_image": {
+      "url": "/lh3.googleusercontent.com/0QCjQ6qaoiTQgpe62mkPBXf-cCyGgUKU7gKtW2KhF5bGGvqu9cUME6ZzsqzPQAjPImE7FGTNtliQF0ohDjMXb0id60zfhf6ch7x8XPZVvxsNhBgWo0I",
+      "width": 4334,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/db62e621453165cc1ef761871b4d279026fb70c21ce0d5b62f2b7c43dea59347e603b50f6d19778a25d466d6a018287c6dd75667534eac0c58776d25d1b8f478",
+      "height": 4096
+    },
+    "video_file": {},
+    "foreground_image_svg": null,
+    "title": "Flutter"
+  },
+  "document_id": "6341287376715776",
+  "metadata": {
+    "keywords": null,
+    "share_image": {
+      "url": "/lh3.googleusercontent.com/IJaubfnrgu9olzEvqyUUG1BNcBYBenOmosCHBefFhUGgE276QWtn3sUh1277YMibP_2aNmb3awSy-IkDSInP2jIdywTkxIsKcG6PBROHVIuLMoq8x6RT",
+      "width": 1200,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/f32a1670c7547a7a093a42ad51330bd421f6fb39f89a4820f69d156afe855f6d148ad6b7e102fe6675ea1c7f990518faf15db62b11082acca8c28bd3194c9651",
+      "height": 630
+    },
+    "share_title": "Flutter \u2013 Material Design 3",
+    "share_description": "Start building with Flutter"
+  }
+}

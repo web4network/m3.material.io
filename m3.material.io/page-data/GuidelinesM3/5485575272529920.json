@@ -1,1 +1,68 @@
-{"component_image_2x1": {}, "dark_component_image_2x1": {}, "component_image_1x1": {}, "metadata": {"keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, color, theme, theming, brand, branding, customization", "share_image": {"width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/67dced87f9c8cc42f6dd4634fae4d490073f886f6ae255269d45642fe5f2f34f9016564d1a4cd8c21a77aac25b6231fa0d3e0bca2c931b36687e7ef7c5208d3b", "url": "https://lh3.googleusercontent.com/3-rar2JMlux6OGQ7YFmY17bHwyVVUzGMLnsdq4H_aaWfKqvngc7iMkXYeUoUMuYnQcjG5Lr2VXz8kDcVYrkfocCRd1xLx4Nm4Eb_FO-6txNysF40cgk"}, "share_description": "Material easing and durations create responsive and expressive motion.", "share_title": "Easing and duration \u2013 Material Design 3"}, "jetpack": {}, "dark_component_image_3x1": {}, "document_id": "5485575272529920", "dark_component_image_3x2": {}, "mdc_flutter": {}, "component_image_3x1": {}, "component_image_position": "center", "component_image_3x2": {}, "page_hero": {"foreground_image_2x1": {}, "foreground_image_1x1": {}, "full_width_content_centered": false, "foreground_image_1x1_dark_mode": {}, "main_background_image": {"width": 4800, "height": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/9f4292f47aaedaa98ee60d696bdcb0518bd117ef76bcc77e291877ad951a92304c17bfcfb6a18a2852f3272c51d482a4b3a93712d42d5b7c5c4113579dbcf083", "url": "https://lh3.googleusercontent.com/fItVpSKBKpxfCsgK7aN9td3aMTAzeWKUYchSR2l0mmZ_zwRtNevbbz1An45dsFXy4m0wt19QvXHwJHViShOXyMcFAI_RgwOvb5Y1mJdOlOnDRpZibzM"}, "foreground_image_2x1_dark_mode": {}, "horizontal_foreground_alignment_override": null, "full_width": true, "main_background_image_dark_mode": {"width": 4800, "height": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/b2209caed7b26885e0de6575380c58c5b1637c477ad03f733c8ff7f776bf9e97e9eefe95ade29a5fc998c059c000f43c97d07c6b0323b82a9462f0744f748b0d", "url": "https://lh3.googleusercontent.com/twKQSf-ZO1sP-4iPGLFMQ8wKYImuCEDZPMI_SY7MsKHkhporiccoNe6-WQkWk9xhFKgDI3sBXOGno4mYfDlJhCQyIYN9naB_ngI_rKg_Xpp_znaD-VU"}, "vertical_foreground_alignment_override": null, "split_background_image": {}, "split_background_image_dark_mode": {}}, "ia_title": "Styles / Motion / Easing and duration", "title": "Easing and duration", "dark_component_image_1x1": {}, "mdc_web": {}, "mdc_android": {}, "description": null, "hero": {"foreground_image": {}, "foreground_text_light": false, "foreground_image_svg": null, "foreground_image_alignment": "top", "background_image": {"width": 2400, "height": 800, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/46651a79a46cc9472b66aaadf6c8fc903ec8d82933db425afd89cf93b86fb3dfc8fa41e480afd3c4fdd71551d40d13b6bf820e7803154b3909ecf9c7ed6ba2f2", "url": "https://lh3.googleusercontent.com/CJozRgwzuDCgUzDubOAe47B4oborwzO-PQ6WvOe3mRdZdg3UVvXpAuaYGta8UFi75SuPKvjwGGZ85FLIUC6oXwPJ-UHFwnUyGC2uykzDoGzwgG7czuA"}}, "category": null, "isDisplayed": true}
+{
+  "component_image_2x1": {},
+  "dark_component_image_2x1": {},
+  "component_image_1x1": {},
+  "metadata": {
+    "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, color, theme, theming, brand, branding, customization",
+    "share_image": {
+      "width": 2400,
+      "height": 1200,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/67dced87f9c8cc42f6dd4634fae4d490073f886f6ae255269d45642fe5f2f34f9016564d1a4cd8c21a77aac25b6231fa0d3e0bca2c931b36687e7ef7c5208d3b",
+      "url": "/lh3.googleusercontent.com/3-rar2JMlux6OGQ7YFmY17bHwyVVUzGMLnsdq4H_aaWfKqvngc7iMkXYeUoUMuYnQcjG5Lr2VXz8kDcVYrkfocCRd1xLx4Nm4Eb_FO-6txNysF40cgk"
+    },
+    "share_description": "Material easing and durations create responsive and expressive motion.",
+    "share_title": "Easing and duration \u2013 Material Design 3"
+  },
+  "jetpack": {},
+  "dark_component_image_3x1": {},
+  "document_id": "5485575272529920",
+  "dark_component_image_3x2": {},
+  "mdc_flutter": {},
+  "component_image_3x1": {},
+  "component_image_position": "center",
+  "component_image_3x2": {},
+  "page_hero": {
+    "foreground_image_2x1": {},
+    "foreground_image_1x1": {},
+    "full_width_content_centered": false,
+    "foreground_image_1x1_dark_mode": {},
+    "main_background_image": {
+      "width": 4800,
+      "height": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/9f4292f47aaedaa98ee60d696bdcb0518bd117ef76bcc77e291877ad951a92304c17bfcfb6a18a2852f3272c51d482a4b3a93712d42d5b7c5c4113579dbcf083",
+      "url": "/lh3.googleusercontent.com/fItVpSKBKpxfCsgK7aN9td3aMTAzeWKUYchSR2l0mmZ_zwRtNevbbz1An45dsFXy4m0wt19QvXHwJHViShOXyMcFAI_RgwOvb5Y1mJdOlOnDRpZibzM"
+    },
+    "foreground_image_2x1_dark_mode": {},
+    "horizontal_foreground_alignment_override": null,
+    "full_width": true,
+    "main_background_image_dark_mode": {
+      "width": 4800,
+      "height": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/b2209caed7b26885e0de6575380c58c5b1637c477ad03f733c8ff7f776bf9e97e9eefe95ade29a5fc998c059c000f43c97d07c6b0323b82a9462f0744f748b0d",
+      "url": "/lh3.googleusercontent.com/twKQSf-ZO1sP-4iPGLFMQ8wKYImuCEDZPMI_SY7MsKHkhporiccoNe6-WQkWk9xhFKgDI3sBXOGno4mYfDlJhCQyIYN9naB_ngI_rKg_Xpp_znaD-VU"
+    },
+    "vertical_foreground_alignment_override": null,
+    "split_background_image": {},
+    "split_background_image_dark_mode": {}
+  },
+  "ia_title": "Styles / Motion / Easing and duration",
+  "title": "Easing and duration",
+  "dark_component_image_1x1": {},
+  "mdc_web": {},
+  "mdc_android": {},
+  "description": null,
+  "hero": {
+    "foreground_image": {},
+    "foreground_text_light": false,
+    "foreground_image_svg": null,
+    "foreground_image_alignment": "top",
+    "background_image": {
+      "width": 2400,
+      "height": 800,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/46651a79a46cc9472b66aaadf6c8fc903ec8d82933db425afd89cf93b86fb3dfc8fa41e480afd3c4fdd71551d40d13b6bf820e7803154b3909ecf9c7ed6ba2f2",
+      "url": "/lh3.googleusercontent.com/CJozRgwzuDCgUzDubOAe47B4oborwzO-PQ6WvOe3mRdZdg3UVvXpAuaYGta8UFi75SuPKvjwGGZ85FLIUC6oXwPJ-UHFwnUyGC2uykzDoGzwgG7czuA"
+    }
+  },
+  "category": null,
+  "isDisplayed": true
+}

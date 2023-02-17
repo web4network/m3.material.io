@@ -1,1 +1,314 @@
-{"page_title": "Material Design", "document_id": "5854274324135936", "metadata": {"share_description": "Build beautiful, usable products faster. Material Design is an adaptable system\u2014backed by open-source code\u2014that helps teams build high quality digital experiences.", "keywords": null, "share_image": {"url": "https://lh3.googleusercontent.com/CniQ1TkZgEH_22MX0VDwo_5s-zrCJgABdBLpmIU-N8L3O1AjWUagH32v3sk7hNMhT2T3QgM2gCaXIJLVXqopPHFzD4haLTfOi4_wLQ5oA1XsBvu64Vo", "width": 1200, "height": 630, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/b10ba323f3a7996ca1c331a555a2f85efc8875e178e9c4acbabf77d860444f72adf95ce90551118eb5dbb2c217070179896359a995873fb52f95b106160f655a"}, "share_title": "Material Design"}, "sections": [{"two_column_stacked": false, "cards": [{"background_image": {}, "title": "Android Developer Summit", "description": "Catch Material updates and tutorials at ADS 2022, beginning October 24", "icon": null, "overline": null, "link": {"href": "https://material.io/blog/material-ads-2022", "aria_label": null, "label": "Android Developer Summit", "open_new_window": true}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/fhyw5DMHcxoROzow8owQApE7MxUGVdH1lIXisNu9PZqkXYJD19fxLeauvE5OWp_jL-TG0En553TqcNUvPheP9CnsvA-yA0Q8fK7VUlXHfob2jfOLdQyn", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/8edb4c733a550f01bf0d08cdf6dfd905da7c13653f9a9fa4117079a9fd905427ac9771dd4e8268ae2455ce84faaebd4db49eed3b9ea5b3e679b01e88387b7bd8"}, "size": "small"}, {"background_image": {}, "title": "Announcing Relay Alpha", "description": "Relay streamlines design and development of custom components through Figma and Android Studio", "icon": null, "overline": null, "link": {"href": "https://relay.material.io", "aria_label": null, "label": "Introducing Relay, now in alpha", "open_new_window": true}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/V7AytLCAx5XG_KFvucW0jWaPvShdentmubcY5DVJOMC2_z4USSm1H25s2sm1KmFyoQfOt1OOCAzjsB7Tdl0IwS4fzHzRdPEMXmaj6Uz7GQl8B48zhCzv", "width": 2100, "height": 1016, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/10501046bf34add78407be456b3606898bafcfd0bd2b5893918e2a4e4273cc3c499df7c25af22af99dc57115d7ad1d4bfd0295e336009535460aedee0acbedec"}, "size": "small"}, {"background_image": {}, "title": "New: Figma design kit for M3", "description": "Jumpstart your designs with customizable, ready-made M3 components available in Figma", "icon": null, "overline": null, "link": {"href": "https://material.io/blog/material-3-figma-design-kit", "aria_label": null, "label": "Figma design kit for M3", "open_new_window": true}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/mLGakWFjdX3zGBIhCUWqzjlj3gUXOY8hOed_ISzomlpNmjKWUiqCFyNGGAZFneVaK30v4GUpjn7lyIsI2Z7KPvMKrYkumzBr2nwbVe3BQKRkpam3sA", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/e843ed3acc2a61e952b3970a312f7d2a4969db98f5ef0899ac84e64c5a3884b3f762b1683ffc79ebc6da8767fd4a80a97f40739773ab268aab4ed14f2262ed7f"}, "size": "small"}], "title": "News & launches", "description": null}, {"two_column_stacked": false, "cards": [{"background_image": {}, "title": "Motion system updates", "description": "Get started applying motion, from ready-to-use transition patterns to updated guidance", "icon": null, "overline": null, "link": {"href": "/styles/motion/overview", "aria_label": null, "label": "Motion", "open_new_window": false}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/gK__LLaM4jqISqweP0_fxKpBhJuJgSJPqb7wuwRyqMwSBRnj1RJtgXrw69gdLsy2lyH33idBUO5whDJl1TYaHT50hMZc-tj1L49Iq0ctbynuU-0FbFk", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/67c175f132a681b8829558ded0462b0390d065e9711e77fa1b669b09d61b238e1fd095e7ce497e34e6f4941a197b310b330b1ac2546582b4808277cf334ad64b"}, "size": "small"}, {"background_image": {}, "title": "Designing depth & elevation", "description": "Learn how to design and build more usable interfaces with visual cues for elevation", "icon": null, "overline": null, "link": {"href": "/styles/elevation/overview", "aria_label": null, "label": "Elevation", "open_new_window": false}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/N68TlDku5dBAiqGX3B2_mI6F7o6Ki_SnhWvEmFjWmjwtnF4EKEaZfnQo5DxcPERsZiw_PPL2MVjMeEfudXnXTBL2Gg4ZenvGt2jBdOfza9aXYQrU-l0", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/d2635460f9c5003b22398196256db1cdfdac1825676723d1cda8b8489e301c2afc10774ae2407a5c08960db6d67a4d786828c341694943a7a85ab4d0c7e47963"}, "size": "small"}, {"background_image": {}, "title": "Accessibility specs", "description": "Understand and apply accessibility standards built into Material", "icon": null, "overline": null, "link": {"href": "/foundations/accessible-design/overview", "aria_label": null, "label": "Accessible design", "open_new_window": false}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/aLTg-FT4Ocgvjw1B_i3fOVK-rWoV3C7XCHyBkKwSbJFzIZtJjo-5atBHcSs9aZdHxiMw8-nP3lCnULJtFG_KdIVg7Gk-NV8sc1DJkeMRsTtir9pIu6IY", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/8f34905d43835ce9104115d848d2eb08e837105d82e2fda79175f24aeaae07fb0f21ec1a0ef8a05fd1d8a3a7aecadada82366c8000f8868d8a1bf7dbe6d443c0"}, "size": "small"}, {"background_image": {}, "title": "Material Theme Builder", "description": "Easily migrate or get started with the M3 color system and dynamic color", "icon": null, "overline": null, "link": {"href": "/theme-builder#/dynamic", "aria_label": null, "label": "Material Theme Builder", "open_new_window": false}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/w0mg7Iy0YoeV7ViHTp9XRzZFTbCX-ME87HPfbv_XFFZlQ-D6tjVwxsY1X_HUrFiXf-kNp8LePGcqv2Oh3OiNU6J28BYhiTf8UQKJBRDYPZejkpKE0NQ", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/55f0212ea7ab3d97ff20931d2a741f99cda604e11b2d050a41f20c5517174c3f892072522d19f614da8e5d84ee12c36f19f6abee805a5682db1816ef9345b757"}, "size": "small"}, {"background_image": {}, "title": "List component update", "description": "Standardized sizing and new configuration options included in updates", "icon": null, "overline": null, "link": {"href": "/components/lists/overview", "aria_label": null, "label": "Lists", "open_new_window": false}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/HpSrY3MDHNM26cRveLm19mA9ptY0WimNYUmyGQgCxkdMUmLy2Z2Z0UCGQNjI2DloK5N1CwblbXunfDru2BFEmyWZnKql9leYos9dBOE8LT0cqA_XqwgX", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/4e983cba014c9fa469b6e92ed6d3ff5a49de643c8fe7491111de8522620c5d5976cb7a1c893df307da02c88979cff76a8e12c4c6d53214c0530091c65923902a"}, "size": "small"}, {"background_image": {}, "title": "Progress indicator update", "description": "New color mappings and motion examples included in updates", "icon": null, "overline": null, "link": {"href": "/components/progress-indicators/overview", "aria_label": null, "label": "Progress indicators", "open_new_window": false}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/o-3owUf4wD7wrguE3BgQKuiYtfUNGtnZX1M3tMA4iFgiNY5KxSFK2KofDlY_aJxfji7i5Jbp1WOnfrbYyHtjByweMmYn4G5H5uHylIuRl7OGR_TeMBo", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/c90db6a319f33b305954cfd1dc1e3412487d0062b2379d87a43e137b26f9b7d4694362fae078c98fc2335caa41fb7727220d3b61f0983ca639ed2ca3ed07de65"}, "size": "small"}], "title": "Design system updates", "description": null}, {"two_column_stacked": true, "cards": [{"background_image": {}, "title": "Material blog", "description": "News, tutorials, and inspiration from the Material team", "icon": null, "overline": null, "link": {"href": "https://material.io/blog", "aria_label": "Read the Material blog", "label": "Material blog", "open_new_window": true}, "thumbnail_image": {}, "size": "small"}, {"background_image": {}, "title": "Figma design kit", "description": "Customizable styles and components to help you design with Material 3", "icon": null, "overline": null, "link": {"href": "https://www.figma.com/community/file/1035203688168086460", "aria_label": null, "label": "Figma design kit", "open_new_window": true}, "thumbnail_image": {}, "size": "small"}, {"background_image": {}, "title": "Get started", "description": "Guides, videos, and tools to start building with Material", "icon": null, "overline": null, "link": {"href": "/get-started", "aria_label": null, "label": "Get started", "open_new_window": false}, "thumbnail_image": {}, "size": "small"}, {"background_image": {}, "title": "Develop", "description": "Code and developer documentation for Android, Flutter, and the Web", "icon": null, "overline": null, "link": {"href": "/develop", "aria_label": null, "label": "Develop", "open_new_window": false}, "thumbnail_image": {}, "size": "small"}], "title": "Resources", "description": null}], "page_hero": {"foreground_image_svg_dark_mode": {}, "split_background_image_dark_mode": {}, "split_background_image": {}, "full_width": true, "foreground_image": {}, "resources": [], "main_background_image_dark_mode": {"url": "https://lh3.googleusercontent.com/1g_8dMsxYAfoZ_VS338syoSlyVpl5yD9Ho5eV7clDTqPGwaKElIciZTvzvxZeaM_-dE3vYWh6oZ4FyuUg3bRo21f6Ue56_ADwSBmh6kasSKS3EA5gQE", "width": 4744, "height": 2738, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/0481dae3e8162b4fd861503f2f4ca7e395768fd3a75bd9f2e061f6cdeba8c401dc02aa33f50580c0c11397d81405051a72213d74d351feb92a21fc36aa7c7faf"}, "description": "Material 3 is the latest version of Google\u2019s open-source design system. Design and build beautiful, usable products with Material 3.", "foreground_text_light": false, "video_file": {}, "foreground_image_alignment": "top", "title": "Material Design", "ctas": [{"href": "/get-started", "aria_label": null, "label": "Get started", "open_new_window": false}], "foreground_image_dark_mode": {}, "foreground_image_svg": null, "full_width_content_centered": true, "main_background_image": {"url": "https://lh3.googleusercontent.com/7GLFdt-EPWPY2k7WvjHd-LDFITELyr8fAe3vEh80sG26wjcDLt7bnzg70U7Tq2O7j0MOjD1g8sj4J8mFEcEPJv2ml3wwJ9wAEucr-kgPCWVCCGwGADw", "width": 4744, "height": 2738, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/2a7bf135771ec3fff20c819088b89ef6a74565c66d1bd413e4393f5d9f73b7a249811e422cab4fd16dd42ebc29fce018d17938a525fdce4eab0803abb1c49bea"}}}
+{
+  "page_title": "Material Design",
+  "document_id": "5854274324135936",
+  "metadata": {
+    "share_description": "Build beautiful, usable products faster. Material Design is an adaptable system\u2014backed by open-source code\u2014that helps teams build high quality digital experiences.",
+    "keywords": null,
+    "share_image": {
+      "url": "/lh3.googleusercontent.com/CniQ1TkZgEH_22MX0VDwo_5s-zrCJgABdBLpmIU-N8L3O1AjWUagH32v3sk7hNMhT2T3QgM2gCaXIJLVXqopPHFzD4haLTfOi4_wLQ5oA1XsBvu64Vo",
+      "width": 1200,
+      "height": 630,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/b10ba323f3a7996ca1c331a555a2f85efc8875e178e9c4acbabf77d860444f72adf95ce90551118eb5dbb2c217070179896359a995873fb52f95b106160f655a"
+    },
+    "share_title": "Material Design"
+  },
+  "sections": [
+    {
+      "two_column_stacked": false,
+      "cards": [
+        {
+          "background_image": {},
+          "title": "Android Developer Summit",
+          "description": "Catch Material updates and tutorials at ADS 2022, beginning October 24",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://material.io/blog/material-ads-2022",
+            "aria_label": null,
+            "label": "Android Developer Summit",
+            "open_new_window": true
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/fhyw5DMHcxoROzow8owQApE7MxUGVdH1lIXisNu9PZqkXYJD19fxLeauvE5OWp_jL-TG0En553TqcNUvPheP9CnsvA-yA0Q8fK7VUlXHfob2jfOLdQyn",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/8edb4c733a550f01bf0d08cdf6dfd905da7c13653f9a9fa4117079a9fd905427ac9771dd4e8268ae2455ce84faaebd4db49eed3b9ea5b3e679b01e88387b7bd8"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Announcing Relay Alpha",
+          "description": "Relay streamlines design and development of custom components through Figma and Android Studio",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://relay.material.io",
+            "aria_label": null,
+            "label": "Introducing Relay, now in alpha",
+            "open_new_window": true
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/V7AytLCAx5XG_KFvucW0jWaPvShdentmubcY5DVJOMC2_z4USSm1H25s2sm1KmFyoQfOt1OOCAzjsB7Tdl0IwS4fzHzRdPEMXmaj6Uz7GQl8B48zhCzv",
+            "width": 2100,
+            "height": 1016,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/10501046bf34add78407be456b3606898bafcfd0bd2b5893918e2a4e4273cc3c499df7c25af22af99dc57115d7ad1d4bfd0295e336009535460aedee0acbedec"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "New: Figma design kit for M3",
+          "description": "Jumpstart your designs with customizable, ready-made M3 components available in Figma",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://material.io/blog/material-3-figma-design-kit",
+            "aria_label": null,
+            "label": "Figma design kit for M3",
+            "open_new_window": true
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/mLGakWFjdX3zGBIhCUWqzjlj3gUXOY8hOed_ISzomlpNmjKWUiqCFyNGGAZFneVaK30v4GUpjn7lyIsI2Z7KPvMKrYkumzBr2nwbVe3BQKRkpam3sA",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/e843ed3acc2a61e952b3970a312f7d2a4969db98f5ef0899ac84e64c5a3884b3f762b1683ffc79ebc6da8767fd4a80a97f40739773ab268aab4ed14f2262ed7f"
+          },
+          "size": "small"
+        }
+      ],
+      "title": "News & launches",
+      "description": null
+    },
+    {
+      "two_column_stacked": false,
+      "cards": [
+        {
+          "background_image": {},
+          "title": "Motion system updates",
+          "description": "Get started applying motion, from ready-to-use transition patterns to updated guidance",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "/styles/motion/overview",
+            "aria_label": null,
+            "label": "Motion",
+            "open_new_window": false
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/gK__LLaM4jqISqweP0_fxKpBhJuJgSJPqb7wuwRyqMwSBRnj1RJtgXrw69gdLsy2lyH33idBUO5whDJl1TYaHT50hMZc-tj1L49Iq0ctbynuU-0FbFk",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/67c175f132a681b8829558ded0462b0390d065e9711e77fa1b669b09d61b238e1fd095e7ce497e34e6f4941a197b310b330b1ac2546582b4808277cf334ad64b"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Designing depth & elevation",
+          "description": "Learn how to design and build more usable interfaces with visual cues for elevation",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "/styles/elevation/overview",
+            "aria_label": null,
+            "label": "Elevation",
+            "open_new_window": false
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/N68TlDku5dBAiqGX3B2_mI6F7o6Ki_SnhWvEmFjWmjwtnF4EKEaZfnQo5DxcPERsZiw_PPL2MVjMeEfudXnXTBL2Gg4ZenvGt2jBdOfza9aXYQrU-l0",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/d2635460f9c5003b22398196256db1cdfdac1825676723d1cda8b8489e301c2afc10774ae2407a5c08960db6d67a4d786828c341694943a7a85ab4d0c7e47963"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Accessibility specs",
+          "description": "Understand and apply accessibility standards built into Material",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "/foundations/accessible-design/overview",
+            "aria_label": null,
+            "label": "Accessible design",
+            "open_new_window": false
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/aLTg-FT4Ocgvjw1B_i3fOVK-rWoV3C7XCHyBkKwSbJFzIZtJjo-5atBHcSs9aZdHxiMw8-nP3lCnULJtFG_KdIVg7Gk-NV8sc1DJkeMRsTtir9pIu6IY",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/8f34905d43835ce9104115d848d2eb08e837105d82e2fda79175f24aeaae07fb0f21ec1a0ef8a05fd1d8a3a7aecadada82366c8000f8868d8a1bf7dbe6d443c0"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Material Theme Builder",
+          "description": "Easily migrate or get started with the M3 color system and dynamic color",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "/theme-builder#/dynamic",
+            "aria_label": null,
+            "label": "Material Theme Builder",
+            "open_new_window": false
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/w0mg7Iy0YoeV7ViHTp9XRzZFTbCX-ME87HPfbv_XFFZlQ-D6tjVwxsY1X_HUrFiXf-kNp8LePGcqv2Oh3OiNU6J28BYhiTf8UQKJBRDYPZejkpKE0NQ",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/55f0212ea7ab3d97ff20931d2a741f99cda604e11b2d050a41f20c5517174c3f892072522d19f614da8e5d84ee12c36f19f6abee805a5682db1816ef9345b757"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "List component update",
+          "description": "Standardized sizing and new configuration options included in updates",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "/components/lists/overview",
+            "aria_label": null,
+            "label": "Lists",
+            "open_new_window": false
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/HpSrY3MDHNM26cRveLm19mA9ptY0WimNYUmyGQgCxkdMUmLy2Z2Z0UCGQNjI2DloK5N1CwblbXunfDru2BFEmyWZnKql9leYos9dBOE8LT0cqA_XqwgX",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/4e983cba014c9fa469b6e92ed6d3ff5a49de643c8fe7491111de8522620c5d5976cb7a1c893df307da02c88979cff76a8e12c4c6d53214c0530091c65923902a"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Progress indicator update",
+          "description": "New color mappings and motion examples included in updates",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "/components/progress-indicators/overview",
+            "aria_label": null,
+            "label": "Progress indicators",
+            "open_new_window": false
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/o-3owUf4wD7wrguE3BgQKuiYtfUNGtnZX1M3tMA4iFgiNY5KxSFK2KofDlY_aJxfji7i5Jbp1WOnfrbYyHtjByweMmYn4G5H5uHylIuRl7OGR_TeMBo",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/c90db6a319f33b305954cfd1dc1e3412487d0062b2379d87a43e137b26f9b7d4694362fae078c98fc2335caa41fb7727220d3b61f0983ca639ed2ca3ed07de65"
+          },
+          "size": "small"
+        }
+      ],
+      "title": "Design system updates",
+      "description": null
+    },
+    {
+      "two_column_stacked": true,
+      "cards": [
+        {
+          "background_image": {},
+          "title": "Material blog",
+          "description": "News, tutorials, and inspiration from the Material team",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://material.io/blog",
+            "aria_label": "Read the Material blog",
+            "label": "Material blog",
+            "open_new_window": true
+          },
+          "thumbnail_image": {},
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Figma design kit",
+          "description": "Customizable styles and components to help you design with Material 3",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://www.figma.com/community/file/1035203688168086460",
+            "aria_label": null,
+            "label": "Figma design kit",
+            "open_new_window": true
+          },
+          "thumbnail_image": {},
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Get started",
+          "description": "Guides, videos, and tools to start building with Material",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "/get-started",
+            "aria_label": null,
+            "label": "Get started",
+            "open_new_window": false
+          },
+          "thumbnail_image": {},
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Develop",
+          "description": "Code and developer documentation for Android, Flutter, and the Web",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "/develop",
+            "aria_label": null,
+            "label": "Develop",
+            "open_new_window": false
+          },
+          "thumbnail_image": {},
+          "size": "small"
+        }
+      ],
+      "title": "Resources",
+      "description": null
+    }
+  ],
+  "page_hero": {
+    "foreground_image_svg_dark_mode": {},
+    "split_background_image_dark_mode": {},
+    "split_background_image": {},
+    "full_width": true,
+    "foreground_image": {},
+    "resources": [],
+    "main_background_image_dark_mode": {
+      "url": "/lh3.googleusercontent.com/1g_8dMsxYAfoZ_VS338syoSlyVpl5yD9Ho5eV7clDTqPGwaKElIciZTvzvxZeaM_-dE3vYWh6oZ4FyuUg3bRo21f6Ue56_ADwSBmh6kasSKS3EA5gQE",
+      "width": 4744,
+      "height": 2738,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/0481dae3e8162b4fd861503f2f4ca7e395768fd3a75bd9f2e061f6cdeba8c401dc02aa33f50580c0c11397d81405051a72213d74d351feb92a21fc36aa7c7faf"
+    },
+    "description": "Material 3 is the latest version of Google\u2019s open-source design system. Design and build beautiful, usable products with Material 3.",
+    "foreground_text_light": false,
+    "video_file": {},
+    "foreground_image_alignment": "top",
+    "title": "Material Design",
+    "ctas": [
+      {
+        "href": "/get-started",
+        "aria_label": null,
+        "label": "Get started",
+        "open_new_window": false
+      }
+    ],
+    "foreground_image_dark_mode": {},
+    "foreground_image_svg": null,
+    "full_width_content_centered": true,
+    "main_background_image": {
+      "url": "/lh3.googleusercontent.com/7GLFdt-EPWPY2k7WvjHd-LDFITELyr8fAe3vEh80sG26wjcDLt7bnzg70U7Tq2O7j0MOjD1g8sj4J8mFEcEPJv2ml3wwJ9wAEucr-kgPCWVCCGwGADw",
+      "width": 4744,
+      "height": 2738,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/2a7bf135771ec3fff20c819088b89ef6a74565c66d1bd413e4393f5d9f73b7a249811e422cab4fd16dd42ebc29fce018d17938a525fdce4eab0803abb1c49bea"
+    }
+  }
+}

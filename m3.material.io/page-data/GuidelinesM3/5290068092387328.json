@@ -1,1 +1,68 @@
-{"ia_title": "Styles / Shape", "component_image_3x2": {}, "component_image_3x1": {}, "dark_component_image_3x1": {}, "dark_component_image_3x2": {}, "jetpack": {}, "mdc_flutter": {}, "dark_component_image_2x1": {}, "isDisplayed": true, "category": null, "page_hero": {"foreground_image_1x1": {}, "full_width": true, "split_background_image_dark_mode": {}, "full_width_content_centered": false, "main_background_image": {"url": "https://lh3.googleusercontent.com/OugBHxwdbbv0NCQVJZTaKd4bAbOf8oc5rphp2vVSfXPVZuwi16o_aHhvBnMYDhWcrgf7KNXRz5HwkK2QV4XBSi1GLLQ6mXr4lsBprB4NHCUFAPCWIw", "width": 4800, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/927a5520b9243da8f777cdebcfed342458c269a8dc34fcf58013d3839a0d5f80cd80caad660b996522e2e16a7ffadfe0d0b30c23e65942cc3e8de2ee2955ad2f", "height": 2400}, "foreground_image_2x1": {}, "foreground_image_1x1_dark_mode": {}, "main_background_image_dark_mode": {"url": "https://lh3.googleusercontent.com/9HU0FA_cmvIgE0vcLiIa6n29HO6biNXHSfbpnLRXNWQRUiyqD_T5kYOI20Yf8iyR4a-QDgorERjaSXCqWGKCVE_Ejqq_QN74zRpxrMFTdCYb5lazvl8", "width": 4800, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/7ac40048b8a49d9c77c42e851050a1ad9de25c22c33ef52b3c8bb7ae853fc23218793bad86f4b87dadfe135ed4457fff71834445481baac56d7903038473fea7", "height": 2400}, "horizontal_foreground_alignment_override": null, "foreground_image_2x1_dark_mode": {}, "split_background_image": {}, "vertical_foreground_alignment_override": null}, "metadata": {"keywords": null, "share_image": {"url": "https://lh3.googleusercontent.com/5oicyLfgC9xCnfO1D6jCNGrqoPabvIbJc6GcSLdd7F4I9Ip9ElF1U7u837TIYrTfJapuW-kanl7a8LansXIrnAGJq7XmPNvfRJhYonqryq1WT1_IGoKL", "width": 1801, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/203c35de4103e9d539415942363898ae9492093c788bf149d472c4582cb6e037d7e0471a497673bff4fb9e56d72a65524cd1f71d489390532d9de295bbcef28b", "height": 900}, "share_title": null, "share_description": "The shape scale defines the style of container corners, offering a range of roundedness from square to fully circular."}, "title": "Shape", "hero": {"foreground_image_alignment": "top", "foreground_image_svg": null, "foreground_text_light": false, "foreground_image": {}, "background_image": {"url": "https://lh3.googleusercontent.com/jxwzlHBBPVwYRNpjb8IZpJfNoymx0li5BByhDp2u9NDdOSNU294h64-nsy89SWQOucewvfU7GGX3F4UWEszJj_RmvksOsi5do_1qHXxNVgyBtAI1tEk", "width": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/e6ab050705cc428e578ed6ef95cd4fdabb8612a55c23448d3b6df6c5620e61f35bebff544af8f9fa081fb5550c6535f02dffd0d34e04ad6603cccf8f0d64cb7e", "height": 800}}, "component_image_2x1": {}, "component_image_position": "center", "component_image_1x1": {}, "document_id": "5290068092387328", "dark_component_image_1x1": {}, "mdc_android": {}, "mdc_web": {}, "description": null}
+{
+  "ia_title": "Styles / Shape",
+  "component_image_3x2": {},
+  "component_image_3x1": {},
+  "dark_component_image_3x1": {},
+  "dark_component_image_3x2": {},
+  "jetpack": {},
+  "mdc_flutter": {},
+  "dark_component_image_2x1": {},
+  "isDisplayed": true,
+  "category": null,
+  "page_hero": {
+    "foreground_image_1x1": {},
+    "full_width": true,
+    "split_background_image_dark_mode": {},
+    "full_width_content_centered": false,
+    "main_background_image": {
+      "url": "/lh3.googleusercontent.com/OugBHxwdbbv0NCQVJZTaKd4bAbOf8oc5rphp2vVSfXPVZuwi16o_aHhvBnMYDhWcrgf7KNXRz5HwkK2QV4XBSi1GLLQ6mXr4lsBprB4NHCUFAPCWIw",
+      "width": 4800,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/927a5520b9243da8f777cdebcfed342458c269a8dc34fcf58013d3839a0d5f80cd80caad660b996522e2e16a7ffadfe0d0b30c23e65942cc3e8de2ee2955ad2f",
+      "height": 2400
+    },
+    "foreground_image_2x1": {},
+    "foreground_image_1x1_dark_mode": {},
+    "main_background_image_dark_mode": {
+      "url": "/lh3.googleusercontent.com/9HU0FA_cmvIgE0vcLiIa6n29HO6biNXHSfbpnLRXNWQRUiyqD_T5kYOI20Yf8iyR4a-QDgorERjaSXCqWGKCVE_Ejqq_QN74zRpxrMFTdCYb5lazvl8",
+      "width": 4800,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/7ac40048b8a49d9c77c42e851050a1ad9de25c22c33ef52b3c8bb7ae853fc23218793bad86f4b87dadfe135ed4457fff71834445481baac56d7903038473fea7",
+      "height": 2400
+    },
+    "horizontal_foreground_alignment_override": null,
+    "foreground_image_2x1_dark_mode": {},
+    "split_background_image": {},
+    "vertical_foreground_alignment_override": null
+  },
+  "metadata": {
+    "keywords": null,
+    "share_image": {
+      "url": "/lh3.googleusercontent.com/5oicyLfgC9xCnfO1D6jCNGrqoPabvIbJc6GcSLdd7F4I9Ip9ElF1U7u837TIYrTfJapuW-kanl7a8LansXIrnAGJq7XmPNvfRJhYonqryq1WT1_IGoKL",
+      "width": 1801,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/203c35de4103e9d539415942363898ae9492093c788bf149d472c4582cb6e037d7e0471a497673bff4fb9e56d72a65524cd1f71d489390532d9de295bbcef28b",
+      "height": 900
+    },
+    "share_title": null,
+    "share_description": "The shape scale defines the style of container corners, offering a range of roundedness from square to fully circular."
+  },
+  "title": "Shape",
+  "hero": {
+    "foreground_image_alignment": "top",
+    "foreground_image_svg": null,
+    "foreground_text_light": false,
+    "foreground_image": {},
+    "background_image": {
+      "url": "/lh3.googleusercontent.com/jxwzlHBBPVwYRNpjb8IZpJfNoymx0li5BByhDp2u9NDdOSNU294h64-nsy89SWQOucewvfU7GGX3F4UWEszJj_RmvksOsi5do_1qHXxNVgyBtAI1tEk",
+      "width": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/e6ab050705cc428e578ed6ef95cd4fdabb8612a55c23448d3b6df6c5620e61f35bebff544af8f9fa081fb5550c6535f02dffd0d34e04ad6603cccf8f0d64cb7e",
+      "height": 800
+    }
+  },
+  "component_image_2x1": {},
+  "component_image_position": "center",
+  "component_image_1x1": {},
+  "document_id": "5290068092387328",
+  "dark_component_image_1x1": {},
+  "mdc_android": {},
+  "mdc_web": {},
+  "description": null
+}

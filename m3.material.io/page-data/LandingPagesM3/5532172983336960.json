@@ -1,1 +1,260 @@
-{"page_title": "Jetpack Compose", "document_id": "5532172983336960", "metadata": {"share_description": "Start building with Jetpack Compose", "keywords": null, "share_image": {"url": "https://lh3.googleusercontent.com/j8Jvfa720kmuiLP2-HAgUwJ7wEBkWE6kJqo_-9MV7OwZOyHcmtISZ1lD1_i475I6TILTjCG9Z9g_2NHdsXEtrOf-zWvO4GbzX-WA6WcK_CmfDIcrO3Y", "width": 1200, "height": 630, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/caac20b5edb8db90a33872e89307a7a9765a86e7f8f08208f5338fe39ef542117ec4c261cf2cd2af6c11bb0818d2268ad4d9f6ef9c21d9b65d901e42aae0a187"}, "share_title": "Jetpack Compose \u2013 Material Design 3"}, "sections": [{"two_column_stacked": false, "cards": [{"background_image": {}, "title": "Jetpack Compose Stable Release", "description": "See the latest release notes, including support for additional Material 3 components.", "icon": null, "overline": null, "link": {"href": "http://material.io/blog/material-3-compose-stable", "aria_label": null, "label": null, "open_new_window": true}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/iRk0CdvX4Y8XYPks-KwdHKIDTFld3tokwmHOGszYGfAtSpGuBk2liD_NMMRxDR_qOFiUa0ncP6K5UNij534AVe-zuqpjB_hX1fP4jVRzn2XVis1CkRSM", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/1e3a82f1a086ab4e35493a1d72a32b6e18206e3ed2e66507d2173fd19120af434fd5093bbc85736e9d7cba72a3364f650b921369d927c02ef989f3a075cbc977"}, "size": "medium"}, {"background_image": {}, "title": "Announcing Relay Alpha", "description": "Relay streamlines design and development of custom components through Figma and Android Studio", "icon": null, "overline": null, "link": {"href": "https://relay.material.io", "aria_label": null, "label": "Introducing Relay, now in alpha", "open_new_window": true}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/JjLbii_6kzFovsV29amGm53EvFYeVqBkZwVomvRpaBaXDzgVlLB6wUCCQy3TnUAL70q_YOCyDXl0I6NwfNKiS6P3zhhyZPmD72DhVKMsk3uPDMNf32Dj", "width": 2100, "height": 1016, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/a43515d70683e22656c6d44d6f414b2c7a961976267723537b89fcbec26560a3eb4bd90e8fe05386495fa99e0dac2f7146503349f77aac8f6e8c133e563a2495"}, "size": "medium"}], "title": "Announcements", "description": "<p>The latest from Jetpack Compose</p>"}, {"two_column_stacked": false, "cards": [{"background_image": {}, "title": "Compose Material 3", "description": "Documentation for all Material 3 Components available for Jetpack Compose.", "icon": null, "overline": null, "link": {"href": "https://developer.android.com/jetpack/androidx/releases/compose-material3", "aria_label": "Compose Material 3", "label": "Compose Material 3", "open_new_window": true}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/Kb5du28qSb_4Z81u1W-NgPzms7xjEgPBej0dhxELHMTUt2SA_LEdUoArCLCJ0u5iqAmz0-e3YGm4Uq4SP4-0HJBd9Rj6xuG3_noZLxtyR3hIzPazTbRX", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/9779f7844409981fbe03a514d66a42c39e1bd57e0578ad67d194d378b26fb22b3df64f80198c41fbe930144e1f0a8adb5a29d859586c98522437c7a249cf14d6"}, "size": "small"}, {"background_image": {}, "title": "Migrate from M2 to M3 for Jetpack Compose", "description": "Guides on implementing Material Design 3, migrating from Material 2 to Material 3, and more", "icon": null, "overline": null, "link": {"href": "https://developer.android.com/jetpack/compose/themes/material2-material3", "aria_label": null, "label": "Migrate from M2 to M3 for Jetpack Compose", "open_new_window": true}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/u1zXXvP4Qh47mKhKLYGVVQVVBRslzUfukUBtN--f2m7R8ftpsUsNpXRLRHVpkoEcqb_nlyEadQgJzZXmPMAnEwTA710XoNkuenQO9m3qrfEJ_3YASA4", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/a8fb63322a2f6663db97a6fae2efd0ae11de3c2063ce9846f744edb582e6a78f8d5865836e4dae437a5a62278e8db20299abc45c190c768187ae722e7afade81"}, "size": "small"}, {"background_image": {}, "title": "Jetpack Compose Tutorial", "description": "Use Jetpack Compose to build a simple UI with declarative functions.", "icon": null, "overline": null, "link": {"href": "https://developer.android.com/jetpack/compose/tutorial", "aria_label": "Visit the Jetpack Compose Tutorial page on developer.android.com", "label": "Jetpack Compose Tutorial", "open_new_window": true}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/3iOYqryY4WZnfONYeIxJVCI9cKSwRr_RkL_510v1oCugbx7TzdgvQ4HsQAQ-zMsPZ_hr-Le2IpPpwvL0WDIQNtYmMYKKIfnEMd48wZcu9EIs75g6xyA", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/341739de59c68e6d4b47d5fd78d7aff92c7a9ba46483ebd616ec31c57c91323bc1be51b16986db70671c7c273a298cd1219fb0c2e7c087368dfbf42fc04f93d7"}, "size": "small"}, {"background_image": {}, "title": "Jetpack Compose Pathway", "description": "Learn how to use Jetpack Compose to build native Android UI.", "icon": null, "overline": null, "link": {"href": "https://developer.android.com/courses/jetpack-compose/course", "aria_label": "Visit the Jetpack Compose Pathway page on developer.android.com", "label": "Jetpack Compose Pathway", "open_new_window": true}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/r8fujQi3t9Nd7xHpe7Ceh_so4pQe8r5va1nTVmImLNtvtp18heH0fhkesMdwiHFyAJWQlUCWxZvYxwT1GoRecKQxmLSft8gFsuGJb75kqLRqrGKrd9kC", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/cfaa22e83795e06f0aca4d8598804ed46c1b96ee6fbd1978cc736bde94a7fe022343b21048addf0f6f4a1256ea7bc8932874d899cf43105844290b1214c4aede"}, "size": "small"}, {"background_image": {}, "title": "Theming in Compose", "description": "Jetpack Compose makes it easy to give your app a consistent look and feel with theming.", "icon": null, "overline": null, "link": {"href": "https://developer.android.com/jetpack/compose/themes", "aria_label": "Visit the Theming in Compose page on developer.android.com", "label": "Theming in Compose", "open_new_window": true}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/BVswb9ZAZ3nT-xUm24DKkz8_qeN4nlO3s13a8_BuPlwSIUVpr92diVv0gQVE-VgKLzDwU7KuQNXoeBd8K_i6OT9qP4P8uDPqTYZNrm7odcBm_w8AqQ", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/694231701ba1f4516bfcd7e6c06c07f22913092c854170df751c1e3d4b25e0493adfb70c64405c6e6baa742342feb7b89e307f729807bfce32cf8048c90d0eb6"}, "size": "small"}, {"background_image": {}, "title": "Material Components and layouts", "description": "Material Components and layouts are available as composable functions.", "icon": null, "overline": null, "link": {"href": "https://developer.android.com/jetpack/compose/layouts/material", "aria_label": "Visit the Material Components and layouts page on developer.android.com", "label": "Material Components and layouts", "open_new_window": true}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/LnMTIGYBMFKsO2Lm70aiasRc20JnRThe0x7GzyDJ86z4Jors5pxmQQrjE69_QiAcu3uIRX8kntvInZymrofF4TvHgPzPiqbOmCGk_dPeyQdGF8sL58kE", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/cf00d9ad2a6acd490d4801a8df7f3e7ca7ce1846d0ab02594a83f893d150e49328c439f823e715afb2bc3a06f1c3570b2c8ac02907659ce5d0c1d74ccebfca8c"}, "size": "small"}, {"background_image": {}, "title": "Best of Material 3 with Reply sample app in Compose", "description": "Check out the Reply sample app for Compose.", "icon": null, "overline": null, "link": {"href": "https://goo.gle/reply-compose-sample", "aria_label": "Visit the Reply Material sample app repo on Github", "label": "Best of Material 3 with Reply sample app in Compose", "open_new_window": true}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/D0Fd98ivBN8TGwZ0IrFOPpog52ez6qgR0EABHlCs55Beae8IdykYygkcHKRbnoh0KlC86YlAe2hakxsA_iRULWYISUCym3hBrPIJQGz0dGM7SYqiQypI", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/be549a593b994c1876bb00e4ccb71570e5678b331b058a313d1e7b91889b03213e21e523b962b9925d80f2856aa66490f00dc3d10fdb3d9f1956d2c5f2f308b6"}, "size": "small"}, {"background_image": {}, "title": "Adaptive apps with Compose and Material navigation", "description": "Learn how to get the most from navigation components like nav rail, drawer, and tabs in apps build with Jetpack Compose.", "icon": null, "overline": null, "link": {"href": "https://goo.gle/compose-adaptive-codelab", "aria_label": null, "label": "Adaptive apps with Compose and Material navigation", "open_new_window": true}, "thumbnail_image": {"url": "https://lh3.googleusercontent.com/o16h89MKqzTSdE7v_3IVJVw4Fnqx3iaoDImQyExGGcZ1uJXM-cjhCOWIrjwgSDWfhIMl97JsZwF9LUi2Qy6cBKtv6KmAe1f3iQ_r9ddHxj7IfbNarQ", "width": 2400, "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/e6c9560cbba0718eeb3fd37802fb768ebe183d2d3e0d8802b92cffde6fe54b7245de33a78ae9bfc750c6b690e99c1bf0b4136a49212d8b87f09f9b6f839a8d02"}, "size": "small"}], "title": "Resources & documentation", "description": "<p>Guides, developer docs, tutorials, and more</p>"}], "page_hero": {"foreground_image_svg_dark_mode": {}, "split_background_image_dark_mode": {}, "split_background_image": {}, "full_width": true, "foreground_image": {}, "resources": [], "main_background_image_dark_mode": {"url": "https://lh3.googleusercontent.com/XPeBGo2IS71Rz_B1LKqNu5V4vjBjYRwjVeQz-dz4a_BOhadtJJQAa6p9kMffizxEsOiKXzN2SZCgkD58yMNx0Z9HX4U8qJo6711-t0tx2SyJ0LhOTw", "width": 4084, "height": 2792, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/f8ae631e4e40bf7eb05de4aa6bb6a08086c0f07fa8da79b125368163aba482dbf5a2ea80a5dd8154e8854ae54ac2a72d48d008cb05ab02e027ff90af58ec547e"}, "description": "Android's modern toolkit for building native UI. Support is available for Material Design 3.", "foreground_text_light": false, "video_file": {}, "foreground_image_alignment": "top", "title": "Jetpack Compose", "ctas": [], "foreground_image_dark_mode": {}, "foreground_image_svg": null, "full_width_content_centered": false, "main_background_image": {"url": "https://lh3.googleusercontent.com/QgfxB-BUrgtZkHtnn3-ycvNH6bjqVticMxmme20p-9UMXwv4Q2JqjfdyHKuBVHSiF6SmymGXyHQBIBQLpoQQKuxx8VztVp1H0xNI4le8r3ZEIsi3r5g9", "width": 4084, "height": 2792, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/e40eb0cc2a25abfd74e7a5cf4dd569962c306804c77c06e837ef2337b70a376ab9ea66fa27d2484021a9acac09bd5af361a966f1208a74622975e7c9643861a1"}}}
+{
+  "page_title": "Jetpack Compose",
+  "document_id": "5532172983336960",
+  "metadata": {
+    "share_description": "Start building with Jetpack Compose",
+    "keywords": null,
+    "share_image": {
+      "url": "/lh3.googleusercontent.com/j8Jvfa720kmuiLP2-HAgUwJ7wEBkWE6kJqo_-9MV7OwZOyHcmtISZ1lD1_i475I6TILTjCG9Z9g_2NHdsXEtrOf-zWvO4GbzX-WA6WcK_CmfDIcrO3Y",
+      "width": 1200,
+      "height": 630,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/caac20b5edb8db90a33872e89307a7a9765a86e7f8f08208f5338fe39ef542117ec4c261cf2cd2af6c11bb0818d2268ad4d9f6ef9c21d9b65d901e42aae0a187"
+    },
+    "share_title": "Jetpack Compose \u2013 Material Design 3"
+  },
+  "sections": [
+    {
+      "two_column_stacked": false,
+      "cards": [
+        {
+          "background_image": {},
+          "title": "Jetpack Compose Stable Release",
+          "description": "See the latest release notes, including support for additional Material 3 components.",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "http://material.io/blog/material-3-compose-stable",
+            "aria_label": null,
+            "label": null,
+            "open_new_window": true
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/iRk0CdvX4Y8XYPks-KwdHKIDTFld3tokwmHOGszYGfAtSpGuBk2liD_NMMRxDR_qOFiUa0ncP6K5UNij534AVe-zuqpjB_hX1fP4jVRzn2XVis1CkRSM",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/1e3a82f1a086ab4e35493a1d72a32b6e18206e3ed2e66507d2173fd19120af434fd5093bbc85736e9d7cba72a3364f650b921369d927c02ef989f3a075cbc977"
+          },
+          "size": "medium"
+        },
+        {
+          "background_image": {},
+          "title": "Announcing Relay Alpha",
+          "description": "Relay streamlines design and development of custom components through Figma and Android Studio",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://relay.material.io",
+            "aria_label": null,
+            "label": "Introducing Relay, now in alpha",
+            "open_new_window": true
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/JjLbii_6kzFovsV29amGm53EvFYeVqBkZwVomvRpaBaXDzgVlLB6wUCCQy3TnUAL70q_YOCyDXl0I6NwfNKiS6P3zhhyZPmD72DhVKMsk3uPDMNf32Dj",
+            "width": 2100,
+            "height": 1016,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/a43515d70683e22656c6d44d6f414b2c7a961976267723537b89fcbec26560a3eb4bd90e8fe05386495fa99e0dac2f7146503349f77aac8f6e8c133e563a2495"
+          },
+          "size": "medium"
+        }
+      ],
+      "title": "Announcements",
+      "description": "<p>The latest from Jetpack Compose</p>"
+    },
+    {
+      "two_column_stacked": false,
+      "cards": [
+        {
+          "background_image": {},
+          "title": "Compose Material 3",
+          "description": "Documentation for all Material 3 Components available for Jetpack Compose.",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://developer.android.com/jetpack/androidx/releases/compose-material3",
+            "aria_label": "Compose Material 3",
+            "label": "Compose Material 3",
+            "open_new_window": true
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/Kb5du28qSb_4Z81u1W-NgPzms7xjEgPBej0dhxELHMTUt2SA_LEdUoArCLCJ0u5iqAmz0-e3YGm4Uq4SP4-0HJBd9Rj6xuG3_noZLxtyR3hIzPazTbRX",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/9779f7844409981fbe03a514d66a42c39e1bd57e0578ad67d194d378b26fb22b3df64f80198c41fbe930144e1f0a8adb5a29d859586c98522437c7a249cf14d6"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Migrate from M2 to M3 for Jetpack Compose",
+          "description": "Guides on implementing Material Design 3, migrating from Material 2 to Material 3, and more",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://developer.android.com/jetpack/compose/themes/material2-material3",
+            "aria_label": null,
+            "label": "Migrate from M2 to M3 for Jetpack Compose",
+            "open_new_window": true
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/u1zXXvP4Qh47mKhKLYGVVQVVBRslzUfukUBtN--f2m7R8ftpsUsNpXRLRHVpkoEcqb_nlyEadQgJzZXmPMAnEwTA710XoNkuenQO9m3qrfEJ_3YASA4",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/a8fb63322a2f6663db97a6fae2efd0ae11de3c2063ce9846f744edb582e6a78f8d5865836e4dae437a5a62278e8db20299abc45c190c768187ae722e7afade81"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Jetpack Compose Tutorial",
+          "description": "Use Jetpack Compose to build a simple UI with declarative functions.",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://developer.android.com/jetpack/compose/tutorial",
+            "aria_label": "Visit the Jetpack Compose Tutorial page on developer.android.com",
+            "label": "Jetpack Compose Tutorial",
+            "open_new_window": true
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/3iOYqryY4WZnfONYeIxJVCI9cKSwRr_RkL_510v1oCugbx7TzdgvQ4HsQAQ-zMsPZ_hr-Le2IpPpwvL0WDIQNtYmMYKKIfnEMd48wZcu9EIs75g6xyA",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/341739de59c68e6d4b47d5fd78d7aff92c7a9ba46483ebd616ec31c57c91323bc1be51b16986db70671c7c273a298cd1219fb0c2e7c087368dfbf42fc04f93d7"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Jetpack Compose Pathway",
+          "description": "Learn how to use Jetpack Compose to build native Android UI.",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://developer.android.com/courses/jetpack-compose/course",
+            "aria_label": "Visit the Jetpack Compose Pathway page on developer.android.com",
+            "label": "Jetpack Compose Pathway",
+            "open_new_window": true
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/r8fujQi3t9Nd7xHpe7Ceh_so4pQe8r5va1nTVmImLNtvtp18heH0fhkesMdwiHFyAJWQlUCWxZvYxwT1GoRecKQxmLSft8gFsuGJb75kqLRqrGKrd9kC",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/cfaa22e83795e06f0aca4d8598804ed46c1b96ee6fbd1978cc736bde94a7fe022343b21048addf0f6f4a1256ea7bc8932874d899cf43105844290b1214c4aede"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Theming in Compose",
+          "description": "Jetpack Compose makes it easy to give your app a consistent look and feel with theming.",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://developer.android.com/jetpack/compose/themes",
+            "aria_label": "Visit the Theming in Compose page on developer.android.com",
+            "label": "Theming in Compose",
+            "open_new_window": true
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/BVswb9ZAZ3nT-xUm24DKkz8_qeN4nlO3s13a8_BuPlwSIUVpr92diVv0gQVE-VgKLzDwU7KuQNXoeBd8K_i6OT9qP4P8uDPqTYZNrm7odcBm_w8AqQ",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/694231701ba1f4516bfcd7e6c06c07f22913092c854170df751c1e3d4b25e0493adfb70c64405c6e6baa742342feb7b89e307f729807bfce32cf8048c90d0eb6"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Material Components and layouts",
+          "description": "Material Components and layouts are available as composable functions.",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://developer.android.com/jetpack/compose/layouts/material",
+            "aria_label": "Visit the Material Components and layouts page on developer.android.com",
+            "label": "Material Components and layouts",
+            "open_new_window": true
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/LnMTIGYBMFKsO2Lm70aiasRc20JnRThe0x7GzyDJ86z4Jors5pxmQQrjE69_QiAcu3uIRX8kntvInZymrofF4TvHgPzPiqbOmCGk_dPeyQdGF8sL58kE",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/cf00d9ad2a6acd490d4801a8df7f3e7ca7ce1846d0ab02594a83f893d150e49328c439f823e715afb2bc3a06f1c3570b2c8ac02907659ce5d0c1d74ccebfca8c"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Best of Material 3 with Reply sample app in Compose",
+          "description": "Check out the Reply sample app for Compose.",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://goo.gle/reply-compose-sample",
+            "aria_label": "Visit the Reply Material sample app repo on Github",
+            "label": "Best of Material 3 with Reply sample app in Compose",
+            "open_new_window": true
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/D0Fd98ivBN8TGwZ0IrFOPpog52ez6qgR0EABHlCs55Beae8IdykYygkcHKRbnoh0KlC86YlAe2hakxsA_iRULWYISUCym3hBrPIJQGz0dGM7SYqiQypI",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/be549a593b994c1876bb00e4ccb71570e5678b331b058a313d1e7b91889b03213e21e523b962b9925d80f2856aa66490f00dc3d10fdb3d9f1956d2c5f2f308b6"
+          },
+          "size": "small"
+        },
+        {
+          "background_image": {},
+          "title": "Adaptive apps with Compose and Material navigation",
+          "description": "Learn how to get the most from navigation components like nav rail, drawer, and tabs in apps build with Jetpack Compose.",
+          "icon": null,
+          "overline": null,
+          "link": {
+            "href": "https://goo.gle/compose-adaptive-codelab",
+            "aria_label": null,
+            "label": "Adaptive apps with Compose and Material navigation",
+            "open_new_window": true
+          },
+          "thumbnail_image": {
+            "url": "/lh3.googleusercontent.com/o16h89MKqzTSdE7v_3IVJVw4Fnqx3iaoDImQyExGGcZ1uJXM-cjhCOWIrjwgSDWfhIMl97JsZwF9LUi2Qy6cBKtv6KmAe1f3iQ_r9ddHxj7IfbNarQ",
+            "width": 2400,
+            "height": 1200,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/e6c9560cbba0718eeb3fd37802fb768ebe183d2d3e0d8802b92cffde6fe54b7245de33a78ae9bfc750c6b690e99c1bf0b4136a49212d8b87f09f9b6f839a8d02"
+          },
+          "size": "small"
+        }
+      ],
+      "title": "Resources & documentation",
+      "description": "<p>Guides, developer docs, tutorials, and more</p>"
+    }
+  ],
+  "page_hero": {
+    "foreground_image_svg_dark_mode": {},
+    "split_background_image_dark_mode": {},
+    "split_background_image": {},
+    "full_width": true,
+    "foreground_image": {},
+    "resources": [],
+    "main_background_image_dark_mode": {
+      "url": "/lh3.googleusercontent.com/XPeBGo2IS71Rz_B1LKqNu5V4vjBjYRwjVeQz-dz4a_BOhadtJJQAa6p9kMffizxEsOiKXzN2SZCgkD58yMNx0Z9HX4U8qJo6711-t0tx2SyJ0LhOTw",
+      "width": 4084,
+      "height": 2792,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/f8ae631e4e40bf7eb05de4aa6bb6a08086c0f07fa8da79b125368163aba482dbf5a2ea80a5dd8154e8854ae54ac2a72d48d008cb05ab02e027ff90af58ec547e"
+    },
+    "description": "Android's modern toolkit for building native UI. Support is available for Material Design 3.",
+    "foreground_text_light": false,
+    "video_file": {},
+    "foreground_image_alignment": "top",
+    "title": "Jetpack Compose",
+    "ctas": [],
+    "foreground_image_dark_mode": {},
+    "foreground_image_svg": null,
+    "full_width_content_centered": false,
+    "main_background_image": {
+      "url": "/lh3.googleusercontent.com/QgfxB-BUrgtZkHtnn3-ycvNH6bjqVticMxmme20p-9UMXwv4Q2JqjfdyHKuBVHSiF6SmymGXyHQBIBQLpoQQKuxx8VztVp1H0xNI4le8r3ZEIsi3r5g9",
+      "width": 4084,
+      "height": 2792,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/e40eb0cc2a25abfd74e7a5cf4dd569962c306804c77c06e837ef2337b70a376ab9ea66fa27d2484021a9acac09bd5af361a966f1208a74622975e7c9643861a1"
+    }
+  }
+}

@@ -1,1 +1,68 @@
-{"dark_component_image_1x1": {}, "mdc_flutter": {}, "component_image_3x1": {}, "mdc_android": {}, "component_image_3x2": {}, "mdc_web": {}, "page_hero": {"main_background_image": {"width": 2400, "url": "https://lh3.googleusercontent.com/FlzIBMEVPo7rwUyiQE5TZuVOjo2EVPl0s0IlNPc4ntQDf6oGj4w9FMN35nDV7CLZJjj3i3jJGMUW92fuMP2MPHWiY_WcEImw3ThABZEtyhXTOMCl4P4", "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/37ab35a4bdb14c4ffff44318800c42b56314e6780d8723dce681d74132e2cd6d490ba71f53b2a56c23cd4c6de172e2d563a375a6c65b6fab5576595b05a21e10"}, "full_width_content_centered": false, "foreground_image_2x1_dark_mode": {}, "foreground_image_1x1_dark_mode": {}, "split_background_image_dark_mode": {}, "main_background_image_dark_mode": {"width": 2400, "url": "https://lh3.googleusercontent.com/epA6d7XUlOsJWcN09FA86Ifli4Q3RYN__NwHm170jue12MdKK9otB9KVOWHdu4Adpl-b7cZh1rGkjUi8Rju44bSqRyhe62yRUmsqzrFeArnhYA-_LY0", "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/ef1e42167dc7c18f2d78c7563bbff548916042ce05d1a6bd949b5935efea776c97997fe2f4b295389eabc7e10d1e1f610ddf0e9e10d9128dc10d8c9754fe7d9a"}, "foreground_image_2x1": {}, "vertical_foreground_alignment_override": null, "foreground_image_1x1": {}, "split_background_image": {}, "horizontal_foreground_alignment_override": null, "full_width": true}, "hero": {"background_image": {"width": 2400, "url": "https://lh3.googleusercontent.com/CxfyM2fqygwJnL5hkGdI5VmoDe_wSczIQ-B1MmPBQwJNfv_i4xhQbZBvNYBIi7MjE48x6BLkypcr88NaGX8NtredMQ0I2zDc2e-4TVlOtW9jP0TzvLY", "height": 720, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/ee4158bfeb357e20e85d2da3fa97011179ddd25013388695343a9fcf46e489f54e29ef133cfcbf2e62cc2b58e8c3b5a37d8d21fb6205074b4a2c3f06cdda98af"}, "foreground_text_light": false, "foreground_image_alignment": "top", "foreground_image": {}, "foreground_image_svg": null}, "component_image_position": "center", "jetpack": {}, "ia_title": "Styles / Typography", "category": null, "document_id": "4582927777923072", "isDisplayed": true, "description": null, "metadata": {"share_description": "The Material Design type scale includes a range of contrasting styles that support the needs of your product and its content.", "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, typography, type, scale", "share_image": {"width": 1801, "url": "https://lh3.googleusercontent.com/w3yECuBb1_veH1XkN0elkdupyVI4yTAs1otxLfMEsKoiDUpB2w1I1e5HXdE8GU2kfjHV5eYGVhHN5CeI21o7eJ-Cez55ydnGeO5iZ4rTDW-CIuw--7c", "height": 901, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/069af24d483b631931decb3178837715b2af66309b9967c7f87b28f4943f85508524e87aaa2bcd05230e52c8fa324ab769b6e4cd257f5093e8c505e812b1dfaf"}, "share_title": "Typography \u2013 Material Design 3"}, "component_image_1x1": {}, "dark_component_image_3x2": {}, "dark_component_image_3x1": {}, "component_image_2x1": {}, "dark_component_image_2x1": {}, "title": "Typography"}
+{
+  "dark_component_image_1x1": {},
+  "mdc_flutter": {},
+  "component_image_3x1": {},
+  "mdc_android": {},
+  "component_image_3x2": {},
+  "mdc_web": {},
+  "page_hero": {
+    "main_background_image": {
+      "width": 2400,
+      "url": "/lh3.googleusercontent.com/FlzIBMEVPo7rwUyiQE5TZuVOjo2EVPl0s0IlNPc4ntQDf6oGj4w9FMN35nDV7CLZJjj3i3jJGMUW92fuMP2MPHWiY_WcEImw3ThABZEtyhXTOMCl4P4",
+      "height": 1200,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/37ab35a4bdb14c4ffff44318800c42b56314e6780d8723dce681d74132e2cd6d490ba71f53b2a56c23cd4c6de172e2d563a375a6c65b6fab5576595b05a21e10"
+    },
+    "full_width_content_centered": false,
+    "foreground_image_2x1_dark_mode": {},
+    "foreground_image_1x1_dark_mode": {},
+    "split_background_image_dark_mode": {},
+    "main_background_image_dark_mode": {
+      "width": 2400,
+      "url": "/lh3.googleusercontent.com/epA6d7XUlOsJWcN09FA86Ifli4Q3RYN__NwHm170jue12MdKK9otB9KVOWHdu4Adpl-b7cZh1rGkjUi8Rju44bSqRyhe62yRUmsqzrFeArnhYA-_LY0",
+      "height": 1200,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/ef1e42167dc7c18f2d78c7563bbff548916042ce05d1a6bd949b5935efea776c97997fe2f4b295389eabc7e10d1e1f610ddf0e9e10d9128dc10d8c9754fe7d9a"
+    },
+    "foreground_image_2x1": {},
+    "vertical_foreground_alignment_override": null,
+    "foreground_image_1x1": {},
+    "split_background_image": {},
+    "horizontal_foreground_alignment_override": null,
+    "full_width": true
+  },
+  "hero": {
+    "background_image": {
+      "width": 2400,
+      "url": "/lh3.googleusercontent.com/CxfyM2fqygwJnL5hkGdI5VmoDe_wSczIQ-B1MmPBQwJNfv_i4xhQbZBvNYBIi7MjE48x6BLkypcr88NaGX8NtredMQ0I2zDc2e-4TVlOtW9jP0TzvLY",
+      "height": 720,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/ee4158bfeb357e20e85d2da3fa97011179ddd25013388695343a9fcf46e489f54e29ef133cfcbf2e62cc2b58e8c3b5a37d8d21fb6205074b4a2c3f06cdda98af"
+    },
+    "foreground_text_light": false,
+    "foreground_image_alignment": "top",
+    "foreground_image": {},
+    "foreground_image_svg": null
+  },
+  "component_image_position": "center",
+  "jetpack": {},
+  "ia_title": "Styles / Typography",
+  "category": null,
+  "document_id": "4582927777923072",
+  "isDisplayed": true,
+  "description": null,
+  "metadata": {
+    "share_description": "The Material Design type scale includes a range of contrasting styles that support the needs of your product and its content.",
+    "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, typography, type, scale",
+    "share_image": {
+      "width": 1801,
+      "url": "/lh3.googleusercontent.com/w3yECuBb1_veH1XkN0elkdupyVI4yTAs1otxLfMEsKoiDUpB2w1I1e5HXdE8GU2kfjHV5eYGVhHN5CeI21o7eJ-Cez55ydnGeO5iZ4rTDW-CIuw--7c",
+      "height": 901,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/069af24d483b631931decb3178837715b2af66309b9967c7f87b28f4943f85508524e87aaa2bcd05230e52c8fa324ab769b6e4cd257f5093e8c505e812b1dfaf"
+    },
+    "share_title": "Typography \u2013 Material Design 3"
+  },
+  "component_image_1x1": {},
+  "dark_component_image_3x2": {},
+  "dark_component_image_3x1": {},
+  "component_image_2x1": {},
+  "dark_component_image_2x1": {},
+  "title": "Typography"
+}

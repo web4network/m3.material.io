@@ -1,1 +1,68 @@
-{"dark_component_image_2x1": {}, "title": "Interaction states", "dark_component_image_3x2": {}, "dark_component_image_3x1": {}, "component_image_2x1": {}, "component_image_1x1": {}, "metadata": {"share_description": "States are visual indicators used to communicate the status of a component or interactive element.", "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, interaction states, states", "share_image": {"url": "https://lh3.googleusercontent.com/xXqRh6rheYtTictU5zQyEmn5yOATFgP9rkb0snQQD9EXGK2-iOeeWF1kb4LOQERo0RqCtj7U_P8ngyCIvcR913j0pVsC1z8F_01uZpfLZlKxUoyYOQ", "width": 1801, "height": 900, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/a1361f48ec87ddbe05d9518673cbebd4f27166a5d95918984466320bc29f876cba54f9d5b495918749356a9f77f7e32f1262cca8453ce85ebaeef29df18c1966"}, "share_title": "Interaction states \u2013 Material Design 3"}, "isDisplayed": true, "description": null, "document_id": "6022048224378880", "category": null, "jetpack": {}, "ia_title": "Foundations / Interaction states", "component_image_position": "center", "hero": {"background_image": {"url": "https://lh3.googleusercontent.com/glPzmxHNM6U58nxfulUNhDoHg62CwAMdnl6_3hncdYeguH8N3pV5ct367kffwbKlT2hvB-Ka9O_j2m6f4ta-t1LI7UbIwITtEBVAdNqng78g4Sss3AM", "width": 2400, "height": 720, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/21b6caf99c827c7d1f4d7478de863509297520b459dc9c18c1e769ee2bea3fc8b46f5b3e7b73de1a069a16ed1c43aac2cb13711089053530113b981e23a6ee29"}, "foreground_image_alignment": "top", "foreground_image_svg": null, "foreground_text_light": true, "foreground_image": {}}, "mdc_web": {}, "page_hero": {"split_background_image_dark_mode": {}, "foreground_image_1x1": {}, "full_width": true, "main_background_image_dark_mode": {"url": "https://lh3.googleusercontent.com/ImZgs4eLLuxUc6yUT_dd-SAGkZz9b1QY5ZPN_Ifpe_0EylbWEzo0Q0bHD-5XyQCU5HadrgFSCmNdooLr2ooQMYEB4e2rTF1QVzdb4gay_OH6DAegyQ", "width": 4800, "height": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/66269cee54be6c3d94d42634a33f9e761c6f4dafdc4a4aaa0c577a032d03d9a0262b4feb33bb7880f4ee9b46b1dc3498aedb3464c3ebffdeea08c44d2b3b79e1"}, "foreground_image_2x1": {}, "vertical_foreground_alignment_override": null, "foreground_image_2x1_dark_mode": {}, "horizontal_foreground_alignment_override": null, "foreground_image_1x1_dark_mode": {}, "split_background_image": {}, "full_width_content_centered": false, "main_background_image": {"url": "https://lh3.googleusercontent.com/4ixo00BDJowWndZUO-r-lOeLGVdAUOkKrPlQlxZHaf7Kbh-gfJ0S6HK1_t_lbmf7g60cANV2NVXzXTCSVKZ_s-n2OhWfU72m2xd_zeQ9348Dd3zd348H", "width": 4800, "height": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/0ca0c69b8755b7937624c5d81540594ca982b30fbf360ad7b11cf1020968de660a02dc560667e85b268607591d7af9da5144dfde838e398f4c18b836b6d0a486"}}, "mdc_flutter": {}, "component_image_3x1": {}, "component_image_3x2": {}, "mdc_android": {}, "dark_component_image_1x1": {}}
+{
+  "dark_component_image_2x1": {},
+  "title": "Interaction states",
+  "dark_component_image_3x2": {},
+  "dark_component_image_3x1": {},
+  "component_image_2x1": {},
+  "component_image_1x1": {},
+  "metadata": {
+    "share_description": "States are visual indicators used to communicate the status of a component or interactive element.",
+    "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, interaction states, states",
+    "share_image": {
+      "url": "/lh3.googleusercontent.com/xXqRh6rheYtTictU5zQyEmn5yOATFgP9rkb0snQQD9EXGK2-iOeeWF1kb4LOQERo0RqCtj7U_P8ngyCIvcR913j0pVsC1z8F_01uZpfLZlKxUoyYOQ",
+      "width": 1801,
+      "height": 900,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/a1361f48ec87ddbe05d9518673cbebd4f27166a5d95918984466320bc29f876cba54f9d5b495918749356a9f77f7e32f1262cca8453ce85ebaeef29df18c1966"
+    },
+    "share_title": "Interaction states \u2013 Material Design 3"
+  },
+  "isDisplayed": true,
+  "description": null,
+  "document_id": "6022048224378880",
+  "category": null,
+  "jetpack": {},
+  "ia_title": "Foundations / Interaction states",
+  "component_image_position": "center",
+  "hero": {
+    "background_image": {
+      "url": "/lh3.googleusercontent.com/glPzmxHNM6U58nxfulUNhDoHg62CwAMdnl6_3hncdYeguH8N3pV5ct367kffwbKlT2hvB-Ka9O_j2m6f4ta-t1LI7UbIwITtEBVAdNqng78g4Sss3AM",
+      "width": 2400,
+      "height": 720,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/21b6caf99c827c7d1f4d7478de863509297520b459dc9c18c1e769ee2bea3fc8b46f5b3e7b73de1a069a16ed1c43aac2cb13711089053530113b981e23a6ee29"
+    },
+    "foreground_image_alignment": "top",
+    "foreground_image_svg": null,
+    "foreground_text_light": true,
+    "foreground_image": {}
+  },
+  "mdc_web": {},
+  "page_hero": {
+    "split_background_image_dark_mode": {},
+    "foreground_image_1x1": {},
+    "full_width": true,
+    "main_background_image_dark_mode": {
+      "url": "/lh3.googleusercontent.com/ImZgs4eLLuxUc6yUT_dd-SAGkZz9b1QY5ZPN_Ifpe_0EylbWEzo0Q0bHD-5XyQCU5HadrgFSCmNdooLr2ooQMYEB4e2rTF1QVzdb4gay_OH6DAegyQ",
+      "width": 4800,
+      "height": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/66269cee54be6c3d94d42634a33f9e761c6f4dafdc4a4aaa0c577a032d03d9a0262b4feb33bb7880f4ee9b46b1dc3498aedb3464c3ebffdeea08c44d2b3b79e1"
+    },
+    "foreground_image_2x1": {},
+    "vertical_foreground_alignment_override": null,
+    "foreground_image_2x1_dark_mode": {},
+    "horizontal_foreground_alignment_override": null,
+    "foreground_image_1x1_dark_mode": {},
+    "split_background_image": {},
+    "full_width_content_centered": false,
+    "main_background_image": {
+      "url": "/lh3.googleusercontent.com/4ixo00BDJowWndZUO-r-lOeLGVdAUOkKrPlQlxZHaf7Kbh-gfJ0S6HK1_t_lbmf7g60cANV2NVXzXTCSVKZ_s-n2OhWfU72m2xd_zeQ9348Dd3zd348H",
+      "width": 4800,
+      "height": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/0ca0c69b8755b7937624c5d81540594ca982b30fbf360ad7b11cf1020968de660a02dc560667e85b268607591d7af9da5144dfde838e398f4c18b836b6d0a486"
+    }
+  },
+  "mdc_flutter": {},
+  "component_image_3x1": {},
+  "component_image_3x2": {},
+  "mdc_android": {},
+  "dark_component_image_1x1": {}
+}

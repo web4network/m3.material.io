@@ -1,1 +1,79 @@
-{"document_id": "4788215659757568", "metadata": {"share_image": {"height": 630, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/92ea8013350ae4d3c7291417c17666689737d5f247664252da7b2a82192fb11891b886d5833313c7f1de44b092ac34413446bb67ffe2acffce9b2a285062af35", "url": "https://lh3.googleusercontent.com/d70YLiOz5l3FK-Lzin-V_ritG_IZktWpUXSLKuGkoMgsD_tyxBbd8PV-oA14nZ7A9qx9nub027WMj3cjlEUgX6sKmQjoMKkLC7b4iw5Z_JMnqZAC-w", "width": 1200}, "share_title": "Web \u2014 Material Design 3", "share_description": "Start building for Web", "keywords": null}, "page_title": "Web", "page_hero": {"resources": [{"title": "Title", "link": {"aria_label": null, "label": null, "open_new_window": false, "href": "/"}, "icon": "link", "description": "some description text yada yada", "background_image": {}, "overline": null}, {"title": "title", "link": {"aria_label": null, "label": null, "open_new_window": false, "href": "/"}, "icon": "link", "description": "some description text yada yada", "background_image": {}, "overline": null}], "title": "Web", "full_width": true, "foreground_image": {}, "foreground_image_svg": null, "main_background_image": {"height": 2133, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/c62dda45a90bdfe285d5a156216224f27eff97ed11689367f7493d783fbffca812d8721730ab15da00ee9ab1b198fcfe31b0415c2c014570f3b170bcbf22a8b5", "url": "https://lh3.googleusercontent.com/vvm00GimaLqpsW4zeODWAbrpApsUfm8t7XVOvW4ZMShdEjRa5dx3ZzQzXcbg7jMa6Fo2X63naBVvcXhuj3etkPO78ZHbA21oQfVc2xuWRo2A7wlKaE4", "width": 3998}, "split_background_image": {}, "full_width_content_centered": false, "foreground_image_dark_mode": {}, "ctas": [], "foreground_image_svg_dark_mode": {}, "description": "Material Web is Google\u2019s component library for building applications that work in any web framework.", "split_background_image_dark_mode": {}, "foreground_text_light": false, "video_file": {}, "foreground_image_alignment": "top", "main_background_image_dark_mode": {"height": 2133, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/14837459dfcccf0970b00944ab2756449aa308af27fc8e3eca0c3643d2fce56526ba6ec14486ef2e9771e1c11c04a6d0887875bf3244b95180f57384c93e219d", "url": "https://lh3.googleusercontent.com/25dhf3qzNHFE3NYiX3hOoMS4tdKXj8U0EYCqosc5_x4_g5Eg0ClC1NpAXkuHGwuuwM-3k0t0l5gV1mRC1BH3RgMiFLfzU0FaNrtJO3tY319OLfA5ixU", "width": 3998}}, "sections": [{"title": "Web support is planned", "description": "<p>The&nbsp;<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">Material Web</span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">team is making significant changes to the codebase in preparation for adding Material Design 3 support. Follow the </span><a style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\" href=\"https://github.com/material-components/material-web#readme\" target=\"_blank\" rel=\"noopener\">material-web repository</a><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\"> on Github for updates.</span></p>", "cards": [], "two_column_stacked": false}]}
+{
+  "document_id": "4788215659757568",
+  "metadata": {
+    "share_image": {
+      "height": 630,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/92ea8013350ae4d3c7291417c17666689737d5f247664252da7b2a82192fb11891b886d5833313c7f1de44b092ac34413446bb67ffe2acffce9b2a285062af35",
+      "url": "/lh3.googleusercontent.com/d70YLiOz5l3FK-Lzin-V_ritG_IZktWpUXSLKuGkoMgsD_tyxBbd8PV-oA14nZ7A9qx9nub027WMj3cjlEUgX6sKmQjoMKkLC7b4iw5Z_JMnqZAC-w",
+      "width": 1200
+    },
+    "share_title": "Web \u2014 Material Design 3",
+    "share_description": "Start building for Web",
+    "keywords": null
+  },
+  "page_title": "Web",
+  "page_hero": {
+    "resources": [
+      {
+        "title": "Title",
+        "link": {
+          "aria_label": null,
+          "label": null,
+          "open_new_window": false,
+          "href": "/"
+        },
+        "icon": "link",
+        "description": "some description text yada yada",
+        "background_image": {},
+        "overline": null
+      },
+      {
+        "title": "title",
+        "link": {
+          "aria_label": null,
+          "label": null,
+          "open_new_window": false,
+          "href": "/"
+        },
+        "icon": "link",
+        "description": "some description text yada yada",
+        "background_image": {},
+        "overline": null
+      }
+    ],
+    "title": "Web",
+    "full_width": true,
+    "foreground_image": {},
+    "foreground_image_svg": null,
+    "main_background_image": {
+      "height": 2133,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/c62dda45a90bdfe285d5a156216224f27eff97ed11689367f7493d783fbffca812d8721730ab15da00ee9ab1b198fcfe31b0415c2c014570f3b170bcbf22a8b5",
+      "url": "/lh3.googleusercontent.com/vvm00GimaLqpsW4zeODWAbrpApsUfm8t7XVOvW4ZMShdEjRa5dx3ZzQzXcbg7jMa6Fo2X63naBVvcXhuj3etkPO78ZHbA21oQfVc2xuWRo2A7wlKaE4",
+      "width": 3998
+    },
+    "split_background_image": {},
+    "full_width_content_centered": false,
+    "foreground_image_dark_mode": {},
+    "ctas": [],
+    "foreground_image_svg_dark_mode": {},
+    "description": "Material Web is Google\u2019s component library for building applications that work in any web framework.",
+    "split_background_image_dark_mode": {},
+    "foreground_text_light": false,
+    "video_file": {},
+    "foreground_image_alignment": "top",
+    "main_background_image_dark_mode": {
+      "height": 2133,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/14837459dfcccf0970b00944ab2756449aa308af27fc8e3eca0c3643d2fce56526ba6ec14486ef2e9771e1c11c04a6d0887875bf3244b95180f57384c93e219d",
+      "url": "/lh3.googleusercontent.com/25dhf3qzNHFE3NYiX3hOoMS4tdKXj8U0EYCqosc5_x4_g5Eg0ClC1NpAXkuHGwuuwM-3k0t0l5gV1mRC1BH3RgMiFLfzU0FaNrtJO3tY319OLfA5ixU",
+      "width": 3998
+    }
+  },
+  "sections": [
+    {
+      "title": "Web support is planned",
+      "description": "<p>The&nbsp;<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">Material Web</span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">team is making significant changes to the codebase in preparation for adding Material Design 3 support. Follow the </span><a style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\" href=\"https://github.com/material-components/material-web#readme\" target=\"_blank\" rel=\"noopener\">material-web repository</a><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\"> on Github for updates.</span></p>",
+      "cards": [],
+      "two_column_stacked": false
+    }
+  ]
+}

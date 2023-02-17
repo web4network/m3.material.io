@@ -1,1 +1,68 @@
-{"dark_component_image_2x1": {}, "title": "Overview", "dark_component_image_3x2": {}, "dark_component_image_3x1": {}, "component_image_2x1": {}, "component_image_1x1": {}, "metadata": {"share_description": "Material uses color to create meaningful experiences while also expressing hierarchy, state, and brand identity.", "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, color, theme, theming, brand, branding, customization", "share_image": {"url": "https://lh3.googleusercontent.com/rY98F81K1CJrQgKNYhCBNKjJB-Tbq1NtLDpg5ERwSfGwP-dQ0J7nIUJ91qCM14ZBlQE7f7QdQkKSzgr65Asa1hXE0UqP4Zy6HM0OcR6aKskh134y1II", "width": 1801, "height": 900, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/8afc5abecf18e54565dd6c510f65ee6563986276d7b6ccc3acabf617582b1a9daefb35c9128c7c7df90559ab2030128137e654e74ae23e60a9993a30b6dce080"}, "share_title": "Color \u2013 Material Design 3"}, "isDisplayed": true, "description": null, "document_id": "6411266230583296", "category": null, "jetpack": {}, "ia_title": "Styles / Color / Overview", "component_image_position": "center", "hero": {"background_image": {"url": "https://lh3.googleusercontent.com/oA4mzUmFdspT9049No6K9sXbqdJBdq0ygDoMnGUFMDjjs83W2Wl8AOdYywJ6Xe0cJk_gccCraWrXM8tTV1vEBLbXeNjsk3CKC812Q-CLna9ND8teXA", "width": 2400, "height": 720, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/3cfe216a7f110d835b80c1e23ba6aa17399ab4c4d1b3bb5c46200b830cc4c5e9ec7130015cbcd75176fe584b3bd81badaf4d7b4580c6358fcedb6ffc4f215df8"}, "foreground_image_alignment": "top", "foreground_image_svg": null, "foreground_text_light": false, "foreground_image": {}}, "mdc_web": {}, "page_hero": {"split_background_image_dark_mode": {}, "foreground_image_1x1": {}, "full_width": true, "main_background_image_dark_mode": {"url": "https://lh3.googleusercontent.com/NRDBavB-Et9GCaCEITN0NahQVdeTIphZvP8ud3MDl9JTCLfMqJgqT8ZQrVuQY_8uhqk2E4ZgmWLlR8MsPtIJHyc0R9cPjQlORl-p08tBzsMfWonJlw", "width": 4800, "height": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/5aa3232a60eec2f05f1a7840c46dc79fd98d47ce872ffe88c81e46fa7ef189cdd28e7eaafad9a95bb7ea3f7fc0748803922c6722e8e9d5fae43107928cff9b9c"}, "foreground_image_2x1": {}, "vertical_foreground_alignment_override": null, "foreground_image_2x1_dark_mode": {}, "horizontal_foreground_alignment_override": null, "foreground_image_1x1_dark_mode": {}, "split_background_image": {}, "full_width_content_centered": false, "main_background_image": {"url": "https://lh3.googleusercontent.com/43plNOoTymBhQeGvh8nWvfuel2rJfczsFXdBfe6Wi3qkkaJkY3etjheVDqMwvmbNCSOENalrKC4rPHO1hvl5aI2Ve1om-mz9Ocn79l5ojSOXoXoqZVg", "width": 4800, "height": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/f24303101e0dfbd097dfe18cefff00d64ac9338790a5f47cc802e6ddc37a7c541c41e3b5c700e53917952be1542f4d8e1614d21ece414176a5389241ea59fc68"}}, "mdc_flutter": {}, "component_image_3x1": {}, "component_image_3x2": {}, "mdc_android": {}, "dark_component_image_1x1": {}}
+{
+  "dark_component_image_2x1": {},
+  "title": "Overview",
+  "dark_component_image_3x2": {},
+  "dark_component_image_3x1": {},
+  "component_image_2x1": {},
+  "component_image_1x1": {},
+  "metadata": {
+    "share_description": "Material uses color to create meaningful experiences while also expressing hierarchy, state, and brand identity.",
+    "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, color, theme, theming, brand, branding, customization",
+    "share_image": {
+      "url": "/lh3.googleusercontent.com/rY98F81K1CJrQgKNYhCBNKjJB-Tbq1NtLDpg5ERwSfGwP-dQ0J7nIUJ91qCM14ZBlQE7f7QdQkKSzgr65Asa1hXE0UqP4Zy6HM0OcR6aKskh134y1II",
+      "width": 1801,
+      "height": 900,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/8afc5abecf18e54565dd6c510f65ee6563986276d7b6ccc3acabf617582b1a9daefb35c9128c7c7df90559ab2030128137e654e74ae23e60a9993a30b6dce080"
+    },
+    "share_title": "Color \u2013 Material Design 3"
+  },
+  "isDisplayed": true,
+  "description": null,
+  "document_id": "6411266230583296",
+  "category": null,
+  "jetpack": {},
+  "ia_title": "Styles / Color / Overview",
+  "component_image_position": "center",
+  "hero": {
+    "background_image": {
+      "url": "/lh3.googleusercontent.com/oA4mzUmFdspT9049No6K9sXbqdJBdq0ygDoMnGUFMDjjs83W2Wl8AOdYywJ6Xe0cJk_gccCraWrXM8tTV1vEBLbXeNjsk3CKC812Q-CLna9ND8teXA",
+      "width": 2400,
+      "height": 720,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/3cfe216a7f110d835b80c1e23ba6aa17399ab4c4d1b3bb5c46200b830cc4c5e9ec7130015cbcd75176fe584b3bd81badaf4d7b4580c6358fcedb6ffc4f215df8"
+    },
+    "foreground_image_alignment": "top",
+    "foreground_image_svg": null,
+    "foreground_text_light": false,
+    "foreground_image": {}
+  },
+  "mdc_web": {},
+  "page_hero": {
+    "split_background_image_dark_mode": {},
+    "foreground_image_1x1": {},
+    "full_width": true,
+    "main_background_image_dark_mode": {
+      "url": "/lh3.googleusercontent.com/NRDBavB-Et9GCaCEITN0NahQVdeTIphZvP8ud3MDl9JTCLfMqJgqT8ZQrVuQY_8uhqk2E4ZgmWLlR8MsPtIJHyc0R9cPjQlORl-p08tBzsMfWonJlw",
+      "width": 4800,
+      "height": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/5aa3232a60eec2f05f1a7840c46dc79fd98d47ce872ffe88c81e46fa7ef189cdd28e7eaafad9a95bb7ea3f7fc0748803922c6722e8e9d5fae43107928cff9b9c"
+    },
+    "foreground_image_2x1": {},
+    "vertical_foreground_alignment_override": null,
+    "foreground_image_2x1_dark_mode": {},
+    "horizontal_foreground_alignment_override": null,
+    "foreground_image_1x1_dark_mode": {},
+    "split_background_image": {},
+    "full_width_content_centered": false,
+    "main_background_image": {
+      "url": "/lh3.googleusercontent.com/43plNOoTymBhQeGvh8nWvfuel2rJfczsFXdBfe6Wi3qkkaJkY3etjheVDqMwvmbNCSOENalrKC4rPHO1hvl5aI2Ve1om-mz9Ocn79l5ojSOXoXoqZVg",
+      "width": 4800,
+      "height": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/f24303101e0dfbd097dfe18cefff00d64ac9338790a5f47cc802e6ddc37a7c541c41e3b5c700e53917952be1542f4d8e1614d21ece414176a5389241ea59fc68"
+    }
+  },
+  "mdc_flutter": {},
+  "component_image_3x1": {},
+  "component_image_3x2": {},
+  "mdc_android": {},
+  "dark_component_image_1x1": {}
+}

@@ -1,0 +1,123 @@
+{
+  "ia_title": "Components / Side sheets",
+  "jetpack": {},
+  "dark_component_image_2x1": {
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/258f35c4198c23965dac9abff033886df65179f89d53de8388be7514d75000efbf8184c2eb36c7056abfa0c7b41f709bb7c0aee2d12d16b86b4a75635f0f7411",
+    "url": "/lh3.googleusercontent.com/GuKaJIFzlOI83aVctBgkYO3aQQNhTlcJ-24dn330dkzjEtUY2d_n_yvnWpe90eAf5ocie1vqpgponuUO7T5A38nhyAduneSOm8iBmtFw52FRzaAxvyco",
+    "height": 1120,
+    "width": 2240
+  },
+  "mdc_android": {},
+  "dark_component_image_3x2": {
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/1b6fb791ad3d956e38fea0a36c68298d0d88b8a94447cd8c95fa1d2364d2f4a9f77aaa6681057fa18deebc978ab94e1a7895c5ff595508fce21bff9dba468cf8",
+    "url": "/lh3.googleusercontent.com/3kt99QPISUf_x7HpxIVpT5unH0BORm08K8GeGHM7BFIMgviwqls8EhiFzujEspvU-ogbOQIS2hKDftEl5HY3FHA_WQ-eP7Jlk7Y1OHiFQaJ1Bb2_-Gg",
+    "height": 1120,
+    "width": 1680
+  },
+  "dark_component_image_3x1": {
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/96f6c158826297cf8091ca372adf3ed7e9142550ceb2b82429c6c9fb0f2607943f12fa6c1f4339429026369a589021ad9dc74c4b2fde9309e0018f3abc115e29",
+    "url": "/lh3.googleusercontent.com/QD6zRkwU6IquUsHnJ4NPW2EA2GgAeZ69Er4JsLX5feI1KnxPkGaYFSlxC3yHg-QekZnb55t3sZyQ77nV2coASNj76G36Etf_FN2a8_kVIxfZjvVbEbw",
+    "height": 1120,
+    "width": 3360
+  },
+  "isDisplayed": true,
+  "page_hero": {
+    "full_width": false,
+    "full_width_content_centered": false,
+    "foreground_image_2x1": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/101309933d9d65d6de06dce458a079d25502f9d293f21285a1b46774c0f35fdcd61109639ba3cdf563bd81630c6086aa9c3352003fdd74c54192cb81baa3a41c",
+      "url": "/lh3.googleusercontent.com/OIKGYjFsXG50erGn4r8cN70b4n1DCBXSq9W1nofFk6ig4biNyTQl8GrQ4xs9J8K5KjQUv8IWHqkqEZ_i2xe6SngoE2B56dka0P2u59Zu10wVd2dwA08",
+      "height": 2000,
+      "width": 4000
+    },
+    "horizontal_foreground_alignment_override": "position_left",
+    "split_background_image": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/2e565e0a8a8899afc5a4b9908ec0f3f9a6a30a431d54cf9dacf2909729a971758c2ad18af63a97848295500dc5ec4380604f84aad94e60ca390c3b1d305ee54f",
+      "url": "/lh3.googleusercontent.com/-HVQ4o54cLuMYRMoWS7Ff2SIijMDPIVHw5PyLR_l5ryMSEUgmQhRRjeM-7sH5d5ojb_S-rSMQIZauQ_Ntul6CVzyrcAnaYMciUPmi2p01xNmbm7ve4w",
+      "height": 6900,
+      "width": 6900
+    },
+    "foreground_image_1x1": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/b56638fbedb39a006c8143b2d60f046d957cd618e5f1c201a0b22efabe36c57ef8849648d62b553554a1113b46b8bb70261dfd9f4b109ad74c43ab70f5a002b9",
+      "url": "/lh3.googleusercontent.com/TVfEl4FJT2tT9KubnguCrP0FuU2RQV2ATINYNiE374UcA4D2i8-lRe-xV_szAaxgiolM6908dE4coZzhhYhsm7lxbzRVRYqxKY9pMhK24xdsVvve6uE",
+      "height": 2240,
+      "width": 2240
+    },
+    "foreground_image_2x1_dark_mode": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/bbe8b5561d02cd683f67a1b1a84ec9c0e50584c88f0f6f1e98092090d5343d564925b755506f5b0370bf4fb509b4b266aa73ab4684f1885bf8172259935116ce",
+      "url": "/lh3.googleusercontent.com/PeXkBgo4ITDqgJonqBIdDShKW7aRzXNhnDCNE9zdmqQPr0x8QNNxPJ5alZrLllxIKkvpYQgMx-Zw6D_ReDNFNDUNlyZ4qdcTfhgowc0IMSbwjnu-gA",
+      "height": 2000,
+      "width": 4000
+    },
+    "split_background_image_dark_mode": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/2b9d660bdafb1d1ce800cdfbdb340263c33200ec427a29f4c23938f25448b1bb437bbc79f79633edea5cb62a2fb6f2133bf6aea9a4a7d9b977d271a8901cb1da",
+      "url": "/lh3.googleusercontent.com/zHRdEr6827oFZfi-F4hnTxcizM0wx2KlfYSbEa7zsbrkGwwHYfEUmKT9b_OfZWsbZJlgHSfg_A10QK74Y98XvLhJUEFlOUFM38WGSza7X5kYPgvecok",
+      "height": 6900,
+      "width": 6900
+    },
+    "vertical_foreground_alignment_override": "position_bottom",
+    "main_background_image": {},
+    "foreground_image_1x1_dark_mode": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/4d05f855558f64501df2d6cd76eda1d5eeb21b295278d3f87f1aad9f68431a4552c91d1384df79ce2245fca56b9d2b4a2adce243c9882a18e60ef03a20597338",
+      "url": "/lh3.googleusercontent.com/Ni14Nh66Aq_Ydl_Vwv4a1lGd8pIxtPOgnZNB9wWbCI6B4V0KL_OVoztiUU5Bf0i-FWnYbD2HY_pjgDKXjzjxC4hnse0__FTnlK6GABvEf9smwDm7ATs",
+      "height": 2240,
+      "width": 2240
+    },
+    "main_background_image_dark_mode": {}
+  },
+  "title": "Side sheets",
+  "component_image_2x1": {
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/af0bff623d6e672dc6c0c804cf51a8c214cb026ba2feabf3359b28de78cc7d04c431d3b18a13a5b3984531f96880166f87bb4137b509f6f60bb5d615adac8424",
+    "url": "/lh3.googleusercontent.com/FX23sczXx3IzZn2ljOChBKdMcn53gAwsr9gJJhW1TZ9rzPn_m7Inpjuk3Le2i3X2Z7H7pd1NO_blJyyFVh7RkCtX83ODCNKMMkfL8dfZ1Ivn3w37mA",
+    "height": 1120,
+    "width": 2240
+  },
+  "component_image_position": "center",
+  "category": "containment",
+  "mdc_flutter": {},
+  "component_image_1x1": {},
+  "metadata": {
+    "share_title": "Side sheets \u2013 Material Design 3",
+    "share_image": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/45c9bc6328ff149e03103ceaf2912004ebf1f25c536b8896cbe215d887b41e2afcdcc655ed43d82024e62ddaac75633876571e65f9182d10a8c63da65038f551",
+      "url": "/lh3.googleusercontent.com/nlZ19TbD8bM4FjLCOCvuso7wTKBrkILd0I3GSUeOazKPxHAfLqeyNoe8VDTg9D-7EqVPI5ROL1lnT1cVJIIBPCgyy0FVITLACoHrDoGC5vK7Vjc5K7U",
+      "height": 1000,
+      "width": 2000
+    },
+    "keywords": "Material, Material Design, Google, Material Design 3, Material 3, Material You, Material Design Components, Material Components, components, cards",
+    "share_description": "Side sheets are surfaces containing supplementary content or actions to support tasks as part of a flow."
+  },
+  "mdc_web": {},
+  "description": "Side sheets are surfaces containing supplementary content or actions to support tasks as part of a flow.",
+  "component_image_3x2": {
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/a10c77a60a3dff82169841d531e57715e26c4e159ddf2056f527b22e027976d31a9548382e3669648ad850452ad30b2915045b651f69b76c96dd79313fe47a43",
+    "url": "/lh3.googleusercontent.com/lG8uEJZvHrAEtYeTu9_hi6aKtdeJsZsZFybSMcZMeaokFGCoSmrguD201TsvzVwPs2fFLQLKVngIRws1AgBchEgYc-g0ovQRq-faF4kcFy0PEEVUGG50",
+    "height": 1120,
+    "width": 1680
+  },
+  "component_image_3x1": {
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/77772aaae42c3845b133024d8823e429e3d085819a756835a5ca98bf540dbec2ae49020c8ca6a587b7c05c7dd0e203ed3199640c25f165622a1edb3b502d5fb4",
+    "url": "/lh3.googleusercontent.com/ZkRdzZYDfJNUB-_UgL7zExDF2Ficzi8ecdizpxWXv1s7dNaYgiGvbnYo_K5Ebr7KU3JdLqmvdzf7E12xXGt4LhncsKoSjDh8U1H0ItuDDzGkhwz-47w",
+    "height": 1120,
+    "width": 3360
+  },
+  "document_id": "5634981699387392",
+  "dark_component_image_1x1": {},
+  "hero": {
+    "background_image": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/5c9e15dc0c19669bde1fa55c1678f9aaafc8a4d7233199ca9b0ac69af576bab9cba7502ac1bffe4ff438a01d32f2d24d895250fccefbb76e2f4e7932bb2f36e6",
+      "url": "/lh3.googleusercontent.com/8C0hiBaTOxrw1XWe_eOIl0n0_r9sEubEiCnw-s41bFqmxT_MfGNusvMk5kxWa4f4ll4Jw-mNdgTcrPsbi5vohkPHnJujmu41VNLyCljuaH6yFb3-Kg",
+      "height": 1000,
+      "width": 1000
+    },
+    "foreground_image": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/39eecd0ff88f9e9437834a73dd1abd87b8463e084101338d01b1390045e3c1dfbded5befd98f0d925c9d68d403e24c2a1920352ee0d34dcd415e3682d36bc793",
+      "url": "/lh3.googleusercontent.com/Tj8IkGwq5L8zH5lz2GpLBkrxZBeZSNlRLda-9DWg-9M6dmdiZmyMm7av_KnC988WPh3JQvm9WxruUB7RHZQWTBA_tsJWgXNOMoo_7vkC8dpGlvwO1FkP",
+      "height": 1402,
+      "width": 1682
+    },
+    "foreground_image_alignment": "top",
+    "foreground_text_light": false,
+    "foreground_image_svg": null
+  }
+}

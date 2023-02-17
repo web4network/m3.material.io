@@ -1,1 +1,68 @@
-{"dark_component_image_1x1": {}, "mdc_flutter": {}, "component_image_3x1": {}, "mdc_android": {}, "component_image_3x2": {}, "mdc_web": {}, "page_hero": {"main_background_image": {"width": 2400, "url": "https://lh3.googleusercontent.com/5YXdDaJPjm46wpPV8FJqi6DIRws9C8AMaoVSRTQGeb-HQjI6xaPtoUgkAHKWZeM0Kas9VCb2J4C3yrXXEbisfciyqepzlpgOREJ7QCvw1Uv74UV_cA", "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/f97155325c8ec488b541c95a25faeb190909bb4c2caedf1810e36dec46e3573bdea5f95a1b6fe54afb1cc699ee0f59914c60e61f31dace2be6fd35d226157d0a"}, "full_width_content_centered": false, "foreground_image_2x1_dark_mode": {}, "foreground_image_1x1_dark_mode": {}, "split_background_image_dark_mode": {}, "main_background_image_dark_mode": {"width": 2400, "url": "https://lh3.googleusercontent.com/imnFYDbe7b7awcwXPwrWP0YMiJr57nuTToO2PqgK5ikF4zu8VxaxH_B1EbvB0NIEfl_n98A-TRQQd5cmsz1sIB6tmENptq5kpwO107GPRcL_WmXmWg", "height": 1200, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/af933ad72cfc097b8146456c15b3113079dc7375838b6b61b10e850a0e3b2873601cea0919679d2c74c16f1f1b804cfe5c7848eb4e282b1a739b1fe530c2ad35"}, "foreground_image_2x1": {}, "vertical_foreground_alignment_override": null, "foreground_image_1x1": {}, "split_background_image": {}, "horizontal_foreground_alignment_override": null, "full_width": true}, "hero": {"background_image": {"width": 2400, "url": "https://lh3.googleusercontent.com/s3YenUglMmA658eea7RVD2BsZTJjXUnAhqyaJdRxcx6MPuezpMwYBonZluTgP0A3pPXTbmy_YQ3gSI9qFrHfj-4-5BARf6WGnt3DrAoiZqeOmo6stQ", "height": 720, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/203ec8be4b882e521aa2463e811e44ed6390ddccdb4f0350c243e95a9537c372306db56e89aa64f6ae11c8962ad6814f5f5c146dd957136c91e72f7d95ddd71a"}, "foreground_text_light": false, "foreground_image_alignment": "top", "foreground_image": {}, "foreground_image_svg": null}, "component_image_position": "center", "jetpack": {}, "ia_title": "Foundations / Design tokens", "category": null, "document_id": "5348033117814784", "isDisplayed": true, "description": null, "metadata": {"share_description": "Tokens store style values like colors and fonts so the same values are used across designs, code, tools, and platforms.", "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, design tokens, tokens, theme, theming", "share_image": {"width": 1801, "url": "https://lh3.googleusercontent.com/4a3LiNRMB5htWOsMCZkb89_Uchc6KOsEV35M_VuwLQ5Q6VYlsZSZxZc9aEib9T0m_F-8Pi8uMghXfUNqEpNueGibg04tCqeeuthkHS2h1LJDcYV38p4", "height": 901, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/98c394d3f9f8cda451b32a137b35002f248fae5505b8fb6da881e463426d321f012fd568f40e18c05070f731133aae1b5d0beaaff08bf184f99159e05240692a"}, "share_title": "Design tokens \u2013 Material Design 3"}, "component_image_1x1": {}, "dark_component_image_3x2": {}, "dark_component_image_3x1": {}, "component_image_2x1": {}, "dark_component_image_2x1": {}, "title": "Design tokens"}
+{
+  "dark_component_image_1x1": {},
+  "mdc_flutter": {},
+  "component_image_3x1": {},
+  "mdc_android": {},
+  "component_image_3x2": {},
+  "mdc_web": {},
+  "page_hero": {
+    "main_background_image": {
+      "width": 2400,
+      "url": "/lh3.googleusercontent.com/5YXdDaJPjm46wpPV8FJqi6DIRws9C8AMaoVSRTQGeb-HQjI6xaPtoUgkAHKWZeM0Kas9VCb2J4C3yrXXEbisfciyqepzlpgOREJ7QCvw1Uv74UV_cA",
+      "height": 1200,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/f97155325c8ec488b541c95a25faeb190909bb4c2caedf1810e36dec46e3573bdea5f95a1b6fe54afb1cc699ee0f59914c60e61f31dace2be6fd35d226157d0a"
+    },
+    "full_width_content_centered": false,
+    "foreground_image_2x1_dark_mode": {},
+    "foreground_image_1x1_dark_mode": {},
+    "split_background_image_dark_mode": {},
+    "main_background_image_dark_mode": {
+      "width": 2400,
+      "url": "/lh3.googleusercontent.com/imnFYDbe7b7awcwXPwrWP0YMiJr57nuTToO2PqgK5ikF4zu8VxaxH_B1EbvB0NIEfl_n98A-TRQQd5cmsz1sIB6tmENptq5kpwO107GPRcL_WmXmWg",
+      "height": 1200,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/af933ad72cfc097b8146456c15b3113079dc7375838b6b61b10e850a0e3b2873601cea0919679d2c74c16f1f1b804cfe5c7848eb4e282b1a739b1fe530c2ad35"
+    },
+    "foreground_image_2x1": {},
+    "vertical_foreground_alignment_override": null,
+    "foreground_image_1x1": {},
+    "split_background_image": {},
+    "horizontal_foreground_alignment_override": null,
+    "full_width": true
+  },
+  "hero": {
+    "background_image": {
+      "width": 2400,
+      "url": "/lh3.googleusercontent.com/s3YenUglMmA658eea7RVD2BsZTJjXUnAhqyaJdRxcx6MPuezpMwYBonZluTgP0A3pPXTbmy_YQ3gSI9qFrHfj-4-5BARf6WGnt3DrAoiZqeOmo6stQ",
+      "height": 720,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/203ec8be4b882e521aa2463e811e44ed6390ddccdb4f0350c243e95a9537c372306db56e89aa64f6ae11c8962ad6814f5f5c146dd957136c91e72f7d95ddd71a"
+    },
+    "foreground_text_light": false,
+    "foreground_image_alignment": "top",
+    "foreground_image": {},
+    "foreground_image_svg": null
+  },
+  "component_image_position": "center",
+  "jetpack": {},
+  "ia_title": "Foundations / Design tokens",
+  "category": null,
+  "document_id": "5348033117814784",
+  "isDisplayed": true,
+  "description": null,
+  "metadata": {
+    "share_description": "Tokens store style values like colors and fonts so the same values are used across designs, code, tools, and platforms.",
+    "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, design tokens, tokens, theme, theming",
+    "share_image": {
+      "width": 1801,
+      "url": "/lh3.googleusercontent.com/4a3LiNRMB5htWOsMCZkb89_Uchc6KOsEV35M_VuwLQ5Q6VYlsZSZxZc9aEib9T0m_F-8Pi8uMghXfUNqEpNueGibg04tCqeeuthkHS2h1LJDcYV38p4",
+      "height": 901,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/98c394d3f9f8cda451b32a137b35002f248fae5505b8fb6da881e463426d321f012fd568f40e18c05070f731133aae1b5d0beaaff08bf184f99159e05240692a"
+    },
+    "share_title": "Design tokens \u2013 Material Design 3"
+  },
+  "component_image_1x1": {},
+  "dark_component_image_3x2": {},
+  "dark_component_image_3x1": {},
+  "component_image_2x1": {},
+  "dark_component_image_2x1": {},
+  "title": "Design tokens"
+}

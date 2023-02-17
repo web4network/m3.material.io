@@ -1,1 +1,68 @@
-{"dark_component_image_1x1": {}, "mdc_flutter": {}, "component_image_3x1": {}, "mdc_android": {}, "component_image_3x2": {}, "mdc_web": {}, "page_hero": {"main_background_image": {"width": 4800, "url": "https://lh3.googleusercontent.com/GC7uaJYBY37yDjlX_l1y8oXf_g1iNwiJDB4ulfbSx0QOsxee2ex3vg2HW-qyKCHFc8IyVh7KIofdCXR3pw3IRMrL1uMYtaMJKZ9Ou7yGfyWuLJvUPxpW", "height": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/14b9485565bba82e928b29025a3878022e2e3a3bbb5114e2a211d4949e08d70aa043a0689304a107037b2d59eee731f32effb805859d5121105312664e08ef0c"}, "full_width_content_centered": false, "foreground_image_2x1_dark_mode": {}, "foreground_image_1x1_dark_mode": {}, "split_background_image_dark_mode": {}, "main_background_image_dark_mode": {"width": 4800, "url": "https://lh3.googleusercontent.com/rGyjbMxK209WZ6iAHe-xESixnoD9WhuaScgxUZ9sZalvpXmyx_ryYWsg6DHPTIhFaLxz6pcN_QJvtTYejyktGSRmUOdJ752gzgVjRY5OymWuuP2iLdC6", "height": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/e72d9d8d1a6f4b37a4ccc6eeeefa3b6926bcd5ff194ec87206d06f51e94f0f0eb99785a263115de8bbf8e3772f96f084e08788b07f1bf3f476d7ba8a21f9c455"}, "foreground_image_2x1": {}, "vertical_foreground_alignment_override": null, "foreground_image_1x1": {}, "split_background_image": {}, "horizontal_foreground_alignment_override": null, "full_width": true}, "hero": {"background_image": {"width": 2400, "url": "https://lh3.googleusercontent.com/RzidtsAbEOHHlavTSV1mEZKMHnLIYtPOadkLIZscjaffAylHS-EwZ25xSczs-QWiyCKweVoFsDvxuN9GoWfF24iHdeYZTmjv5d5HBMiezQn99aGx5A", "height": 720, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/5afffa702f8a5875fc2b33b3755a7123073912f9c7fc10c1146f2b306ed33efadb037e728ec1b94e46e500af92e984246175dde7a2bf8021959dfb8263cf09df"}, "foreground_text_light": false, "foreground_image_alignment": "top", "foreground_image": {}, "foreground_image_svg": null}, "component_image_position": "center", "jetpack": {}, "ia_title": "Foundations / Customization", "category": null, "document_id": "6266397839327232", "isDisplayed": true, "description": null, "metadata": {"share_description": "Material Design 3 makes brand expression in an interface simpler and more beautiful than ever before.", "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, color, theme, theming, brand, branding, customization", "share_image": {"width": 1801, "url": "https://lh3.googleusercontent.com/hcLLkH-pnSrKhAzgQLsRlTF6d_aK-f5T6JLi-KAq2rYP4q5Kd-QnTcq3u3095ablM0tCf_P0bgw2fGJmNdaMk1xp68lK2ePsZARrts1ftXuD-Q_5Pw", "height": 901, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/4c814ec0bf4cd1bb96ad626516227c93d2329cdb5b6c43dd6043ceb561a80d9c44effa04cffd0934c86f7dd46ba1343ac4fa74bb944f02e18e062182e34d7963"}, "share_title": "Customizing Material \u2013 Material Design 3"}, "component_image_1x1": {}, "dark_component_image_3x2": {}, "dark_component_image_3x1": {}, "component_image_2x1": {}, "dark_component_image_2x1": {}, "title": "Customization"}
+{
+  "dark_component_image_1x1": {},
+  "mdc_flutter": {},
+  "component_image_3x1": {},
+  "mdc_android": {},
+  "component_image_3x2": {},
+  "mdc_web": {},
+  "page_hero": {
+    "main_background_image": {
+      "width": 4800,
+      "url": "/lh3.googleusercontent.com/GC7uaJYBY37yDjlX_l1y8oXf_g1iNwiJDB4ulfbSx0QOsxee2ex3vg2HW-qyKCHFc8IyVh7KIofdCXR3pw3IRMrL1uMYtaMJKZ9Ou7yGfyWuLJvUPxpW",
+      "height": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/14b9485565bba82e928b29025a3878022e2e3a3bbb5114e2a211d4949e08d70aa043a0689304a107037b2d59eee731f32effb805859d5121105312664e08ef0c"
+    },
+    "full_width_content_centered": false,
+    "foreground_image_2x1_dark_mode": {},
+    "foreground_image_1x1_dark_mode": {},
+    "split_background_image_dark_mode": {},
+    "main_background_image_dark_mode": {
+      "width": 4800,
+      "url": "/lh3.googleusercontent.com/rGyjbMxK209WZ6iAHe-xESixnoD9WhuaScgxUZ9sZalvpXmyx_ryYWsg6DHPTIhFaLxz6pcN_QJvtTYejyktGSRmUOdJ752gzgVjRY5OymWuuP2iLdC6",
+      "height": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/e72d9d8d1a6f4b37a4ccc6eeeefa3b6926bcd5ff194ec87206d06f51e94f0f0eb99785a263115de8bbf8e3772f96f084e08788b07f1bf3f476d7ba8a21f9c455"
+    },
+    "foreground_image_2x1": {},
+    "vertical_foreground_alignment_override": null,
+    "foreground_image_1x1": {},
+    "split_background_image": {},
+    "horizontal_foreground_alignment_override": null,
+    "full_width": true
+  },
+  "hero": {
+    "background_image": {
+      "width": 2400,
+      "url": "/lh3.googleusercontent.com/RzidtsAbEOHHlavTSV1mEZKMHnLIYtPOadkLIZscjaffAylHS-EwZ25xSczs-QWiyCKweVoFsDvxuN9GoWfF24iHdeYZTmjv5d5HBMiezQn99aGx5A",
+      "height": 720,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/5afffa702f8a5875fc2b33b3755a7123073912f9c7fc10c1146f2b306ed33efadb037e728ec1b94e46e500af92e984246175dde7a2bf8021959dfb8263cf09df"
+    },
+    "foreground_text_light": false,
+    "foreground_image_alignment": "top",
+    "foreground_image": {},
+    "foreground_image_svg": null
+  },
+  "component_image_position": "center",
+  "jetpack": {},
+  "ia_title": "Foundations / Customization",
+  "category": null,
+  "document_id": "6266397839327232",
+  "isDisplayed": true,
+  "description": null,
+  "metadata": {
+    "share_description": "Material Design 3 makes brand expression in an interface simpler and more beautiful than ever before.",
+    "keywords": "Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, color, theme, theming, brand, branding, customization",
+    "share_image": {
+      "width": 1801,
+      "url": "/lh3.googleusercontent.com/hcLLkH-pnSrKhAzgQLsRlTF6d_aK-f5T6JLi-KAq2rYP4q5Kd-QnTcq3u3095ablM0tCf_P0bgw2fGJmNdaMk1xp68lK2ePsZARrts1ftXuD-Q_5Pw",
+      "height": 901,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/4c814ec0bf4cd1bb96ad626516227c93d2329cdb5b6c43dd6043ceb561a80d9c44effa04cffd0934c86f7dd46ba1343ac4fa74bb944f02e18e062182e34d7963"
+    },
+    "share_title": "Customizing Material \u2013 Material Design 3"
+  },
+  "component_image_1x1": {},
+  "dark_component_image_3x2": {},
+  "dark_component_image_3x1": {},
+  "component_image_2x1": {},
+  "dark_component_image_2x1": {},
+  "title": "Customization"
+}

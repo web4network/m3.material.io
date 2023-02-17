@@ -1,0 +1,123 @@
+{
+  "ia_title": "Components / Search",
+  "jetpack": {},
+  "dark_component_image_2x1": {
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/8c164576b1e10f47f8067f875ca3a53acf1031f757f90799c01196331d9c1b6ee78deb6da96a08f8136a52e359ceedb5083e5e12bcde7652575b9210b5e0337b",
+    "url": "/lh3.googleusercontent.com/O_-kh_ObYDoIeCw_rS8vrrVdTDdhVub3gNgcwUZshLKLVPazC6FYDxjXLoMfy74wURNZpupWzPqUeEzENDz8zhX1crQ0Fsj-AN-gPiygQrBYhQa_iw",
+    "height": 1120,
+    "width": 2240
+  },
+  "mdc_android": {},
+  "dark_component_image_3x2": {
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/0fdbc49d2a2cd5d5ec20bbbde0dfa8c7548c19939ed8f3be5760a35ac8e621be30abea38c7bc88ffc6fd9414d5e0863dc26c4c11583961fe87e54ca7a9291a1d",
+    "url": "/lh3.googleusercontent.com/ui5LvauxwXqiSaURZ881KtGA8FRaur_W07GR66okCGL6x5whKLxFfZ-t5GXK40luVHH8IKadu1avajtd1W7L7P0l40ZdwVemmJ7tVoZYdXqRrsX4GAo",
+    "height": 1120,
+    "width": 1680
+  },
+  "dark_component_image_3x1": {
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/060e913853e45a480a7dba231aeb5358ad3e477005a8809d74546266568319d6dcf78704cda900dbbbe308fe6bec894a70add65a2e3814bad4da800bc523252a",
+    "url": "/lh3.googleusercontent.com/OLcb0wPG2Ec4jo9UU4hWY-KL-b9aQYR6aY7G5tYO0PBcRsOyakFzYoDPxeMtRBJ_6YySWSFD4AvJY-QkOJb9UEnMRHyz_T7HN3_r_Ix1zbSZggZCsA",
+    "height": 1120,
+    "width": 3360
+  },
+  "isDisplayed": true,
+  "page_hero": {
+    "full_width": false,
+    "full_width_content_centered": false,
+    "foreground_image_2x1": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/e84b60917834983ec6ff91a5a3e20fd2a9ac2737719f4ee0ba51a18913dea6a2b46ac391ac1e06a764c354d83f8cdd5d72592eee936261bce171a849ffa3c4cf",
+      "url": "/lh3.googleusercontent.com/D_fDGSoek40ktrQb4TjcfftWF9RZZ6x8v-a5vD2ZJYIyoN53ENuo5bNdJmJVurWxOFL-UAnnbweMlxB98iJq9g9BAVdb412AQQQj33qtCwU9SYtiBBQa",
+      "height": 2000,
+      "width": 4000
+    },
+    "horizontal_foreground_alignment_override": null,
+    "split_background_image": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/2e2974c7e2a466209080cb2a2feb462d112644146727e681c726495b5ecba7689771302d0478c3842944b8527fcf5394a38b8f103b7b5bb731898c5874f46946",
+      "url": "/lh3.googleusercontent.com/Iz1a-UpZy2iNtcsP6Q4FlLy87u4E1Z4ubQPANMhk9lqZFrnS-ONEJN6E1CuQ8nMmBaEYh8W1PX_swBMew71nmmpJHqA_OPW6GG6aNv6K8vYPtBjfFv0l",
+      "height": 667,
+      "width": 1000
+    },
+    "foreground_image_1x1": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/6592faac659c7aa967f596fa04999cb27b5b55faddbb316ec25593e9681be356b48d6f25958ded8b959adf0bd4cb8dbf10ff47c3e9ed41ee899e1a779d06cb4c",
+      "url": "/lh3.googleusercontent.com/zu-Xvq8TxhmBt-EQhMMxlMUGL0RyNHSldImIREq3HhChHpXVKIWzTc6tTXRp9P6twKvcjrBTLPR89ujyTVOHhiucGqA6OlDDIFIbna7mP2a7lrSzXg",
+      "height": 2240,
+      "width": 2240
+    },
+    "foreground_image_2x1_dark_mode": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/7571c1829c6778b80b4e1591593ba3372024ef2331b5231df35b5332efa2af351c9227b95ed009ace328cc64ffcd6ae6a44149d5d1fa1260992648555b30c5c7",
+      "url": "/lh3.googleusercontent.com/LjB-1eutRa6qo5bM0zvLom2b9oZky4lSxM8i8M7LIJgS0ZuwEpGe7Ev4230jIREcZH-EvsKfOz0K1pFb564V3ZDK6i8CCDc467bobNYqTojytdrN5EyD",
+      "height": 2000,
+      "width": 4000
+    },
+    "split_background_image_dark_mode": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/6812da2884a9c3712ef96d504a20c91e5590b69b07214062ccb74e78c70dae39702412656e309346fce6c6dd6eefb070d1f37745e7cc15648f36e0bd8074d91f",
+      "url": "/lh3.googleusercontent.com/RU9vtX4t6PQnrgYchdkEQSgsE-CMg_tX6LeUYVXRqYMYJp9-3l2c0lC7xncmUAJp4tsUm7UjKRuWJ4gg-nn_5p0XtzmWbKpmS1msmlprHVR2PErW9ys",
+      "height": 1000,
+      "width": 1500
+    },
+    "vertical_foreground_alignment_override": null,
+    "main_background_image": {},
+    "foreground_image_1x1_dark_mode": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/3612e7988e5fbf31ae0325590829fbb5cf5e7008c756ebe234d9216cd668e444d99c0a9dc9e6a4451d4df626f62b0a0555072b5dc20607d461d6118c59d0d49d",
+      "url": "/lh3.googleusercontent.com/hsCFCTMYSajM7x_ffTOB2TkZD3kyZVaB6xJVwGchkPg-WbGGsx9NGtffQKm4WoA10VhIwSir_CbpbTlmRa1kEDWdZzACi9QKg-mOKjql77CFWZJCNd8",
+      "height": 2240,
+      "width": 2240
+    },
+    "main_background_image_dark_mode": {}
+  },
+  "title": "Search",
+  "component_image_2x1": {
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/f2ca24c80f25aeda83a271e7c41c1d49707440955a47cccd09bf1e64e15ea767438685f16e6626c546ceb28aeaf6937f604e30f7c1cf9657298e58efb46cfeeb",
+    "url": "/lh3.googleusercontent.com/ZQhiDxTNcAfmuo7I59jl9RSCvT4xnTCVPHRLy6GPKmMjE2LrTnVYbZLGfZtZmZcJf1wdBKDJ8wVGF8FhIp4Le76rkdw4Ju-lRoV43OaaDiXo2vOIuA",
+    "height": 1120,
+    "width": 2240
+  },
+  "component_image_position": "top center",
+  "category": "navigation",
+  "mdc_flutter": {},
+  "component_image_1x1": {},
+  "metadata": {
+    "share_title": "Search \u2013 Material Design 3",
+    "share_image": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/02387913f20d1c050c6351cb8e65c00e70ef62392553d0cb5e2ba6b8a5261148454fc5de5519e953f68b90044b15d4fb5e015ac134e5a57550e18e38135851fe",
+      "url": "/lh3.googleusercontent.com/7tWy4vxy6H5EPrb0rZiTZXfo6Wnd6AVILjdFZJbpiU7OQW2W0KWwKPJFTGmIuGm8tcCMNajMlR8YTD4ss5wIagWBv2yVI3DD0Qj02jNFzE9T26uV7g",
+      "height": 630,
+      "width": 1200
+    },
+    "keywords": "Search, Search bar, Material, Material Design, Google Material, Google, Material Design 3, Material 3, Material You, Material Design Components, Material Components, components",
+    "share_description": "Search allows users to enter a keyword or phrase and get relevant information. It\u2019s an alternative to other forms of navigation."
+  },
+  "mdc_web": {},
+  "description": "Search allows users to enter a keyword or phrase and get relevant information. It\u2019s an alternative to other forms of navigation.",
+  "component_image_3x2": {
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/4a1b7d07995df238dfa9ae60c28d946df2e13d2b9d662321d92c6f52503944abac9a9ee8237479333999e9449ef1e4d5883900c1426ab94b08ef427d64aebc7c",
+    "url": "/lh3.googleusercontent.com/jh9sZpAx0qkALZtTaUj-ntf7AxIh1HZ2HhtgPu8iYYBQ6hDbVOYpcBregJXJtQ2X2PHzmFCS7VqUtN-ayWR9D2rqo1klM-4bsTA_2EVyOv2FhvC7Uw4",
+    "height": 1120,
+    "width": 1680
+  },
+  "component_image_3x1": {
+    "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/8d7f38d5e44aabe2e78744749f5e9067df77e0cf1386f183f76d9a0b68db41fa78ea49bb0375948f13b85007baa8b674949b8e8714979c6e8c045e04d76d27b6",
+    "url": "/lh3.googleusercontent.com/3h5in1sn1qLdZX4sXVW8NPqtWbStaOiIL66POhD5VmCURZi_fTsLfPyjKNK41Q4_mA51vPoD4FtItSc1bihcy56bOfLzb1PndBv0j6WoD-F2CO41fx4D",
+    "height": 1120,
+    "width": 3360
+  },
+  "document_id": "4567571785449472",
+  "dark_component_image_1x1": {},
+  "hero": {
+    "background_image": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/bcc7bc981a2febff53a28ae34255ca1ea1486e4c8853bd417b1fcb110dad3eaf553c9d731dbc9589a482b00e8c72a87dcb8273f56b1cb363b89bdba4742794d4",
+      "url": "/lh3.googleusercontent.com/WyLPtiyQXDixTtLrJcBAgiiFggqIQVx5q9RuG-TrCIfR3oMdmvKkZD5Rn12RIeEuN0YopWKSTaQxoTtRiXz6mhxKtQuXlCceCaKcwG7GQiebDya90dE",
+      "height": 720,
+      "width": 2400
+    },
+    "foreground_image": {
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_95f9980dd12d4f8886c881994eaa6a79_/55f0b2781c92c040fe3b51fd5f9fc179b230eb8429f4ffa2a27709192143d4a511a53d173df1114a2abe636f30361e41b0c8e33669de8a37c38239667d47df9e",
+      "url": "/lh3.googleusercontent.com/Atvv34EdOUIG-TTgB6v6fUnjnh_fShKjbKSt9VGb3x8u81_PfOxcyCMEwPWbYkB7S6SBi_yVH2YctOp1gmaryiW7L1YoJZTZXvL7Tco-FjHQMMYgVg",
+      "height": 1816,
+      "width": 856
+    },
+    "foreground_image_alignment": "bottom",
+    "foreground_text_light": false,
+    "foreground_image_svg": null
+  }
+}

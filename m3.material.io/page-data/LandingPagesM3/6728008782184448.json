@@ -1,1 +1,173 @@
-{"sections": [{"title": null, "two_column_stacked": false, "description": null, "cards": [{"link": {"href": "/foundations/accessible-design/overview", "aria_label": null, "label": null, "open_new_window": false}, "thumbnail_image": {"width": 1801, "height": 901, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/540a262defba548b621001b3a653f30b4344728474ae0407e6ea2e93196fc15a1d62d0debb20587cf6ab48326ed6248b1205169acce37acd448195d5287be111", "url": "https://lh3.googleusercontent.com/yW9keBR_4F-w5mTHkNzGsviez7-xaxbRrNjbjPGf3pm3WxwdJgqU-KDJvkL-MM0oNfptPRraXNZmZJ2-pxpUsPBwKaflHt-DHBHYD_nsEPXq7O9ing"}, "title": "Accessibility", "overline": null, "description": "Accessible design enables users with diverse abilities to navigate, understand, and enjoy a UI.", "icon": null, "size": "medium", "background_image": {}}, {"link": {"href": "/foundations/adaptive-design/overview", "aria_label": null, "label": null, "open_new_window": false}, "thumbnail_image": {"width": 1801, "height": 901, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/511ecbaedc4ad35f2bda97cf675f8225eadca5f8fb520a33252fcc6c881f3b17eef602c8a240e60668af24ec1fbe1e4dd8a6eea60ba5fae2efa1c7adbef99364", "url": "https://lh3.googleusercontent.com/jeH_DXs3SntefbFeBWIMp-0t8EIpwnMDgqxooGiOgWfA2iS_S95TH-w0qD0jvMk2Dw7TOaAimKTwYrff88lNmGFKu97iuoctJPLAdZYwrv3VSSLQSw"}, "title": "Adaptive design", "overline": null, "description": "Adaptive layouts react to input from users, devices, and screen elements. Material guidance describes how to design for variable screen sizes, from phones and tablets, to desktop and beyond.", "icon": null, "size": "medium", "background_image": {}}, {"link": {"href": "/foundations/customization", "aria_label": null, "label": null, "open_new_window": false}, "thumbnail_image": {"width": 1801, "height": 901, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/ee22104687b5b72014f52d6b21ffc0126267b3e3a1a23c9ea584724046ed2f1fbcbe2fb5b8599d323047ec5f232fe194772992f72daca46b2f01e541f103f933", "url": "https://lh3.googleusercontent.com/zQXC4ZwVUA3GFP6oWjRrrBmQXGUF4ivC5Te-AqK9NPihA5oLEkLbVyQiW3Wi3gIbOl4xjqWP1GpTG6GSdi1FYRFFwJyJO3_JLMaFSOiLyJaHk5knWJfq"}, "title": "Customizing Material", "overline": null, "description": "M3 makes brand expression in an interface simpler and more beautiful than ever before.", "icon": null, "size": "medium", "background_image": {}}, {"link": {"href": "/foundations/design-tokens/overview", "aria_label": null, "label": null, "open_new_window": false}, "thumbnail_image": {"width": 1801, "height": 901, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/547ce42263927d36187a50a3a20f6f0ef3951e1d81473591d70692992c4762ee14afd9e3a0c90a3ae7cd5f46137d1df24659d94b564bb7f4436b339177515456", "url": "https://lh3.googleusercontent.com/3qHtqBY1lR0fp4IxXE72CAKXIv2VRSaYaAxYv7AmbLieFpnFw8_sBAxOoG8RwSWGJE7ErO6kIVrkZ_UrJMh86vxAmYkiF-ug6jmqKGM4UOsQTVga2w"}, "title": "Design tokens", "overline": null, "description": "Tokens store style values like colors and fonts so the same values can be used across designs, code, tools, and platforms.", "icon": null, "size": "medium", "background_image": {}}, {"link": {"href": "/foundations/interaction-states", "aria_label": null, "label": null, "open_new_window": false}, "thumbnail_image": {"width": 1801, "height": 900, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/0cac3b17936fd5c7536eb8d9be4031472e3bd40544090d732cd0b4328147bc85491b96602f26ff5fd3b457cb80da1bc2ed886e0a01335827d80850f67b579895", "url": "https://lh3.googleusercontent.com/1qunnpRZ_uridw9L8XI8RRKyRMHQ5npx4F4fFywzZpneckwd8T_t1WDhDu2ZbPlIV0XmauzfANMGJSb3VDBiB7sFxiFhiU7rSX3BQQhC5KY1UYjXPD8"}, "title": "Interaction states", "overline": null, "description": "States are visual indicators used to communicate the status of a component or interactive element.", "icon": null, "size": "medium", "background_image": {}}, {"link": {"href": "/foundations/glossary", "aria_label": null, "label": null, "open_new_window": false}, "thumbnail_image": {"width": 1801, "height": 900, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/cfd267adf59d2d969e088f196979ae3a4ff6b7b8fc8aafb67fb8a8fb595de35df5902aa7468d0a42e6cbbe4b27f279c3669861671eadf8f9cfe1bdf8e023df46", "url": "https://lh3.googleusercontent.com/xA-uPF7vBzResUgmqwRGdzQfpLI7THZNLhC5wrEe5d_4H_zLYR3FeO1A_ADSCefvvtvoM9QMB4Jt6pr3x0gqs2QuXN1Xd_iIz38qDPvd3jlkSlfZCA"}, "title": "Material A-Z", "overline": null, "description": "Get to know the key terms and concepts behind Material, from A to Z.", "icon": null, "size": "medium", "background_image": {}}]}], "page_hero": {"video_file": {}, "foreground_image_svg": null, "foreground_text_light": false, "foreground_image_dark_mode": {}, "title": "Foundations", "resources": [], "foreground_image_alignment": "top", "full_width": true, "description": "Foundations inform the basis of any great user interface, from accessibility standards to essential patterns for layout and interaction.", "full_width_content_centered": false, "ctas": [], "main_background_image": {"width": 8092, "height": 8092, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/0b4ba2b4a3de6928b1cecdfdba62e811d9aad0ac6af7e46fb7355722e153d625c0d085c34dbfef27e5e48f9d000038efef1aa95f569e09fbcf1b5aec5441ced9", "url": "https://lh3.googleusercontent.com/D3-OahttrL-yH62XV-Ss1HzQWT1RaCeAowh_b24TSPUbfilOv559cGrzrExTklxin0oOrZ4RlyPYe85coUMZDSTCqgMOlsofyLm3RKFzhwONddZRf8X_"}, "split_background_image": {}, "foreground_image": {}, "main_background_image_dark_mode": {"width": 8092, "height": 8092, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/1d8370d54e69065b77d64e4dd14dc679c9bc770328b159c51362196d8eb0c9a00427d84c7825778e31306b5edda709fb60f878eabc9bf82171807141e0433b96", "url": "https://lh3.googleusercontent.com/U8dSUmCjiqUZmZoCxzBZ5oGBCqCVipJvghZZDUfRgErjMa_UKYWEAU4TwlArCrW_TLDzfuIE08tirIROhJ8OZDsFZf8DK4p7pam74PGvtqBiE0ES2gI"}, "foreground_image_svg_dark_mode": {}, "split_background_image_dark_mode": {}}, "page_title": "Foundations", "metadata": {"keywords": null, "share_image": {"width": 1200, "height": 630, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/fd6b27911e384a0b054c55e2b7a046aac283a7266d1bfd8c9da22030095dc0f84fd78919834007400695a662329b16b67e310c4a052eb405881f6c56afee1cd5", "url": "https://lh3.googleusercontent.com/CdbdmxXjzdei2o3jdJKT_0646sh9t7LzeJGBzlrFzOTykvVqBhcCFPC3O9BYgBPqPijMMWEmoZXK1-yG_Hd4xBb3FRosXLsyg1n7eqP7IyKtAPwkPgU"}, "share_description": "Foundations inform the basis of any great user interface, from accessibility standards to essential patterns for layout and interaction.", "share_title": "Foundations \u2014 Material Design 3"}, "document_id": "6728008782184448"}
+{
+  "sections": [
+    {
+      "title": null,
+      "two_column_stacked": false,
+      "description": null,
+      "cards": [
+        {
+          "link": {
+            "href": "/foundations/accessible-design/overview",
+            "aria_label": null,
+            "label": null,
+            "open_new_window": false
+          },
+          "thumbnail_image": {
+            "width": 1801,
+            "height": 901,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/540a262defba548b621001b3a653f30b4344728474ae0407e6ea2e93196fc15a1d62d0debb20587cf6ab48326ed6248b1205169acce37acd448195d5287be111",
+            "url": "/lh3.googleusercontent.com/yW9keBR_4F-w5mTHkNzGsviez7-xaxbRrNjbjPGf3pm3WxwdJgqU-KDJvkL-MM0oNfptPRraXNZmZJ2-pxpUsPBwKaflHt-DHBHYD_nsEPXq7O9ing"
+          },
+          "title": "Accessibility",
+          "overline": null,
+          "description": "Accessible design enables users with diverse abilities to navigate, understand, and enjoy a UI.",
+          "icon": null,
+          "size": "medium",
+          "background_image": {}
+        },
+        {
+          "link": {
+            "href": "/foundations/adaptive-design/overview",
+            "aria_label": null,
+            "label": null,
+            "open_new_window": false
+          },
+          "thumbnail_image": {
+            "width": 1801,
+            "height": 901,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/511ecbaedc4ad35f2bda97cf675f8225eadca5f8fb520a33252fcc6c881f3b17eef602c8a240e60668af24ec1fbe1e4dd8a6eea60ba5fae2efa1c7adbef99364",
+            "url": "/lh3.googleusercontent.com/jeH_DXs3SntefbFeBWIMp-0t8EIpwnMDgqxooGiOgWfA2iS_S95TH-w0qD0jvMk2Dw7TOaAimKTwYrff88lNmGFKu97iuoctJPLAdZYwrv3VSSLQSw"
+          },
+          "title": "Adaptive design",
+          "overline": null,
+          "description": "Adaptive layouts react to input from users, devices, and screen elements. Material guidance describes how to design for variable screen sizes, from phones and tablets, to desktop and beyond.",
+          "icon": null,
+          "size": "medium",
+          "background_image": {}
+        },
+        {
+          "link": {
+            "href": "/foundations/customization",
+            "aria_label": null,
+            "label": null,
+            "open_new_window": false
+          },
+          "thumbnail_image": {
+            "width": 1801,
+            "height": 901,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/ee22104687b5b72014f52d6b21ffc0126267b3e3a1a23c9ea584724046ed2f1fbcbe2fb5b8599d323047ec5f232fe194772992f72daca46b2f01e541f103f933",
+            "url": "/lh3.googleusercontent.com/zQXC4ZwVUA3GFP6oWjRrrBmQXGUF4ivC5Te-AqK9NPihA5oLEkLbVyQiW3Wi3gIbOl4xjqWP1GpTG6GSdi1FYRFFwJyJO3_JLMaFSOiLyJaHk5knWJfq"
+          },
+          "title": "Customizing Material",
+          "overline": null,
+          "description": "M3 makes brand expression in an interface simpler and more beautiful than ever before.",
+          "icon": null,
+          "size": "medium",
+          "background_image": {}
+        },
+        {
+          "link": {
+            "href": "/foundations/design-tokens/overview",
+            "aria_label": null,
+            "label": null,
+            "open_new_window": false
+          },
+          "thumbnail_image": {
+            "width": 1801,
+            "height": 901,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/547ce42263927d36187a50a3a20f6f0ef3951e1d81473591d70692992c4762ee14afd9e3a0c90a3ae7cd5f46137d1df24659d94b564bb7f4436b339177515456",
+            "url": "/lh3.googleusercontent.com/3qHtqBY1lR0fp4IxXE72CAKXIv2VRSaYaAxYv7AmbLieFpnFw8_sBAxOoG8RwSWGJE7ErO6kIVrkZ_UrJMh86vxAmYkiF-ug6jmqKGM4UOsQTVga2w"
+          },
+          "title": "Design tokens",
+          "overline": null,
+          "description": "Tokens store style values like colors and fonts so the same values can be used across designs, code, tools, and platforms.",
+          "icon": null,
+          "size": "medium",
+          "background_image": {}
+        },
+        {
+          "link": {
+            "href": "/foundations/interaction-states",
+            "aria_label": null,
+            "label": null,
+            "open_new_window": false
+          },
+          "thumbnail_image": {
+            "width": 1801,
+            "height": 900,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/0cac3b17936fd5c7536eb8d9be4031472e3bd40544090d732cd0b4328147bc85491b96602f26ff5fd3b457cb80da1bc2ed886e0a01335827d80850f67b579895",
+            "url": "/lh3.googleusercontent.com/1qunnpRZ_uridw9L8XI8RRKyRMHQ5npx4F4fFywzZpneckwd8T_t1WDhDu2ZbPlIV0XmauzfANMGJSb3VDBiB7sFxiFhiU7rSX3BQQhC5KY1UYjXPD8"
+          },
+          "title": "Interaction states",
+          "overline": null,
+          "description": "States are visual indicators used to communicate the status of a component or interactive element.",
+          "icon": null,
+          "size": "medium",
+          "background_image": {}
+        },
+        {
+          "link": {
+            "href": "/foundations/glossary",
+            "aria_label": null,
+            "label": null,
+            "open_new_window": false
+          },
+          "thumbnail_image": {
+            "width": 1801,
+            "height": 900,
+            "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/cfd267adf59d2d969e088f196979ae3a4ff6b7b8fc8aafb67fb8a8fb595de35df5902aa7468d0a42e6cbbe4b27f279c3669861671eadf8f9cfe1bdf8e023df46",
+            "url": "/lh3.googleusercontent.com/xA-uPF7vBzResUgmqwRGdzQfpLI7THZNLhC5wrEe5d_4H_zLYR3FeO1A_ADSCefvvtvoM9QMB4Jt6pr3x0gqs2QuXN1Xd_iIz38qDPvd3jlkSlfZCA"
+          },
+          "title": "Material A-Z",
+          "overline": null,
+          "description": "Get to know the key terms and concepts behind Material, from A to Z.",
+          "icon": null,
+          "size": "medium",
+          "background_image": {}
+        }
+      ]
+    }
+  ],
+  "page_hero": {
+    "video_file": {},
+    "foreground_image_svg": null,
+    "foreground_text_light": false,
+    "foreground_image_dark_mode": {},
+    "title": "Foundations",
+    "resources": [],
+    "foreground_image_alignment": "top",
+    "full_width": true,
+    "description": "Foundations inform the basis of any great user interface, from accessibility standards to essential patterns for layout and interaction.",
+    "full_width_content_centered": false,
+    "ctas": [],
+    "main_background_image": {
+      "width": 8092,
+      "height": 8092,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/0b4ba2b4a3de6928b1cecdfdba62e811d9aad0ac6af7e46fb7355722e153d625c0d085c34dbfef27e5e48f9d000038efef1aa95f569e09fbcf1b5aec5441ced9",
+      "url": "/lh3.googleusercontent.com/D3-OahttrL-yH62XV-Ss1HzQWT1RaCeAowh_b24TSPUbfilOv559cGrzrExTklxin0oOrZ4RlyPYe85coUMZDSTCqgMOlsofyLm3RKFzhwONddZRf8X_"
+    },
+    "split_background_image": {},
+    "foreground_image": {},
+    "main_background_image_dark_mode": {
+      "width": 8092,
+      "height": 8092,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/1d8370d54e69065b77d64e4dd14dc679c9bc770328b159c51362196d8eb0c9a00427d84c7825778e31306b5edda709fb60f878eabc9bf82171807141e0433b96",
+      "url": "/lh3.googleusercontent.com/U8dSUmCjiqUZmZoCxzBZ5oGBCqCVipJvghZZDUfRgErjMa_UKYWEAU4TwlArCrW_TLDzfuIE08tirIROhJ8OZDsFZf8DK4p7pam74PGvtqBiE0ES2gI"
+    },
+    "foreground_image_svg_dark_mode": {},
+    "split_background_image_dark_mode": {}
+  },
+  "page_title": "Foundations",
+  "metadata": {
+    "keywords": null,
+    "share_image": {
+      "width": 1200,
+      "height": 630,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_afe1c09badda4334aead178cd23388cf_/fd6b27911e384a0b054c55e2b7a046aac283a7266d1bfd8c9da22030095dc0f84fd78919834007400695a662329b16b67e310c4a052eb405881f6c56afee1cd5",
+      "url": "/lh3.googleusercontent.com/CdbdmxXjzdei2o3jdJKT_0646sh9t7LzeJGBzlrFzOTykvVqBhcCFPC3O9BYgBPqPijMMWEmoZXK1-yG_Hd4xBb3FRosXLsyg1n7eqP7IyKtAPwkPgU"
+    },
+    "share_description": "Foundations inform the basis of any great user interface, from accessibility standards to essential patterns for layout and interaction.",
+    "share_title": "Foundations \u2014 Material Design 3"
+  },
+  "document_id": "6728008782184448"
+}

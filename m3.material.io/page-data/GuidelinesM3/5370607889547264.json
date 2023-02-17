@@ -1,1 +1,68 @@
-{"dark_component_image_2x1": {}, "title": "Accessibility", "dark_component_image_3x2": {}, "dark_component_image_3x1": {}, "component_image_2x1": {}, "component_image_1x1": {}, "metadata": {"share_description": "Accessible design enables users with diverse abilities to navigate, understand, and enjoy a UI.", "keywords": null, "share_image": {"url": "https://lh3.googleusercontent.com/ycEvtWzP1jcK7Sn8-1acz8BFyAsZlR-J5oBEttAtenMiDbiPDm2fR-Prmwg8HARAcfyh2ZgW2vHzQUFlufofy7OuX0llNl_MBNTaVg0Ee0J_uCW0HA", "width": 4800, "height": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/afb76aa9ea1621452754bf1c28c5ddd93b93752c30f9fb58d346f8d745f13030703f834c8e25a6c0fa6ccd6ad933b19433d2089fdda8f63cbc94332d618a666b"}, "share_title": "Accessibility \u2013 Material Design 3"}, "isDisplayed": true, "description": null, "document_id": "5370607889547264", "category": null, "jetpack": {}, "ia_title": "Foundations / Accessibility", "component_image_position": "center", "hero": {"background_image": {"url": "https://lh3.googleusercontent.com/DpkMGUmUdEnzp8tZ9YSvQQnqOfpBNJlgoYC9KKQWLVexeqqYe-nxuyuqIHklnKoRRKtIhpv0n69vwAT-h0d5jYFe3BAeNHIuTNMQIx5spS2jX96ecg", "width": 2400, "height": 800, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/d607c57133cac48892c1ba1d1c9c814dca681b18012f8a2e16a47048431cd9cc0c928eb4b5f62b30193f49bc66e15ff36e371ffc53be8da3988e620d2676dc59"}, "foreground_image_alignment": "top", "foreground_image_svg": null, "foreground_text_light": true, "foreground_image": {}}, "mdc_web": {}, "page_hero": {"split_background_image_dark_mode": {}, "foreground_image_1x1": {}, "full_width": true, "main_background_image_dark_mode": {"url": "https://lh3.googleusercontent.com/m8am03OY7pwMPiYPLQ4K1PimDBzWIv49tLkS5ilqBfI4GadhofpAikaOP7bfmxeLWQHIL1dan7DU8wW0ob5w1s2NKf9CXJqkkehN--SM8ROC-ZzgKA", "width": 4800, "height": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/f9ca1bcb2ef7491438894dbf823d41454699251365cc0e386e839d2cc9adcf64b6daab1c623c125002fbd0e5d5962cb9655f7f71e38254df2fd2a16645467ec4"}, "foreground_image_2x1": {}, "vertical_foreground_alignment_override": null, "foreground_image_2x1_dark_mode": {}, "horizontal_foreground_alignment_override": null, "foreground_image_1x1_dark_mode": {}, "split_background_image": {}, "full_width_content_centered": false, "main_background_image": {"url": "https://lh3.googleusercontent.com/_CUhJ8LwfaLYy-56RqbQy6CVZDoeXkQdqRpnRjUnksK6kJOIiGkSqQFdxZUXW3KqBuXSlZx9z2xjFkJyDrIKGmXF2dK7E6ZtMjQzVx69_56mR5OAU0s", "width": 4800, "height": 2400, "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/74d38ceb3e22168c8d98311201df169bfa8122317e17d9f431c2a954f111c0afecd33122551abfdf4d237fd27d4d22f64f335db45ea60797dba02e0cf87a6131"}}, "mdc_flutter": {}, "component_image_3x1": {}, "component_image_3x2": {}, "mdc_android": {}, "dark_component_image_1x1": {}}
+{
+  "dark_component_image_2x1": {},
+  "title": "Accessibility",
+  "dark_component_image_3x2": {},
+  "dark_component_image_3x1": {},
+  "component_image_2x1": {},
+  "component_image_1x1": {},
+  "metadata": {
+    "share_description": "Accessible design enables users with diverse abilities to navigate, understand, and enjoy a UI.",
+    "keywords": null,
+    "share_image": {
+      "url": "/lh3.googleusercontent.com/ycEvtWzP1jcK7Sn8-1acz8BFyAsZlR-J5oBEttAtenMiDbiPDm2fR-Prmwg8HARAcfyh2ZgW2vHzQUFlufofy7OuX0llNl_MBNTaVg0Ee0J_uCW0HA",
+      "width": 4800,
+      "height": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/afb76aa9ea1621452754bf1c28c5ddd93b93752c30f9fb58d346f8d745f13030703f834c8e25a6c0fa6ccd6ad933b19433d2089fdda8f63cbc94332d618a666b"
+    },
+    "share_title": "Accessibility \u2013 Material Design 3"
+  },
+  "isDisplayed": true,
+  "description": null,
+  "document_id": "5370607889547264",
+  "category": null,
+  "jetpack": {},
+  "ia_title": "Foundations / Accessibility",
+  "component_image_position": "center",
+  "hero": {
+    "background_image": {
+      "url": "/lh3.googleusercontent.com/DpkMGUmUdEnzp8tZ9YSvQQnqOfpBNJlgoYC9KKQWLVexeqqYe-nxuyuqIHklnKoRRKtIhpv0n69vwAT-h0d5jYFe3BAeNHIuTNMQIx5spS2jX96ecg",
+      "width": 2400,
+      "height": 800,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/d607c57133cac48892c1ba1d1c9c814dca681b18012f8a2e16a47048431cd9cc0c928eb4b5f62b30193f49bc66e15ff36e371ffc53be8da3988e620d2676dc59"
+    },
+    "foreground_image_alignment": "top",
+    "foreground_image_svg": null,
+    "foreground_text_light": true,
+    "foreground_image": {}
+  },
+  "mdc_web": {},
+  "page_hero": {
+    "split_background_image_dark_mode": {},
+    "foreground_image_1x1": {},
+    "full_width": true,
+    "main_background_image_dark_mode": {
+      "url": "/lh3.googleusercontent.com/m8am03OY7pwMPiYPLQ4K1PimDBzWIv49tLkS5ilqBfI4GadhofpAikaOP7bfmxeLWQHIL1dan7DU8wW0ob5w1s2NKf9CXJqkkehN--SM8ROC-ZzgKA",
+      "width": 4800,
+      "height": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/f9ca1bcb2ef7491438894dbf823d41454699251365cc0e386e839d2cc9adcf64b6daab1c623c125002fbd0e5d5962cb9655f7f71e38254df2fd2a16645467ec4"
+    },
+    "foreground_image_2x1": {},
+    "vertical_foreground_alignment_override": null,
+    "foreground_image_2x1_dark_mode": {},
+    "horizontal_foreground_alignment_override": null,
+    "foreground_image_1x1_dark_mode": {},
+    "split_background_image": {},
+    "full_width_content_centered": false,
+    "main_background_image": {
+      "url": "/lh3.googleusercontent.com/_CUhJ8LwfaLYy-56RqbQy6CVZDoeXkQdqRpnRjUnksK6kJOIiGkSqQFdxZUXW3KqBuXSlZx9z2xjFkJyDrIKGmXF2dK7E6ZtMjQzVx69_56mR5OAU0s",
+      "width": 4800,
+      "height": 2400,
+      "file_path": "_f68a99ffe9144467a917320028f1ce3b_/_be877ab23edb4a39be610a57a771c69d_/74d38ceb3e22168c8d98311201df169bfa8122317e17d9f431c2a954f111c0afecd33122551abfdf4d237fd27d4d22f64f335db45ea60797dba02e0cf87a6131"
+    }
+  },
+  "mdc_flutter": {},
+  "component_image_3x1": {},
+  "component_image_3x2": {},
+  "mdc_android": {},
+  "dark_component_image_1x1": {}
+}
